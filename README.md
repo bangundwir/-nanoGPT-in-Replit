@@ -1,0 +1,4 @@
+🌟 To learn more about how to train your own ML models in Replit, sign up to the **[Replit x Weights & Biases Hackathon](https://machine-learning-hackathon.replit-community.repl.co/)** from February 4th - 11th 🌟  **GPU Powered - When your fork this repl make sure to turn on the GPU option in your repl settings**  Weights & Biases is a machine learning experiment tracking, model checkpointing and data visualisation tool used by over 200,000 ML practitioners across the world.  This repl will fine-tune a GPT2 model on Shakespeare using Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT/)  project  **Sign up to [Weights & Biases here](https://wandb.ai/site?utm_source=replit&utm_medium=code&utm_campaign=nanogpt_repl) to get started!**
+
+nano gpt 
+  https://github.com/karpathy/nanoGPT/

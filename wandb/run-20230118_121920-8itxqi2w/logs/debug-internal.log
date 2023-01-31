@@ -1,0 +1,172 @@
+2023-01-18 12:19:20,771 INFO    StreamThr :1095 [internal.py:wandb_internal():87] W&B internal server running at pid: 1095, started at: 2023-01-18 12:19:20.770463
+2023-01-18 12:19:20,775 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status
+2023-01-18 12:19:20,777 INFO    WriterThread:1095 [datastore.py:open_for_write():85] open: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/run-8itxqi2w.wandb
+2023-01-18 12:19:20,780 DEBUG   SenderThread:1095 [sender.py:send():334] send: header
+2023-01-18 12:19:20,780 DEBUG   SenderThread:1095 [sender.py:send():334] send: run
+2023-01-18 12:19:20,931 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: check_version
+2023-01-18 12:19:20,934 INFO    SenderThread:1095 [dir_watcher.py:__init__():216] watching files in: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files
+2023-01-18 12:19:20,934 INFO    SenderThread:1095 [sender.py:_start_run_threads():1065] run started: 8itxqi2w with start time 1674044360.764531
+2023-01-18 12:19:20,934 DEBUG   SenderThread:1095 [sender.py:send_request():361] send_request: summary_record
+2023-01-18 12:19:20,935 INFO    SenderThread:1095 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-18 12:19:20,935 DEBUG   SenderThread:1095 [sender.py:send_request():361] send_request: check_version
+2023-01-18 12:19:21,028 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: run_start
+2023-01-18 12:19:21,040 DEBUG   HandlerThread:1095 [system_info.py:__init__():31] System info init
+2023-01-18 12:19:21,040 DEBUG   HandlerThread:1095 [system_info.py:__init__():46] System info init done
+2023-01-18 12:19:21,040 INFO    HandlerThread:1095 [system_monitor.py:start():151] Starting system monitor
+2023-01-18 12:19:21,041 INFO    SystemMonitor:1095 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2023-01-18 12:19:21,041 INFO    HandlerThread:1095 [system_monitor.py:probe():172] Collecting system info
+2023-01-18 12:19:21,042 INFO    SystemMonitor:1095 [interfaces.py:start():168] Started cpu
+2023-01-18 12:19:21,043 INFO    SystemMonitor:1095 [interfaces.py:start():168] Started disk
+2023-01-18 12:19:21,044 INFO    SystemMonitor:1095 [interfaces.py:start():168] Started gpu
+2023-01-18 12:19:21,045 INFO    SystemMonitor:1095 [interfaces.py:start():168] Started memory
+2023-01-18 12:19:21,046 INFO    SystemMonitor:1095 [interfaces.py:start():168] Started network
+2023-01-18 12:19:21,057 DEBUG   HandlerThread:1095 [system_info.py:probe():195] Probing system
+2023-01-18 12:19:21,069 DEBUG   HandlerThread:1095 [git.py:repo():40] git repository is invalid
+2023-01-18 12:19:21,069 DEBUG   HandlerThread:1095 [system_info.py:probe():241] Probing system done
+2023-01-18 12:19:21,069 DEBUG   HandlerThread:1095 [system_monitor.py:probe():181] {'os': 'Linux-5.15.0-1027-gcp-x86_64-with', 'python': '3.8.12', 'heartbeatAt': '2023-01-18T12:19:21.057332', 'startedAt': '2023-01-18T12:19:20.745271', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'main.py', 'codePath': 'main.py', 'host': '6b93d8a1678d', 'username': 'runner', 'executable': '/home/runner/nanoGPT-in-Replit/venv/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2299.998, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1639.7619400024414, 'used': 41.55827331542969}, 'gpu': 'Tesla K80', 'gpu_count': 1, 'gpu_devices': [{'name': 'Tesla K80', 'memory_total': 11997020160}], 'memory': {'total': 102.17521667480469}}
+2023-01-18 12:19:21,070 INFO    HandlerThread:1095 [system_monitor.py:probe():182] Finished collecting system info
+2023-01-18 12:19:21,070 INFO    HandlerThread:1095 [system_monitor.py:probe():185] Publishing system info
+2023-01-18 12:19:21,070 DEBUG   HandlerThread:1095 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-01-18 12:19:21,071 DEBUG   HandlerThread:1095 [system_info.py:_save_pip():67] Saving pip packages done
+2023-01-18 12:19:21,071 DEBUG   HandlerThread:1095 [system_info.py:_save_code():89] Saving code
+2023-01-18 12:19:21,072 DEBUG   HandlerThread:1095 [system_info.py:_save_code():110] Saving code done
+2023-01-18 12:19:21,073 INFO    HandlerThread:1095 [system_monitor.py:probe():187] Finished publishing system info
+2023-01-18 12:19:21,092 DEBUG   SenderThread:1095 [sender.py:send():334] send: files
+2023-01-18 12:19:21,092 INFO    SenderThread:1095 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2023-01-18 12:19:21,093 INFO    SenderThread:1095 [sender.py:_save_file():1319] saving file code/main.py with policy now
+2023-01-18 12:19:21,103 DEBUG   SenderThread:1095 [sender.py:send():334] send: telemetry
+2023-01-18 12:19:21,106 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: stop_status
+2023-01-18 12:19:21,113 DEBUG   SenderThread:1095 [sender.py:send_request():361] send_request: stop_status
+2023-01-18 12:19:21,362 INFO    Thread-16 :1095 [upload_job.py:push():143] Uploaded file /tmp/tmp_bvv57n0wandb/5omvf4mu-wandb-metadata.json
+2023-01-18 12:19:21,392 INFO    Thread-17 :1095 [upload_job.py:push():143] Uploaded file /tmp/tmp_bvv57n0wandb/pfmt6o4x-code/main.py
+2023-01-18 12:19:21,936 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/requirements.txt
+2023-01-18 12:19:21,936 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:19:21,937 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/wandb-summary.json
+2023-01-18 12:19:21,937 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/code/main.py
+2023-01-18 12:19:21,937 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/wandb-metadata.json
+2023-01-18 12:19:21,937 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/code
+2023-01-18 12:19:23,936 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:19:26,171 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:19:31,172 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:19:36,099 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:19:36,174 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:19:41,100 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:19:41,175 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:19:46,102 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:19:46,176 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:19:51,103 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:19:51,182 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:19:51,955 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/config.yaml
+2023-01-18 12:19:56,104 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:19:56,408 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:01,105 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:01,409 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:06,107 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:06,410 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:11,108 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:11,412 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:16,109 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:16,413 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:21,047 DEBUG   SystemMonitor:1095 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2023-01-18 12:20:21,049 DEBUG   SenderThread:1095 [sender.py:send():334] send: stats
+2023-01-18 12:20:21,110 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:22,050 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:26,111 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:27,051 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:31,112 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:32,052 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:36,114 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:37,053 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:41,115 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:41,992 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:20:42,423 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:46,116 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:47,424 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:51,050 DEBUG   SenderThread:1095 [sender.py:send():334] send: stats
+2023-01-18 12:20:51,117 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:53,051 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:20:56,119 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:20:58,052 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:01,120 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:03,054 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:06,121 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:08,312 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:10,012 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:21:11,122 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:13,313 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:16,123 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:18,314 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:21,051 DEBUG   SenderThread:1095 [sender.py:send():334] send: stats
+2023-01-18 12:21:21,125 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:24,052 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:26,126 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:29,054 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:31,127 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:34,056 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:36,032 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:21:36,128 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:39,591 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:41,130 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:44,592 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:46,131 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:49,593 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:51,052 DEBUG   SenderThread:1095 [sender.py:send():334] send: stats
+2023-01-18 12:21:51,132 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:21:55,054 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:21:56,134 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:00,055 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:01,135 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:02,007 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: log_artifact
+2023-01-18 12:22:02,007 DEBUG   SenderThread:1095 [sender.py:send_request():361] send_request: log_artifact
+2023-01-18 12:22:02,058 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/media/table/table/gen_0_a06ed9ef4a3a80887e32.table.json
+2023-01-18 12:22:02,058 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/media/table/table
+2023-01-18 12:22:02,059 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/media/table
+2023-01-18 12:22:02,059 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_created():275] file/dir created: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/media
+2023-01-18 12:22:02,135 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: partial_history
+2023-01-18 12:22:02,377 INFO    Thread-18 :1095 [upload_job.py:push():143] Uploaded file /tmp/tmp_bvv57n0wandb/g3f0h6f7-media/table/table/gen_0_a06ed9ef4a3a80887e32.table.json
+2023-01-18 12:22:02,692 INFO    Thread-20 :1095 [upload_job.py:push():101] Uploaded file /home/runner/.local/share/wandb/artifacts/staging/tmphpt18n74
+2023-01-18 12:22:03,276 INFO    SenderThread:1095 [sender.py:send_request_log_artifact():1379] logged artifact run-8itxqi2w-tablegen - {'id': 'QXJ0aWZhY3Q6MzMxMDkzNTQ4', 'digest': '7957d02f5f3295d5627fa55c9472ed92', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQ5OTM2ODIw', 'latestArtifact': None}, 'version': 'latest'}
+2023-01-18 12:22:03,276 DEBUG   SenderThread:1095 [sender.py:send():334] send: files
+2023-01-18 12:22:03,276 INFO    SenderThread:1095 [sender.py:_save_file():1319] saving file media/table/table/gen_0_a06ed9ef4a3a80887e32.table.json with policy now
+2023-01-18 12:22:03,277 DEBUG   SenderThread:1095 [sender.py:send():334] send: history
+2023-01-18 12:22:03,278 DEBUG   SenderThread:1095 [sender.py:send_request():361] send_request: summary_record
+2023-01-18 12:22:03,279 INFO    SenderThread:1095 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2023-01-18 12:22:03,602 INFO    Thread-21 :1095 [upload_job.py:push():143] Uploaded file /tmp/tmp_bvv57n0wandb/3yti1w62-media/table/table/gen_0_a06ed9ef4a3a80887e32.table.json
+2023-01-18 12:22:04,060 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:22:04,061 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/wandb-summary.json
+2023-01-18 12:22:05,230 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:06,062 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:22:06,137 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:08,064 INFO    Thread-13 :1095 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/files/output.log
+2023-01-18 12:22:10,234 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:11,138 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:15,235 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:16,139 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:20,236 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:21,055 DEBUG   SenderThread:1095 [sender.py:send():334] send: stats
+2023-01-18 12:22:21,140 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:26,057 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:26,142 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:31,058 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:31,143 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:36,059 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:36,144 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:41,060 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:41,146 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:46,061 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:46,147 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:51,056 DEBUG   SenderThread:1095 [sender.py:send():334] send: stats
+2023-01-18 12:22:51,152 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: keepalive
+2023-01-18 12:22:52,057 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:22:57,058 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:23:02,060 DEBUG   HandlerThread:1095 [handler.py:handle_request():144] handle_request: status_report
+2023-01-18 12:23:05,178 ERROR   memory    :1095 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=1007)
+2023-01-18 12:23:05,179 ERROR   memory    :1095 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=1007)
+2023-01-18 12:23:05,190 ERROR   cpu       :1095 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=1007)
+2023-01-18 12:23:05,191 ERROR   cpu       :1095 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=1007)
+2023-01-18 12:23:06,008 WARNING StreamThr :1095 [internal.py:is_dead():415] Internal process exiting, parent pid 1007 disappeared
+2023-01-18 12:23:06,008 ERROR   StreamThr :1095 [internal.py:wandb_internal():153] Internal process shutdown.
+2023-01-18 12:23:06,060 INFO    SenderThread:1095 [sender.py:finish():1491] shutting down sender
+2023-01-18 12:23:06,061 INFO    WriterThread:1095 [datastore.py:close():299] close: /home/runner/nanoGPT-in-Replit/wandb/run-20230118_121920-8itxqi2w/run-8itxqi2w.wandb
+2023-01-18 12:23:06,061 INFO    HandlerThread:1095 [handler.py:finish():841] shutting down handler
+2023-01-18 12:23:06,093 INFO    MainThread:1095 [internal.py:handle_exit():77] Internal process exited

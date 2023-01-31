@@ -1,0 +1,18 @@
+{
+  "files": {
+    "nanoGPT/train.py": [
+      {
+        "id": "945416a8-0e61-42df-8e11-4867efdc1f69",
+        "line": 326,
+        "version": 1,
+        "index": 12854
+      },
+      {
+        "id": "8deb0c50-14c1-4a47-b330-7d020c6ebea4",
+        "line": 335,
+        "version": 1,
+        "index": 13432
+      }
+    ]
+  }
+}

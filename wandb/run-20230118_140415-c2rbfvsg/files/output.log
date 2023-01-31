@@ -1,0 +1,44 @@
+starting training...
+estimating train and val loss...
+step 0: train loss 4.2676, val loss 4.1401
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+To be or not to be. The notion of doing something is easy to sustain for so many people in the United States. And it's not really something that can be addressed by an individual, nor by a government. It's a matter of choice.
+We're dealing with an individual who is 100 percent happy and he wants to take care of his family, and he's a family man, and I'll say this, he is involved in a family with a lot of friends. And in his life he's made an effort to help other people and to deal with his situation. He's always been a kind guy. I think it's really important that we take somebody who is engaged and has an interest in his role, to come in and learn from him. And that's what I've tried to do.
+And our course of action is in this -- our answer is, unfortunately, we don't have the option, but we do have the option of having a few of our elected officials come together and make an effort to recognize that we have a problem with free speech.
+SEN. RUBIO: Thanks, Mr. Speaker.
+GOV. RODNEY: I'll be here. Thank you, Mr. Chairman
+---------------
+To be or not to be a professional athlete or a professional athlete, if you don't want to compete, you don't have to compete at all.
+But it's also worth observing how they're running through training. This is one of the most important issues of the training industry; they want all they can.
+With the time allotted for all of this, they use massive amounts of training resources. They go through training days and weeks and months, training sessions, I mean literally.
+Although this is being talked about as a way to improve your performance, what are the key things people care about on a regular basis?
+My point is to give you an idea of the top athletes that can train as well as the ones who don't.
+Now, let's look at just a few of those athletes.
+Chris Archer
+Chris Archer is a very smart individual, but he's in a different league than most and he has a lot of issues.
+Now that Chris is out of college, he must look at all the coaches and trainers that he's used to, and if he doesn't understand how to work with them, he'll go into some of those training sessions, and then they don't have a
+---------------
+To be or not to be: the following are more abstracts: "Rhetoric, interpretation, and proof. Use the arguments and make clear the meaning and necessity of what you are saying or reading."
+Here are what some of these statements would mean:
+Sheep and goats "are a different species..."
+"Sheep and goats have, in fact, almost always been bred to be intelligent and lively."
+"Sheep and goats both have high bloodlines and very similar minds."
+"Sheep and goats have an extremely intelligent kind of mind."
+"Sheep and goats are usually very sensitive. They tend to be very good at finding things in the house."
+"They are very intelligent and intelligent."
+"Sheep and goats are absolutely docile."
+"Sheep and goats are extremely docile. They're very quick to learn."
+The above statements make one think, "Who says they're docile when they are not."
+If we read carefully it will take us to a point where we can understand what people are saying and how they hold themselves to that. This is where I think I'm most comfortable with the idea of an argument. However, I know
+---------------
+iter 0: loss 4.5276, time 106280.18ms
+Traceback (most recent call last):
+  File "main.py", line 405, in <module>
+    logits, loss = model(X, Y)
+  File "/home/runner/nanoGPT-in-Replit/venv/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/runner/nanoGPT-in-Replit/nanoGPT/model.py", line 145, in forward
+    loss = F.cross_entropy(logits.view(-1, logits.size(-1)), targets.view(-1), ignore_index=-1)
+  File "/home/runner/nanoGPT-in-Replit/venv/lib/python3.8/site-packages/torch/nn/functional.py", line 2996, in cross_entropy
+    return torch._C._nn.cross_entropy_loss(input, target, weight, _Reduction.get_enum(reduction), ignore_index, label_smoothing)

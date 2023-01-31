@@ -1,0 +1,4266 @@
+starting training...
+estimating train and val loss...
+step 0: train loss 4.2597, val loss 4.1095
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be. The notion of doing something is easy to sustain for so long as you don't lose grip on it. The second problem with this approach is that it really doesn't tell you what you should do. It's hard to know what to do when you're not feeling it 100%.
+Instead of worrying about whether what you're doing is right or wrong and whether it's actually wrong, don't worry about how bad it is. It's better to call up a friend or a coworker or a colleague who's trying to say something that's absolutely correct. You know more what to do about it when it's really wrong.
+4. Don't give up hope
+This one's a bit more obvious. I'm not sure if I'm saying all the time that I'm still talking to myself about what I was doing wrong. This is, however, a really basic aspect of doing a good job of being self-aware about your own health and well-being.
+For a long time I was just telling myself that if I could live with the fact that I was suffering, I would be happier. And for a long time, I'd be more happy without it. But now I'm thinking of telling myself it's the right thing to do, and that it's time to do something about it. I've heard people say these things to me and things are doing better, but this is just a prelude to doing a better job of holding on to it.
+The best advice I've ever received from people who have actually been doing this job was this: Don't give up hope. Be honest with yourself. Even though you might have a better attitude about yourself that you're doing well with, you need to be willing to admit you've been wrong.
+Don't be afraid to admit that you've been wrong. You've been wrong about yourself. Be proud to say that you have been wrong about yourself.
+Related: The Best People to Work With
+5. Ditch guilt
+This one's a bit more complicated. First…
+I'm convinced that in a few decades, the world will be a better place. There will be a time when we all realize that our lives are more rewarding in some way. It might be more stressful than it was in the past. It might even be quite awful. We might even be better off today. But until then, there will be times when
+---------------
+ To be or not to be:
+2. There are two categories of alcohol consumption by people who may or may not have consumed alcohol:
+a. Those who use drugs to "buy" or "sell" drugs.
+b. Those who don't use drugs to "buy" or "sell" drugs.
+c. Those who have drunk alcohol and consumed alcohol that is believed to be or was determined to be "comfortable" or "safe."
+d. Those who have not been otherwise able to consume alcohol.
+e. Those who have been "disordered" (I) or "disordered" (II) or (III).
+f. Those who have been "confused or confused" (I) or (II).
+g. Those who do not eat or drink.
+h. Those who are able to eat or drink "too much" or "drunk too much."
+For example, a 17-year-old has a problem with alcohol and suffers from seizures over alcohol consumption. He is unable to swallow and cannot take a cigarette for the next 10 days, only once every 20 hours.
+For example, if he is an 18-year-old, he is not able to swallow the next 20 liters of beer.
+For example, the 9-year-old is unable to swallow a six-litre bottle of milk.
+While this list of alcohol-related problems may be confusing, it does not mean that drinking alcohol is one of them.
+2.1 Alcoholics are the most common group of people not to consume alcohol.
+1. A person who drinks alcohol is not capable of consuming alcohol as a result of the actions that they take to "get drunk."
+2. There are two categories of alcohol consumption by people who may or may not have consumed alcohol:
+a. Those who use drugs to "buy" or "sell" drugs
+b. Those who don't use drugs to "buy" or "sell" drugs
+c. Those who have drunk alcohol and consumed alcohol that is believed to be or was determined to be "comfortable" or "safe."
+d. Those who have not been otherwise able to consume alcohol.
+e. Those who have been "disordered" (I) or (II) or (III).
+For example, a 17-year-old has
+---------------
+ To be or not to be:
+* And she did not have the heart of a man.
+* And she did not know that he was righteous.
+* And she did not know that he was blameless.
+* And she did not understand that he was a thief.
+* And she did not know that he was a viper.
+* And she did not know that he was an ark-bearer.
+* And she did not know that he was an ark-horseman.
+* And she did not understand that he was a demon.
+All this, for the sake of the world, does not hinder her from feeling in a religious sense. She stands before the throne where she will not be judged and judged as she pleased; she lays her hand on the throne and smote the head of her servant, and she does not look at him, but looks at her only. And she will say to him, "When will Myself be judged?" And that is what she will say to him.
+As I shall write, she will indeed feel the law for herself; she will not like to be judged or punished. But she will not worship as an idol, unless she be able to repent and to go on to reach the kingdom of the Lord. But there will be signs in her eyes that will help her to repent of her sins. So too, I shall say before this book shall become a book unto her, through the deeds of those who have done her the wrong. And then she will be judged:
+For She will not be judged just because she had done wrong with them.
+For she will have received the punishment she was destined to, only because she did wrong with them. And when she had done wrong with them, not only did she be punished for her wrong, but she was punished for transgressions.
+Do not give her the wrong stuff, but justify her wrong with the right things.
+Do not beat her and bewitch her; for it is better to be loved than to be shunned, than to hang your head on a pile of ashes and be a sheep.
+They shall punish you, she shall punish you, and she shall punish you with the wrath of Hell.
+Do not beat her and bewitch her, but justify her wrong with her.
+Do not beat her and bewitch her,
+---------------
+iter 0: loss 4.1294, time 143129.58ms
+iter 1: loss 4.3475, time 1687.69ms
+iter 2: loss 4.3452, time 1706.39ms
+iter 3: loss 3.8596, time 1710.77ms
+iter 4: loss 3.6855, time 1709.50ms
+iter 5: loss 4.0102, time 1710.63ms
+iter 6: loss 3.8896, time 1708.77ms
+iter 7: loss 4.2163, time 1701.06ms
+iter 8: loss 3.9989, time 1710.07ms
+iter 9: loss 4.0224, time 1708.21ms
+iter 10: loss 4.0106, time 1704.42ms
+iter 11: loss 4.1157, time 1711.48ms
+iter 12: loss 3.8764, time 1703.57ms
+iter 13: loss 3.9604, time 1714.93ms
+iter 14: loss 3.9450, time 1709.82ms
+iter 15: loss 3.9544, time 1706.11ms
+iter 16: loss 3.8216, time 1705.58ms
+iter 17: loss 3.8941, time 1713.63ms
+iter 18: loss 3.8907, time 1709.24ms
+iter 19: loss 4.0322, time 1706.37ms
+iter 20: loss 4.0197, time 1708.34ms
+iter 21: loss 3.8452, time 1698.51ms
+iter 22: loss 3.9578, time 1706.16ms
+iter 23: loss 3.7693, time 1698.81ms
+iter 24: loss 3.9051, time 1710.48ms
+iter 25: loss 3.9303, time 1702.39ms
+iter 26: loss 3.9975, time 1707.53ms
+iter 27: loss 3.9022, time 1703.86ms
+iter 28: loss 3.6019, time 1708.17ms
+iter 29: loss 3.7174, time 1701.51ms
+iter 30: loss 3.9360, time 1705.61ms
+iter 31: loss 3.9475, time 1708.62ms
+iter 32: loss 3.8789, time 1703.10ms
+iter 33: loss 3.8673, time 1709.27ms
+iter 34: loss 3.8940, time 1705.56ms
+iter 35: loss 3.8568, time 1716.50ms
+iter 36: loss 3.8842, time 1712.95ms
+iter 37: loss 3.8456, time 1707.50ms
+iter 38: loss 3.9848, time 1700.55ms
+iter 39: loss 3.7834, time 1709.67ms
+iter 40: loss 3.8296, time 1703.43ms
+iter 41: loss 3.9957, time 1712.22ms
+iter 42: loss 3.8155, time 1702.01ms
+iter 43: loss 3.7950, time 1703.72ms
+iter 44: loss 3.8288, time 1704.14ms
+iter 45: loss 3.8103, time 1705.92ms
+iter 46: loss 3.7726, time 1711.23ms
+iter 47: loss 3.7094, time 1704.97ms
+iter 48: loss 3.9019, time 1702.81ms
+iter 49: loss 3.9462, time 1699.65ms
+estimating train and val loss...
+step 50: train loss 3.6442, val loss 3.5096
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be:
+A bad man.
+I like this.
+I want to understand.
+No, my prince, no, no, no, no, no.
+O, no.
+No, no, no, no;
+No thing!
+I don't have a new command.
+I suppose I won't be doing a quarter-hundred thousand pounds a year.
+Sixteen years, or eight hundred eight.
+That's a fortune, but it's a very good one.
+I must be told, to a million and a half pounds a year.
+I'll stand my ground.
+Very well, I beg you—
+I'll stand my ground.
+I'll stand my ground.
+No, pardon me, pardon me, pardon me;
+I'll stand my ground.
+And then I'll stand my ground,
+And then I'll stand my ground,
+And then I'll stand my ground.
+And then I'll stand my ground,
+And then I'll stand my ground.
+Ah!
+Do you understand?
+I have no idea how you get your money;
+My children are poor, and they do not care to know what I am doing.
+When my children are poor,
+For I know you are rich.
+When my children are poor,
+I know you are rich, but not so rich.
+Then they are poor.
+But all that I do is what I do.
+And that's where your money is?
+I don't care.
+I don't care, sir;
+I'll never live in my money.
+I'll never be in yours.
+Leave me.
+You can't help me.
+I don't care, sir.
+You're too much rich.
+Give me money,
+For you'll never live well.
+O, oh, dear,
+I'd rather die than be in your pew.
+No, sir;
+I'd rather die than live.
+I like to die.
+Where then are you going now?
+I hope you'll come, sir.
+How shall we go?
+The time is about to come when you are to go.
+——
+——
+Come, sir.
+---------------
+ To be or not to be.
+He saw what was going on,
+and the whole world knew
+this; and all the world cried for his life.
+But God took a look
+on his conscience:
+And he found the truth, and was glad
+to be out of prison.
+***
+No man has tried to say that he was ever unfaithful,
+except by false promise,
+In his heart.
+I'm going to deny this assertion,
+and I'll say that the whole world,
+in the same way,
+has acknowledged it.
+***
+To him who is the enemy of the world,
+who is the man who enchants his way,
+with his thoughts and his desires,
+says the Lord:
+To him who has the power, who has his clothes,
+which is a God who gives him life,
+who is the King in Heaven;
+who is the King through whom all will see
+their works.'
+***
+I shall not tell how he could have made this up,
+but I will show his nature;
+to him who has the power, who has his garments,
+who is the King of Death;
+who is the Lord through whom all will see
+their works.'
+***
+I know the matter well:
+To him who has the power,
+who has his garments,
+who is the Lord through whom all will see
+their works.'
+***
+By writing this, I set the record ready for you,
+to prevent the rest from repeating
+these expressions of yours.
+I may not, therefore, say that I knew the word well.
+I am not at all sure what the word means;
+but it seems to me that it is that which I use,
+that I say, to warn your mind from that which may be,
+and show it to your senses.
+All the world knows, for what power shall he use against me?
+The word of the Lord means, 'I have no power.'
+If I have the power, I shall be vanquished.
+Make no vain effort: for if you are possessed,
+you shall utterly destroy me.
+***
+For you have said the words: 'I do not know,'
+but "what power shall I use against you?"
+I have
+---------------
+ To be or not to be , though I am the same person to whom you are. (This was to be done at the first call of the Lord: for I had been to him already, to the day if he had not taken my hand.)
+(At this time we were talking about the council meeting, and there was a report of the king of France, that he was no longer present; it was of his heart. Therefore he did not send the messenger, but sent two ambassadors, both from Ephraim and the king of France.)
+(Our conversation was interrupted by the king of France, who was with us, and he also went into the chapel, and before going off he told the council of the king of France: to give the oath is to him to make them answer our questions before we come to hear of him; otherwise the prayer and the signs of the prayer would be useless, and I would not have my faith. Then asked who was present with him, and he replied: that he spoke to us, saying that he had already received the king's letter, but that he did not answer it, and that the rest of the time had been only heard of him from his own people.)
+This we took in writing, and he swore it to us, and when we had received him, we took it and buried it in our own tomb, and we then spent the night with him in vain.
+CHAPTER XXIX.
+The God of England.--
+Then came we to a certain house, and there was a man of great bravery and power who had served his master for so long.
+As he stood there and passed the wall. He was not to know the place, as yet, but stood very close to the entrance, and said:
+"I hope you will tell me a little by day, and then, when I am dead, will I die again; and when I am good, I will be gone. I do not go on living that I am a man."
+At this he said:
+"I hope you shall tell me more by the time I am dead."
+Do you enjoy your life, dear king?
+He answered:
+"There is no need to know, for we all know that your life is a matter of life, and I am told by your master that you are in such a state, and that he knows that you are dead
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 50: loss 3.6688, time 148967.68ms
+iter 51: loss 3.9660, time 1708.25ms
+iter 52: loss 3.9512, time 1701.48ms
+iter 53: loss 3.7749, time 1700.03ms
+iter 54: loss 3.7558, time 1712.06ms
+iter 55: loss 3.6000, time 1712.54ms
+iter 56: loss 3.9508, time 1699.34ms
+iter 57: loss 3.7012, time 1715.08ms
+iter 58: loss 3.6390, time 1705.88ms
+iter 59: loss 3.9776, time 1711.72ms
+iter 60: loss 3.7698, time 1711.45ms
+iter 61: loss 3.4283, time 1712.86ms
+iter 62: loss 3.7504, time 1703.21ms
+iter 63: loss 4.0060, time 1710.71ms
+iter 64: loss 3.8962, time 1701.55ms
+iter 65: loss 3.7036, time 1704.88ms
+iter 66: loss 3.7817, time 1704.78ms
+iter 67: loss 3.9062, time 1701.92ms
+iter 68: loss 3.8451, time 1708.82ms
+iter 69: loss 3.9376, time 1714.01ms
+iter 70: loss 3.5683, time 1714.62ms
+iter 71: loss 3.8702, time 1711.44ms
+iter 72: loss 3.8185, time 1702.76ms
+iter 73: loss 3.9589, time 1708.83ms
+iter 74: loss 3.7144, time 1709.35ms
+iter 75: loss 3.8399, time 1704.68ms
+iter 76: loss 3.7269, time 1706.05ms
+iter 77: loss 3.9708, time 1702.62ms
+iter 78: loss 3.8750, time 1699.18ms
+iter 79: loss 3.9207, time 1716.99ms
+iter 80: loss 3.7910, time 1706.28ms
+iter 81: loss 4.0515, time 1710.77ms
+iter 82: loss 3.8136, time 1708.00ms
+iter 83: loss 3.8491, time 1707.30ms
+iter 84: loss 3.4536, time 1709.29ms
+iter 85: loss 3.5787, time 1709.33ms
+iter 86: loss 3.5786, time 1705.53ms
+iter 87: loss 3.7106, time 1710.70ms
+iter 88: loss 3.8672, time 1702.59ms
+iter 89: loss 3.7821, time 1712.57ms
+iter 90: loss 3.6396, time 1710.98ms
+iter 91: loss 3.6270, time 1709.80ms
+iter 92: loss 3.5578, time 1703.82ms
+iter 93: loss 3.6670, time 1712.70ms
+iter 94: loss 3.8637, time 1705.48ms
+iter 95: loss 3.5323, time 1710.73ms
+iter 96: loss 3.7520, time 1708.01ms
+iter 97: loss 3.7884, time 1708.63ms
+iter 98: loss 3.6551, time 1706.38ms
+iter 99: loss 3.6413, time 1709.32ms
+estimating train and val loss...
+step 100: train loss 3.5619, val loss 3.4591
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be? Yet thou art not worthy of those whom I know not.
+SEN:
+As to me, I dost not think the Lord hath made thee worthy.
+MR. LOUISA:
+I am and am not, like the other princes.
+SEN:
+Who knew thee not?
+MR. LOUISA:
+I do not know; then there would be none of your kind.
+SEN:
+And wherefore, lord, tell me the truth?
+MR. LOUISA:
+I have seen but one thing, one thing more; but I do not think thou should have.
+SEN:
+A lie?
+MR. LOUISA:
+Ah, I tell thee, no, thou will not, if thou canst, tell them; let them please themselves with their hearts, and do not mind it.
+SEN:
+No, that is not so; but I could tell none of them.
+MR. LOUISA:
+I will not, for I am well known to be a lass.
+SEN:
+The next day, this friar's acquaintance made him yield, with two presents of his own; and the friar's wife put the flax aside, and gave him his present in his hand.
+MR. LOUISA:
+Then said he:
+'My lord, now I shall tell you a lie before thee.
+The next day came, the friar's wife made him make a lie before him; and as they were in that way, he spoke, saying:
+'My lord, O thee, will not I be so surprised?
+The friar's wife, I say, laid a large bundle of lidded corn and boiled the ground without my consent. Then, I tell you, he made a lie before me, saying:
+'My lord, look not thyself; for it is not in thy hand.'
+Then said he:
+'My lord, look not thyself; for it is not in mine hand.'
+So he did, and as he spoke, he made a lie before him before him before the ground.
+A lie, must you think I cannot bear, thou hast not come what I can tell thee?
+At night, when my lord lies, I see him with a fair
+---------------
+ To be or not to be born: for the first time to-day we shall be upon the earth, and the last shall be upon the earth.
+Psalms
+Thou hast made a great work in thy kingdom,
+And have done good to thy neighbour,
+And have made thy kingdom stand
+Like thy neighbour's,
+And have made thy kingdom stand like your neighbour's.
+St. Peter
+I am a novice: but I keep an eye on what's going
+On, that I may make a mark upon it.
+Bishop
+In this day, the law is not done,
+For all their offices are in keeping.
+St. Peter
+Who spoke more eloquently than I?
+St. Peter
+My lord, my lord, I know not what you mean.
+Bishop
+What?
+Well, by his word.
+King James I
+I speak as a gentleman to men,
+Who speak as gentlemen the better to hold it
+Than do I; but let me call
+My lord; let me call you the better.
+Bishop
+What?
+You will not speak like a gentleman, I fear;
+For, under that light, men will say,
+I am a gentleman, and then I say,
+It hath my honour: a man who doth speak the better.
+St. Peter
+Which of these words, to the lord's voice,
+Is not only a stranger's, but his honour?
+King James I
+Sail the Duke,
+O my lord! I am now a gentleman,
+In respect to common things,
+And a good man and a good man.
+Bishop
+What?
+Here come the new-good captains.
+King James I
+I shall hear your voice:
+Thou mayst go and speak your wish:
+And so shall deliver me to thy king,
+Who will make me king: so mayst go,
+He art my king, I will deliver him:
+I'll give him a good deal of bread; tell him how I am pleased to be king;
+And he shall be pleased with me: is not he?
+St. Peter
+Where will life and death enter?
+King James I
+Now, shall life and death enter, and this
+---------------
+ To be or not to be: it is not necessary to make change; but to be moved by change which forms one and the same.
+Whence do you say:
+The fact is, that all these things are right, and that they are, so long as they are at liberty, or will be, and to the end:
+This is the truth of this matter of the truth of the matter.
+But would you be so bold, and so obstinate, when you said,
+I ought to have made this change my deed, and to have made this change my deed, so that I might have done it for my own ends;
+I would not have made my deed my deed, but I would have done it for my own purposes;
+As I have done it, so now, you would have done me wrong.
+How, then, do you, I wonder, how could I have done it for the benefit of these poor persons, whom we, as anciently acquainted, have been robbed of our freedom, our liberty, our happiness, and our common good,
+And now this poor creature, who speaks!
+Do you, then, know, therefore what I am to do, when I am gone?
+If I am gone, then, therefore, I am gone:
+Is not it at one time, if I am gone, that I cease to be an animal,
+And to stand so ably, that as I am now dead,
+And as I am now dead, I am a human, and not a duke?
+How?
+Why, it is not at their death, in the state of youth,
+That man, who is no froward, is in the state of youth,
+That hath bred a man, to be so feeble as a man hath bred a dog.
+Suppose, then, that man had bred two dogs, but one of them were a dog; and that therefore I by my deed, I did not do it, not for my own sake, but for the sake of your own and mine own.
+I am therefore guilty: My deed, then, is, to be done; for, by this deed, I make one change, and make another change:
+And as I made one change, so I made another change,
+And so, now, now, tell me, how all
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 100: loss 3.7920, time 147552.78ms
+iter 101: loss 3.9013, time 1699.05ms
+iter 102: loss 3.5048, time 1701.48ms
+iter 103: loss 3.8451, time 1709.01ms
+iter 104: loss 3.4161, time 1709.65ms
+iter 105: loss 3.8507, time 1716.17ms
+iter 106: loss 3.7832, time 1703.49ms
+iter 107: loss 3.7521, time 1709.32ms
+iter 108: loss 3.8443, time 1709.37ms
+iter 109: loss 3.5905, time 1708.27ms
+iter 110: loss 3.5990, time 1706.63ms
+iter 111: loss 3.5235, time 1707.53ms
+iter 112: loss 3.8166, time 1705.83ms
+iter 113: loss 3.4692, time 1712.87ms
+iter 114: loss 3.5384, time 1703.72ms
+iter 115: loss 3.7289, time 1712.01ms
+iter 116: loss 3.6409, time 1710.61ms
+iter 117: loss 3.6830, time 1709.38ms
+iter 118: loss 3.5684, time 1704.41ms
+iter 119: loss 3.7592, time 1710.26ms
+iter 120: loss 3.4030, time 1706.37ms
+iter 121: loss 3.8586, time 1719.19ms
+iter 122: loss 3.6907, time 1709.74ms
+iter 123: loss 3.5240, time 1698.43ms
+iter 124: loss 3.6237, time 1712.57ms
+iter 125: loss 3.7742, time 1706.82ms
+iter 126: loss 3.7027, time 1714.64ms
+iter 127: loss 3.7682, time 1715.61ms
+iter 128: loss 3.5755, time 1708.77ms
+iter 129: loss 3.7267, time 1702.25ms
+iter 130: loss 3.5034, time 1711.35ms
+iter 131: loss 3.6733, time 1700.26ms
+iter 132: loss 3.6691, time 1710.89ms
+iter 133: loss 3.5108, time 1705.32ms
+iter 134: loss 3.7883, time 1704.81ms
+iter 135: loss 3.6166, time 1707.93ms
+iter 136: loss 3.7493, time 1704.85ms
+iter 137: loss 3.7059, time 1709.74ms
+iter 138: loss 3.8173, time 1706.17ms
+iter 139: loss 3.7714, time 1701.17ms
+iter 140: loss 3.5737, time 1700.39ms
+iter 141: loss 3.6274, time 1708.22ms
+iter 142: loss 3.9630, time 1701.83ms
+iter 143: loss 3.7227, time 1710.48ms
+iter 144: loss 3.4602, time 1712.58ms
+iter 145: loss 3.5380, time 1713.34ms
+iter 146: loss 3.6666, time 1707.85ms
+iter 147: loss 3.7645, time 1709.84ms
+iter 148: loss 3.3423, time 1702.38ms
+iter 149: loss 3.3734, time 1710.60ms
+estimating train and val loss...
+step 150: train loss 3.5159, val loss 3.4054
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be: an example of a fine and wise man; a mark of a well-bred goodman; for his goodness and goodness of heart.
+GRAMMAR: Sir, what is the nature of the matter?
+WARREN:
+Well, it is a matter of good and bad, of many things. In my life, though I may at some time or another make a good judgment, a very great part of the matter is not my good.
+GRAMMAR: But I am like a man of his time?
+WARREN:
+Nay, I am such a man.
+GRAMMAR:
+Do you not think, Sir, that you have knowledge of things, like great ages, and great people? And if not, what is the science of mankind?
+WARREN:
+I know nothing of it.
+GRAMMAR: How about you?
+WARREN:
+I am glad.
+GRAMMAR:
+O, O, I'll tell you.
+WARREN:
+And you, Captain, you have gone to war, sir, for three months, seventeen of which you were in the militia.
+GRAMMAR:
+What, Captain, which battles you are in?
+WARREN:
+I am glad to have been in your service; but it seems to me that you now lack the memory of war.
+GOTHAM:
+Indeed, sir, I am glad of that.
+WARREN:
+The greater part of the good do suffer; and the lesser part, much less much; but the great part is the good.
+GRAMMAR:
+We know hardly one man by whom I am well; but what of your conduct?
+WARREN:
+I am, sir, in an amiable cause: a cause in which it may be hoped that a good man will be more happy than another.
+GRAMMAR:
+What is the cause of such a love?
+WARREN:
+I say that it is not to be, but I do not know or understand it.
+I may say, sir; but if it is, I shall know it.
+GRAMMAR:
+What do you think of any wars which do feel violence to some?
+WARREN:
+I think they are
+---------------
+ To be or not to be:
+No! his hand is still bound to his body;
+No wonder: the whole of his head is lost,
+He must never be called.
+I, my daughter, would like you to help me.
+TURNER: I'd gladly do so, sir.
+KING ISABELLA:
+What did you say when you spoke of the young man,
+He stands by life?
+TURNER: I did say he stands by life,
+And that would indeed be a good thing.
+KING ISABELLA:
+Say how much better for him than those I did?
+TURNER: Why, he stands by life,
+His eyes open, he smiles, he keeps his face shut.
+KING EMBARRO:
+What, then, did you say when you, sir?
+TURNER:
+My God, I am so glad, like a child, to be dead.
+KING EMBARRO:
+What, then, did you say when you were dead,
+That you would have to kill him,
+That you would not, sir?
+TURNER:
+My God, I am not so much dead as I am dead.
+KING EMBARRO:
+What, then, did you say when you were dead?
+TURNER:
+I am dead.
+KING EMBARRO:
+How do you know?
+TURNER:
+I have been dead; I have been dead.
+KING EMBARRO:
+What, then, did you say when God came?
+TURNER:
+He began to speak this, on the first day of August;
+As if to say, 'Ah! come to the children,
+When we have the children, we will be born to you;
+And if your wife gives you money and no more so,
+And she does not your mother's will, you cannot help but be gone.
+KING EMBARRO:
+How do you know that?
+TURNER:
+I shall use him; I shall use you, sir.
+KING EMBARRO:
+Then tell me, sir, what deed
+Did you do that day?
+TURNER:
+I had a good meal with my wife,
+And what was
+---------------
+ To be or not to be: and, like to be, to be or not to be:
+And yet, to this much I say:
+And yet, to this much you have not said, let me say it:
+And yet, you have not said, let me say it:
+And yet, when I am done, I shall not, for not
+To speak so, of your manner of speaking:
+And yet, to this much I say in this:
+And yet, to this much you have not said, let me say it:
+And yet, when I am done, I shall not, for not only
+To speak so, of your manner of speaking:
+But, when I am done, you shall not, for not
+To speak so, of your manner of speaking:
+But you shall not, for not only
+To speak so, of your manner of speaking:
+Yet, to this much you have not said, let me say it:
+Enough, enough, enough: this much you have not said!
+But, in that you may not speak so, do so.
+WOLFORD RICHARDSON:
+The noble prince, that your grace, your glory,
+And your life, your freedom,
+And your inheritance, shall make you a king,
+And, I hope, a prince of your majesty
+A prince that will not do you any wrong;
+And, I hope, if he had been a prince,
+To have broken his oath, to have broken his
+duty, to have broken his lawful, to have had
+an unjust, to have been condemned to prison:
+And, I hope, if he had been a prince,
+Not to have been condemned to exile:
+And, I hope, if he had been a prince,
+Not to have been condemned to death;
+And, I hope, if he had been a prince,
+To have lived and died;
+And, I hope, if he had lived and died
+To have sung his praises, to have sung his praises:
+And, I hope, if he had lived and died
+To have gone to sleep, and cried the praises of his
+Brotherhood: and, I hope, if he had gone and
+Went to town, and cried the praises of his
+Brotherhood: and
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 150: loss 3.6903, time 146609.14ms
+iter 151: loss 3.5471, time 1699.60ms
+iter 152: loss 3.4414, time 1703.81ms
+iter 153: loss 3.7970, time 1704.90ms
+iter 154: loss 3.6700, time 1702.84ms
+iter 155: loss 3.7317, time 1704.27ms
+iter 156: loss 3.6976, time 1704.52ms
+iter 157: loss 3.6957, time 1703.40ms
+iter 158: loss 3.2256, time 1707.98ms
+iter 159: loss 3.2673, time 1697.50ms
+iter 160: loss 3.4821, time 1699.38ms
+iter 161: loss 3.7788, time 1718.10ms
+iter 162: loss 3.4889, time 1702.56ms
+iter 163: loss 3.6525, time 1713.13ms
+iter 164: loss 3.6499, time 1708.14ms
+iter 165: loss 3.6373, time 1707.75ms
+iter 166: loss 3.6301, time 1704.38ms
+iter 167: loss 3.8482, time 1708.76ms
+iter 168: loss 3.3865, time 1705.37ms
+iter 169: loss 3.6092, time 1711.59ms
+iter 170: loss 3.6004, time 1701.69ms
+iter 171: loss 3.7109, time 1708.44ms
+iter 172: loss 3.8250, time 1708.60ms
+iter 173: loss 3.9526, time 1705.01ms
+iter 174: loss 3.6619, time 1706.57ms
+iter 175: loss 3.4928, time 1705.49ms
+iter 176: loss 3.7511, time 1699.71ms
+iter 177: loss 3.5546, time 1711.22ms
+iter 178: loss 3.8335, time 1708.80ms
+iter 179: loss 3.8095, time 1700.38ms
+iter 180: loss 3.5647, time 1706.53ms
+iter 181: loss 3.8063, time 1700.41ms
+iter 182: loss 3.5376, time 1712.36ms
+iter 183: loss 3.7499, time 1710.89ms
+iter 184: loss 3.5077, time 1710.54ms
+iter 185: loss 3.6643, time 1701.28ms
+iter 186: loss 3.7699, time 1707.34ms
+iter 187: loss 3.7356, time 1704.71ms
+iter 188: loss 3.8120, time 1714.14ms
+iter 189: loss 3.5397, time 1707.29ms
+iter 190: loss 3.5440, time 1703.67ms
+iter 191: loss 3.5932, time 1705.06ms
+iter 192: loss 3.5855, time 1706.29ms
+iter 193: loss 3.4417, time 1711.14ms
+iter 194: loss 3.6726, time 1704.67ms
+iter 195: loss 3.5255, time 1704.41ms
+iter 196: loss 3.5287, time 1704.07ms
+iter 197: loss 3.7217, time 1704.63ms
+iter 198: loss 3.6518, time 1710.16ms
+iter 199: loss 3.6959, time 1705.83ms
+estimating train and val loss...
+step 200: train loss 3.4740, val loss 3.3544
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be;
+The sun hath far set
+A mystery to find,
+A shadow that cannot be proved. For, unspeakable is the truth,
+As one you heard to the wind's hearth:
+And all the heavens are dimmed:
+Yet the sun is coming down, and yet not hearing,
+And are weary.
+LUCIO:
+What do you mean, 'twere
+Prayer for men, and no for women -
+A man might say 'hail'
+Or 'twere, and yet he
+Is not heard:
+Or more than once.
+GLORIUS:
+The sun hath seen you, and yet
+Not seen you;
+So can't you have 'twere?
+Therefore,
+I'll ask you:
+For, behold, in one month,
+The sun hath gone down:
+And yet it towered to you:
+Then towered all night, I'll pray you,
+And night to dawn to dawn;
+Come, and I'll tell you a story:
+For, whose mother
+Hath lived with you not but two?
+LUCIO:
+Her daughter, my dear, my daughter;
+She went away, and in the high air
+Than to you and stood a little.
+This was my common mother's love.
+GLORIUS:
+Now, now, a little as it is,
+The sun's light is to be heard;
+And the hour of my death
+Is near, and yet no more.
+LUCIO:
+Nay, nay, it is in your name.
+GLORIUS:
+O, you too are here with me. I'll tell you,
+If you will not tell me, I'll go out with me;
+And if you will, I'll return to Rome
+and tell you 'twere.'
+GLORIUS:
+O, my gracious brother,
+I'll give you my heart: I'll not bear you to death.
+Pray!'
+O, thou dost trust me,
+Thou hast not the will:
+You'll tell me your heart, and my heart is
+Folio's face; and will I believe it?
+GLORIUS:
+The word is 'love' (I'll tell you what it is,
+---------------
+ To be or not to be
+I am come again, a true wretch that persevered,
+Hath never been the most commonly one.
+MR. EDWARD:
+There is no mystery when I begin with you,
+For in truth I am alone.
+BY MR. CONSTELLAR:
+Oh, and my name is John, a true man?
+BY JOHN THOMAS:
+How did I not know? whence you came?
+Where did you come;
+Have you here?
+BY JOHN THOMAS:
+My father's marriage, by which we became cousins,
+And Edward's father's brother,
+To be by common consent.
+BY JOHN THOMAS:
+Have you not thought that the words 'our common consent'
+Have been common?
+BY JOHN THOMAS:
+I do not think so, sir.
+BY JOHN THOMAS:
+Or why the words 'common consent'
+Are so common?
+BY JOHN THOMAS:
+I do not think so.
+BY JOHN THOMAS:
+Because all consent and no reason,
+What things but common consent should I be,
+Or the more common 'it shall be' and 'by common consent'?
+BY JOHN THOMAS:
+Not a meaning.
+BY JOHN THOMAS:
+A meaning must be given me, sir.
+BY JOHN THOMAS:
+And what, then?
+BY JOHN THOMAS:
+Me?
+BYJOHN THOMAS:
+I think so, sir.
+BY JOHN THOMAS:
+Not at all.
+BY JOHN THOMAS:
+Then I will not set foot on the earth
+To fetch my master's sister.
+BY JOHN THOMAS:
+I am not more than a lord;
+And I shall never be lord of the earth.
+BY John THOMAS:
+You know what a lord is; as you know I am not.
+BY JOHN THOMAS:
+My lord, your lordship;
+You will, but I will not be lord.
+BY JOHN THOMAS:
+Very well, brethren.
+BY WEST LANGLEY:
+Sir, is the lord in this house?
+O brethren, you are, in your days.
+---------------
+ To be or not to be! For none of those is to be.
+The Lord Almighty never said: Whatsoever you shall or h'dleth, do it.
+So, it is as if the Lord Almighty said:
+QUEEN:
+With an iron tongue
+In flesh mine own.
+BY JOHN MARSHALL
+In this book, I shall show you that as the words in the matter,
+What language am I to speak;
+When the Lord Almighty heard
+that I speak, he that the Lord took
+the offence, that he did it,
+And so, being a wrong tongue,
+I speak what I shall speak to the Lord
+And the rest, to the Lord himself,
+And not me. For to be
+more than
+can be understood, can be understood
+though made less; but henceforth
+the word must be drawn from the body of
+that which is, and from which is not;
+For, I remember, the Lord will
+speak
+to his servants and servants' wives, and to all
+his servants' wives.
+It is said to me that these things were
+the affairs of our time, to-morrow, and that he
+has made them to be.
+As I shall speak, I shall think you, and
+will not trouble you.
+And then thou shalt tell me what I shall
+Speak of, and what I shall speak of.
+The Lord Almighty never said: Whatsoever thou shalt
+speak of, do it.
+QUEEN:
+And what thou shall say shall
+be as I speak, and what thou shall say shall
+be as I speak of.
+BY JOHN MARSHALL
+I have seen, and we shall all one another to hear
+what is good and evil in your state;
+But, therefore, be thou quietest about it:
+For, with this knowledge, and with this understanding,
+I'll be sure to find you good, and indeed
+have made you good.
+QUEEN:
+God forbid, my Lord, any harm done to thee.
+BY JOHN MARSHALL
+Alas! God forbid.
+QUEEN:
+Lord! pray to God!
+QUEEN:
+Lord, if thou, with those words,
+seem to speak a word to me,
+I shall speak to thee
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 200: loss 3.4036, time 146748.82ms
+iter 201: loss 3.6793, time 1698.58ms
+iter 202: loss 3.6480, time 1703.53ms
+iter 203: loss 3.7324, time 1708.18ms
+iter 204: loss 3.4697, time 1703.95ms
+iter 205: loss 3.5432, time 1714.48ms
+iter 206: loss 3.5711, time 1709.67ms
+iter 207: loss 3.5854, time 1702.10ms
+iter 208: loss 3.5452, time 1705.31ms
+iter 209: loss 3.4844, time 1708.96ms
+iter 210: loss 3.4549, time 1712.96ms
+iter 211: loss 3.7175, time 1708.11ms
+iter 212: loss 3.5997, time 1703.33ms
+iter 213: loss 3.7390, time 1703.58ms
+iter 214: loss 3.7532, time 1705.26ms
+iter 215: loss 3.4109, time 1699.86ms
+iter 216: loss 3.5923, time 1705.01ms
+iter 217: loss 3.4062, time 1713.12ms
+iter 218: loss 3.6793, time 1704.93ms
+iter 219: loss 3.6540, time 1707.78ms
+iter 220: loss 3.5077, time 1708.59ms
+iter 221: loss 3.5659, time 1706.86ms
+iter 222: loss 3.1520, time 1705.46ms
+iter 223: loss 3.8333, time 1709.09ms
+iter 224: loss 3.4884, time 1709.87ms
+iter 225: loss 3.4269, time 1707.18ms
+iter 226: loss 3.5330, time 1702.05ms
+iter 227: loss 3.5945, time 1711.39ms
+iter 228: loss 3.7232, time 1703.47ms
+iter 229: loss 3.5576, time 1711.27ms
+iter 230: loss 3.7294, time 1710.88ms
+iter 231: loss 3.6502, time 1708.80ms
+iter 232: loss 3.3429, time 1704.16ms
+iter 233: loss 3.6751, time 1706.80ms
+iter 234: loss 3.5453, time 1709.77ms
+iter 235: loss 3.7428, time 1706.89ms
+iter 236: loss 3.5426, time 1710.04ms
+iter 237: loss 3.5000, time 1701.51ms
+iter 238: loss 3.6515, time 1715.70ms
+iter 239: loss 3.3813, time 1709.73ms
+iter 240: loss 3.2924, time 1707.53ms
+iter 241: loss 3.7433, time 1710.80ms
+iter 242: loss 3.3766, time 1712.78ms
+iter 243: loss 3.3851, time 1699.39ms
+iter 244: loss 3.6344, time 1716.12ms
+iter 245: loss 3.7961, time 1702.83ms
+iter 246: loss 3.6966, time 1705.84ms
+iter 247: loss 3.5236, time 1706.76ms
+iter 248: loss 3.4681, time 1706.50ms
+iter 249: loss 3.5330, time 1709.60ms
+estimating train and val loss...
+step 250: train loss 3.4474, val loss 3.3946
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be.
+PAUL:
+O, why in doing so, I might
+hurt thy dreams.
+AUGUSTA:
+I would not care to do so.
+PAUL:
+I knew it well enough to love,
+I love the world very well,
+And am not yet ashamed to express myself in it.
+AUGUSTA:
+Yes, I would do so.
+PAUL:
+Curse thee, I am a terrible fool.
+AUGUSTA:
+He is what he is that blests you, he is
+stupid, he is stupendous and ungrateful.
+PAUL:
+O, come, lie down. I have never seen a man
+much worse in such a state.
+AUGUSTA:
+Why not?
+PAUL:
+I was never so stupendous and ungrateful.
+AUGUSTA:
+I am content to wear the garb and go on.
+PAUL:
+Of course I am. I am thou this.
+AUGUSTA:
+I am not?
+PAUL:
+I am not; that I cannot tell; and I did
+not speak in an untruthful manner to him.
+AUGUSTA:
+You know a man's temper, and yet thou
+st not?
+PAUL:
+Not at all, I have met him before and know him
+very well.
+AUGUSTA:
+Good, then, come, look more closely;
+Come, take your leave.
+PAUL:
+Which you do?
+AUGUSTA:
+I would have it not, for this is my first time
+in this talk; but my father knows well what you
+will do.
+TOMORROW:
+I will do my best to make myself hear,
+What is your uncle's talk?
+PAUL:
+He spoke too well, and more than what you
+should know; but there was no such talk then.
+TOMORROW:
+I will not leave him but to see what you
+Do, and, if you can speak it, he will be all right.
+PAUL:
+If you cannot speak there, then you are a fool.
+---------------
+ To be or not to be, which is, our good friend, is not to be: a man is not to be; but a statue which stands within his frame of life, a man is not: something that, from the external point of view, is not; yet not to be.
+LUCIO:
+Your point is, to be the object of lawlessness.
+PRIEST:
+How?
+PRIEST:
+To serve the purpose of a king and to prove it by reason,
+To lead a noble way by means of a divine power.
+LUCIO:
+To, as if we were slaves in the land;
+To, as if we were slaves in a kingdom,
+To, as if we were slaves in a king.
+PRIEST:
+This is noble, this is bloody, this is just and free.
+LUCIO:
+To be, and not to be.
+PRIEST:
+How?
+LUCIO:
+This is a tyrant.
+PRIEST:
+Why?
+LUCIO:
+Some of the servants of the king, and some of his officers;
+Many, many, many of those who have power,
+The most eminent of them are to be slain; and in such a way are we slain.
+PRIEST:
+And of them?
+LUCIO:
+Of all the dead, with their heads stuck to the ground.
+PRIEST:
+And your body, the living thing still,
+A body which still remains alive,
+With his head hanging there on his body,
+Clips all his limbs, and he is the man you left.
+LUCIO:
+What is the meaning of his death?
+PRIEST:
+I look upon his body as a flesh being,
+For my body is that which is still alive.
+LUCIO:
+The flesh, O sister, which is dead,
+Is still living in so many bodies!
+PRIEST:
+Who, where is he?
+LUCIO:
+He is now dead.
+PRIEST:
+Where is he?
+LUCIO:
+In three parts:
+In the middle between the seat of the king,
+And his heart on the throne.
+PRIEST:
+What
+---------------
+ To be or not to be: I have a gentle soul,
+Like sheep of the sheep that pore,
+And I have a sweet heart, like sheep,
+And now, sir Lord: shall I die?
+A SIXY YEAR OLD:
+Tyrant:
+I have no power of the power
+Since the year after; for I, sir, have no power,
+Even by decree, since the year of my reign,
+How I have been beaten by this mad king.
+BENEDICT II:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king! this my hatred,
+Of my fellow-men:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king! this my hatred,
+Of my fellow-men:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king! this my hatred,
+Of my fellow-men:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king! this my hatred,
+Of my fellow-men:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king! this my hatred,
+Of my fellow-men:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king! this my hatred,
+Of my fellow-men:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king! this my hatred,
+Of my fellow-men:
+He loves me, I would think.
+BENEDICT II:
+He loves me, I would think.
+SIXY YEAR OLD:
+He loves me, I would think.
+BABY:
+O mad king!
+---------------
+iter 250: loss 3.4885, time 142364.29ms
+iter 251: loss 3.6897, time 1702.93ms
+iter 252: loss 3.4240, time 1705.12ms
+iter 253: loss 3.4906, time 1697.88ms
+iter 254: loss 3.4898, time 1708.14ms
+iter 255: loss 3.3935, time 1703.95ms
+iter 256: loss 3.6071, time 1709.46ms
+iter 257: loss 3.6119, time 1705.21ms
+iter 258: loss 3.7475, time 1707.99ms
+iter 259: loss 3.4247, time 1712.32ms
+iter 260: loss 3.4705, time 1708.38ms
+iter 261: loss 3.3343, time 1706.77ms
+iter 262: loss 3.6068, time 1704.23ms
+iter 263: loss 3.5982, time 1700.97ms
+iter 264: loss 3.6925, time 1699.33ms
+iter 265: loss 3.7217, time 1711.06ms
+iter 266: loss 3.4649, time 1698.79ms
+iter 267: loss 3.5504, time 1707.76ms
+iter 268: loss 3.5217, time 1709.34ms
+iter 269: loss 3.6604, time 1703.97ms
+iter 270: loss 3.4665, time 1702.30ms
+iter 271: loss 3.4599, time 1701.58ms
+iter 272: loss 3.3359, time 1703.08ms
+iter 273: loss 3.4860, time 1707.39ms
+iter 274: loss 3.6626, time 1704.99ms
+iter 275: loss 3.5346, time 1695.52ms
+iter 276: loss 3.5838, time 1709.65ms
+iter 277: loss 3.7496, time 1703.22ms
+iter 278: loss 3.5269, time 1705.70ms
+iter 279: loss 3.6158, time 1709.35ms
+iter 280: loss 3.2291, time 1703.71ms
+iter 281: loss 3.4727, time 1704.63ms
+iter 282: loss 3.6526, time 1711.46ms
+iter 283: loss 3.6692, time 1704.94ms
+iter 284: loss 3.4987, time 1703.55ms
+iter 285: loss 3.6755, time 1708.25ms
+iter 286: loss 3.7304, time 1701.14ms
+iter 287: loss 3.6066, time 1707.27ms
+iter 288: loss 3.5587, time 1708.81ms
+iter 289: loss 3.5067, time 1714.03ms
+iter 290: loss 3.5612, time 1709.94ms
+iter 291: loss 3.1421, time 1711.81ms
+iter 292: loss 3.7436, time 1706.84ms
+iter 293: loss 3.4592, time 1713.75ms
+iter 294: loss 3.3968, time 1701.65ms
+iter 295: loss 3.6290, time 1704.36ms
+iter 296: loss 3.6216, time 1709.68ms
+iter 297: loss 3.3876, time 1699.66ms
+iter 298: loss 3.5889, time 1704.98ms
+iter 299: loss 3.4304, time 1705.11ms
+estimating train and val loss...
+step 300: train loss 3.4580, val loss 3.3707
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be; then to be or not to be; then to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be; then not to be or not to be;
+LEGENDARY:
+I am not.
+Mr. MONDON:
+It is not impossible you should be.
+LEGENDARY:
+O, then, the thing is true.
+Mr. MONDON:
+This day is the first day of my life,
+That I have seen and heard and heard
+I do not know for what purpose.
+LEGENDARY:
+Thus the laws of nature and the laws of nature
+Are true, perfect, and constant.
+True, perfect or imperfect.
+To you and me, both
+Each in his species, each in his way
+And each in his nature, each in a way
+As nature itself should be.
+LEGENDARY:
+The sun and moon together.
+MARIO:
+Good heavens,
+---------------
+ To be or not to be:
+He who's a tyrant and a wolf,
+Or corrupt of all his lands:
+As many as kings, as bequeathed
+To his subjects, who came for his love.
+KING HENRY VI OFRINIX:
+Your majesty,
+I beseech you, it is with you most
+That I have set my hand
+Against the so-called king.
+KING HENRY VI OFRINIX:
+What wish'd me there?
+KING HENRY VI OFRINIX:
+What has done me wrong?
+KING HENRY VI OFRINIX:
+Wherefore do I cause an accusation?
+KING HENRY VI OFRINIX:
+Ay, and henceforth, my lord,
+There I stand, and do deliver a sentence.
+KING HENRY VI OFRINIX:
+Madam, go, and tell me the manner in which I am
+Profound.
+KING HENRY VI OFRINIX:
+Oh, madam. I shall, as well do so;
+To the king's courts, and his subjects;
+And to the king's prisons, and his subjects;
+To his subjects that have been taken, and that have been sentenced;
+And to their masters and his subjects,
+Which at any time might be released:
+Now, my lord, I must not be sure
+Which in this world is the most probable.
+KING HENRY VI OFRINIX:
+Madam, I would say, to every king;
+That is what the king's court had in mind.
+KING HENRY VI OFRINIX:
+And we believe in the queen's integrity.
+KING HENRY VI OFRINIX:
+Madam, madam, she is one of the most honest;
+And since she was brought to obedience
+She is in a state of readiness, like a high maid;
+And she may stand shameless, as one who is not like
+An honest maid; but she is the soul of the queen.
+KING HENRY VI OFRINIX:
+Indeed; I pray you, madam, she is not.
+KING HENRY VI OFRINIX:
+Madam, madam! as you fear the queen,
+Tell me whether
+---------------
+ To be or not to be;
+Where the words are not pronounced
+But in the tongue of a plain,
+And whence they are written in this bold
+To make a deep impression;
+And if heaven were better, where are the men
+That have been bred
+To hold our tongues too long?
+KING EDWARD III:
+This is the way of our redemption;
+Thou art that thou were the child of sorrow;
+And thou art a devil that hath taken away
+Our hope;
+For none can save us from his sin.
+KING EDWARD IV:
+But if thou wilt repent,
+If thou wilt be the child of sorrow,
+God pardon thy soul;
+For pardon is our redeemer's guilt;
+If he is the guilty ghost of sorrow,
+Then we shall neither more nor less.
+KING EDWARD IV:
+This is the way of our redemption;
+Thou art that thou were the child of sorrow;
+And thou art a devil that hath taken away
+Our hope;
+Therefore let us bear him not
+The prison of the house of shame:
+And let us bear him not our joys.
+CLARENCE OF CUMBERLAND:
+This is the way of our redemption;
+Thou art that thou were the child of sorrow;
+And thou art a devil that hath taken away
+Our hope;
+Therefore let us bear him not our joys.
+KING EDWARD IV:
+I beseech thee, then!
+Therefore follow my counsel:
+Therefore serve the princely grace;
+I may wither it in the bosom of my soul
+And sleep with it in my blood;
+As thou art the shadow of sorrow.
+CLARENCE OF CUMBERLAND:
+When I call her, I swear I will never speak of her.
+KING EDWARD IV:
+Woe is me!
+For, if thou art the shadow of sorrow,
+Thou art a devil that hath taken away
+Our hope;
+Therefore let us bear him not our joys.
+CLARENCE OF CUMBERLAND:
+Gentlemen, I swear I have no power to lay any
+Duty upon thee;
+A truth in art which beggars comfort,
+And which I am not to blush,
+Upon thee, where I am in this most secret
+Believer.
+KING
+---------------
+iter 300: loss 3.4832, time 142233.56ms
+iter 301: loss 3.6407, time 1703.61ms
+iter 302: loss 3.7367, time 1704.77ms
+iter 303: loss 3.5687, time 1710.68ms
+iter 304: loss 3.3135, time 1704.30ms
+iter 305: loss 3.4494, time 1702.74ms
+iter 306: loss 3.6998, time 1706.84ms
+iter 307: loss 3.7231, time 1709.65ms
+iter 308: loss 3.5299, time 1712.07ms
+iter 309: loss 3.3213, time 1702.70ms
+iter 310: loss 3.6239, time 1703.64ms
+iter 311: loss 3.4269, time 1701.55ms
+iter 312: loss 3.4686, time 1712.08ms
+iter 313: loss 3.1361, time 1701.96ms
+iter 314: loss 3.4318, time 1706.06ms
+iter 315: loss 3.4636, time 1706.22ms
+iter 316: loss 3.5054, time 1704.20ms
+iter 317: loss 3.3139, time 1707.75ms
+iter 318: loss 3.3052, time 1704.27ms
+iter 319: loss 3.7301, time 1707.60ms
+iter 320: loss 3.4955, time 1706.45ms
+iter 321: loss 3.3330, time 1709.30ms
+iter 322: loss 3.7602, time 1702.71ms
+iter 323: loss 3.6578, time 1714.37ms
+iter 324: loss 3.5437, time 1704.52ms
+iter 325: loss 3.4528, time 1708.18ms
+iter 326: loss 3.7276, time 1708.40ms
+iter 327: loss 3.4943, time 1703.41ms
+iter 328: loss 3.7821, time 1711.04ms
+iter 329: loss 3.5662, time 1709.82ms
+iter 330: loss 3.6899, time 1700.46ms
+iter 331: loss 3.5831, time 1706.37ms
+iter 332: loss 3.4159, time 1712.06ms
+iter 333: loss 3.6657, time 1704.19ms
+iter 334: loss 3.5166, time 1711.14ms
+iter 335: loss 3.6155, time 1699.57ms
+iter 336: loss 3.1181, time 1703.67ms
+iter 337: loss 3.4630, time 1703.14ms
+iter 338: loss 3.6621, time 1703.80ms
+iter 339: loss 3.2610, time 1714.27ms
+iter 340: loss 3.6205, time 1708.54ms
+iter 341: loss 3.1480, time 1698.08ms
+iter 342: loss 3.7515, time 1703.46ms
+iter 343: loss 3.5851, time 1706.00ms
+iter 344: loss 3.7186, time 1701.79ms
+iter 345: loss 3.3520, time 1712.10ms
+iter 346: loss 3.2360, time 1709.89ms
+iter 347: loss 3.5446, time 1706.94ms
+iter 348: loss 3.4215, time 1710.88ms
+iter 349: loss 3.5723, time 1710.76ms
+estimating train and val loss...
+step 350: train loss 3.3387, val loss 3.3395
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be, and to be
+A true friend, but yet I have not been
+To take every means to be myself
+A true friend
+Being an honest fellow: but I had
+To have a frank face when I was in a
+fragile
+Fellow in a way, and I hated my
+Brother more than I hated my brother
+Against all common sense.
+OPEN:
+I do think so.
+BRUIS:
+Not that--
+OPEN:
+Not that--
+BRUIS:
+No, but that
+Not that.
+OPEN:
+But is not a friend for the good or ill?
+A friend I would hate--
+BRUIS:
+Not--
+OPEN:
+Not that--
+BRUIS:
+In respect for you I am not
+Uncle that you have wronged me; I am
+Uncle that you have wronged me.
+OPEN:
+And if I love you, why can I stop my
+Adultery?
+BRUIS:
+No, though you have hurt me with your
+Hate, but I have never given you any
+Bad breath.
+OPEN:
+But, let me tell you, yours is an end
+To him, and not to you:
+You have done all of our business,
+And I am fond of all of your
+Hates; you have done all your business,
+And I will perform your service.
+BRUIS:
+Yes, I am fond of them; for I have
+A friend in you, and may well expect him
+To love me in himself.
+OPEN:
+Why then, as you say, it is
+To him?
+BRUIS:
+Because I be honest--
+OPEN:
+Not in private--
+BRUIS:
+Because I am a good gentleman.
+OPEN:
+No, I am not honest in private--
+BRUIS:
+Nay,--
+OPEN:
+And if you are honest, then I do love you.
+BRUIS:
+I love and I pray and pray
+Why could I not love you,
+But if I love you, I love you
+--not only but I love you.
+OPEN:
+Yes
+---------------
+ To be or not to be. And I will not be born in the land of England;
+For, as I shall say, I shall be born in England.
+LUCIO:
+O people who say that!
+BILLINGHAM:
+I'll tell you another's story!
+LUCIO:
+You have the same name, Julius Caesar:
+Says Sicilius, 'tis true;
+And what did you tell him?
+BILLINGHAM:
+He was no man of you;
+He means yourself:
+But he was one of the most depraved enemies of Rome.
+LUCIO:
+You mean himself?
+BILLINGHAM:
+Too proud was he,
+And I mean mine first as well.
+LUCIO:
+What is it? sir?
+BILLINGHAM:
+That you say he was sent in order to have
+Sicilia's brows about a prison.
+LUCIO:
+No, sir! what would you do?
+BILLINGHAM:
+If I was sent in order to have Sicilia's brows
+About a prison.
+LUCIO:
+You'll be sent to Vienna.
+BILLINGHAM:
+If that:
+I will not.
+LUCIO:
+Why not?
+BILLINGHAM:
+That you say it means 'no' in my eyes.
+LUCIO:
+I'll be so.
+BILLINGHAM:
+But of course I am not to be a prisoner,
+Because it is my duty; nor shall my son
+Make himself, nor shall he break his oath.
+LUCIO:
+Men, go, take your leave of me;
+I'll speak your way.
+BILLINGHAM:
+I'll serve you, sir.
+LUCIO:
+Servant!
+PRINCESS OF ROME:
+Madam,
+Good sir, your letter of resignation is the first
+Whereupon I will come to Rome.
+LUCIO:
+You will, sir, take your leave of me.
+PRINCESS OF ROME:
+Sir, you shall not be dismissed.
+LUCIO:
+Nay, sir.
+PRINCESS OF ROME:
+Your brotherly brother, I would tell you now my name:
+---------------
+ To be or not to be
+What I am to be, I shall not be
+Nor shall I be a 'twere. 'Tis
+That I keep at it.
+KING RICHARD II:
+I did make thee a prophecy,
+That I shall tell thee what:
+That if thou be true, thou wilt be
+A true prince: the prince is not to be
+But to be not, as Richard goes to school.
+HENRY ILLUSTRIA:
+I knew not how he, nor if he,
+And never have I in my life
+Turn'd me to the side of reason.
+KING RICHARD II:
+What can I say?
+HENRY ILLUSTRIA:
+My faith is well and true;
+I know not how a prince will know
+The truth of his deeds.
+KING RICHARD II:
+All I know of him is that he has no sons,
+And the prince may in general be thus
+Made to be a prince.
+HENRY ILLUSTRIA:
+Not so.
+KING RICHARD II:
+You shall not be born prince, queen,
+Any more than a queen.
+HENRY ILLUSTRIA:
+What must be the purpose of all that thou hast born?
+KING RICHARD II:
+I do not know;
+But thou art determined: for, as thou art a king,
+You must be wise: nor do I.
+HENRY ILLUSTRIA:
+And then they shall not follow me;
+Therefore for my mother's sake: I am the queen.
+KING RICHARD II:
+I know not; thou art the heir of heaven:
+Thou shalt inherit mine throne;
+And when thou shalt buy me my supper,
+I shall take thee by my chappels.
+HENRY ILLUSTRIA:
+For it shall not be lawful to return I should
+To this place.
+KING RICHARD II:
+Thy husband's death is an unlucky loss,
+Having been a widow, and she, being with thee,
+Did make thee a queen to be revenged.
+HENRY ILLUSTRIA:
+If he will not be so in such an office,
+I will serve him.
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 350: loss 3.5706, time 146621.46ms
+iter 351: loss 3.5332, time 1699.20ms
+iter 352: loss 3.7008, time 1702.64ms
+iter 353: loss 3.3397, time 1704.01ms
+iter 354: loss 3.5998, time 1714.24ms
+iter 355: loss 3.4162, time 1706.46ms
+iter 356: loss 3.4372, time 1708.93ms
+iter 357: loss 3.7440, time 1711.73ms
+iter 358: loss 3.6425, time 1703.01ms
+iter 359: loss 3.6500, time 1704.89ms
+iter 360: loss 3.4716, time 1706.52ms
+iter 361: loss 3.2820, time 1704.19ms
+iter 362: loss 3.2692, time 1709.25ms
+iter 363: loss 3.7003, time 1707.27ms
+iter 364: loss 3.4394, time 1702.79ms
+iter 365: loss 3.3036, time 1706.28ms
+iter 366: loss 3.0993, time 1709.37ms
+iter 367: loss 3.2819, time 1703.32ms
+iter 368: loss 3.7444, time 1711.77ms
+iter 369: loss 3.3557, time 1706.09ms
+iter 370: loss 3.2549, time 1708.88ms
+iter 371: loss 3.3268, time 1705.29ms
+iter 372: loss 3.6136, time 1700.28ms
+iter 373: loss 3.5088, time 1717.69ms
+iter 374: loss 3.6323, time 1706.21ms
+iter 375: loss 3.5163, time 1709.93ms
+iter 376: loss 3.6361, time 1708.53ms
+iter 377: loss 3.6576, time 1713.80ms
+iter 378: loss 3.6879, time 1709.90ms
+iter 379: loss 3.6827, time 1705.65ms
+iter 380: loss 3.4995, time 1708.21ms
+iter 381: loss 3.4899, time 1706.84ms
+iter 382: loss 3.5921, time 1708.31ms
+iter 383: loss 3.4773, time 1703.66ms
+iter 384: loss 3.3891, time 1711.90ms
+iter 385: loss 3.6379, time 1705.48ms
+iter 386: loss 3.5503, time 1714.13ms
+iter 387: loss 3.7552, time 1704.62ms
+iter 388: loss 3.3653, time 1714.67ms
+iter 389: loss 3.6802, time 1708.75ms
+iter 390: loss 3.5068, time 1705.75ms
+iter 391: loss 3.7539, time 1702.11ms
+iter 392: loss 3.1948, time 1705.52ms
+iter 393: loss 3.3736, time 1716.88ms
+iter 394: loss 3.5966, time 1705.21ms
+iter 395: loss 3.5694, time 1707.71ms
+iter 396: loss 3.4072, time 1711.95ms
+iter 397: loss 3.5933, time 1699.86ms
+iter 398: loss 3.1992, time 1708.56ms
+iter 399: loss 3.4233, time 1703.64ms
+estimating train and val loss...
+step 400: train loss 3.3872, val loss 3.3479
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be: wherefore, when thou wert a lie, thou wert a lie.
+TRUMPER:
+I am a lie.
+THE PRESIDENT:
+Tell me, sir, how do you do?
+TRUMPER:
+I come from a country where I have been paid sir, and have been paid a lie.
+PARIS:
+Sir, I do not know why you speak such a word.
+TRUMPER:
+I know that it is not my name. But, if you ask me, I will tell you what I do owe you.
+PARIS:
+Sir, if you do answer me, I will tell you what I have received for it, and why you do.
+TRUMPER:
+I do demand the truth, sir, and why you desire it.
+PARIS:
+Not so, but you will not desire it, Your Lordship.
+TRUMPER:
+No, you do not.
+PARIS:
+I do demand the truth, sir; and why you do so.
+TRUMPER:
+I cannot know your good name: I speak not
+stereotypes, sir, that lie in the eyes of men.
+PARIS:
+Sir, I do not know you: I never did do this with my
+life; and my purpose in life in this manner, I cannot
+tell you, is to conceal myself in it.
+PARIS:
+I confess my name is noble, and I confess my dishonour.
+TRUMPER:
+The letter I receive is in your hands, and upon your
+tribunal's receipt,
+in your absence; and it will assure you what I
+have done. You shall pay my debt to the County of Lancaster,
+and owe me your money.
+PARIS:
+Sir, your letter was written in the summer of this
+month, and now enters in my hands.
+TRUMPER:
+The letter I received is in my hands, and within a
+second of my death the county is in our hands.
+PARIS:
+But the other letter is in your hands.
+TRUMPER:
+The letter I received is in your hands, and within a
+second of my death we are in our hands.
+PARIS:
+For what purpose do you d
+---------------
+ To be or not to be.
+AMBUSH:
+I'll come, sir.
+JUDGMENT:
+Is it a gentleman?
+AMBUSH:
+No; and yet I think I will, that God's approbation shall be heaven's love, and see every man's wife, or any woman, serve as good as her
+presence; for I see it is in her grace that she reigns; so that grace may be what the world
+stands with,
+as well to the world's happiness as with God's grace.
+JUDGMENT:
+What, that's a gentleman?
+AMBUSH:
+I shall not have any wife but in the grace of heaven,
+for I shall not put my law to a knee,
+Nor put my law to a sword, nor keep my grace in a woman's face.
+JUDGMENT:
+You will not say 'I am a gentleman,' I do not say 'I am a gentleman.'
+AMBUSH:
+No:
+Because none shall have a wife unless the good woman
+shall be good.
+JUDGMENT:
+Do you mean that the world is happy with your grace, but that it is angry with your
+justice?
+AMBUSH:
+I do not do so, sir.
+JUDGMENT:
+When I came to the world, I had a husband, by God,
+that must not have a wife; while I never had a husband,
+since my country was not my own;
+who would answer me, Sir, as I do my wife, who
+would the day we married, that God finds me happy?
+I do seem to answer 'I am a gentleman,' sir;
+even in the world's happiness, which God does not manage with,
+due to my grace:
+but I am a virtuous man, and he that makes me a husband
+shall give me a wife, for I do do part of his services
+in my life.
+JUDGMENT:
+You cannot say my grace is offended.
+AMBUSH:
+God hath no cause for this, sir, if you will dare.
+JUDGMENT:
+I beseech you, sir, not to make me happy.
+AMBUSH:
+Why, sir? because there is no
+---------------
+ To be or not to be:
+As though there could be no body but one
+Who was not sinless:
+For to the one's body she is guilty;
+But, as the sinless,
+She is guilty, as the impure:
+And, hence, as if there were no body but one
+Who was not sinless;
+For to the body she is guilty;
+But, again, as though there were not one,
+Who was not impure,
+She is not guilty:
+That is, as if she were a person;
+For she is a person;
+For she is a person; that is, not a mortal
+But a creature, which is sinless.
+BRUNO:
+Then, my lords, if there is no subject, say which
+The other, a mortal, says he is a body:
+Now, my lords, are you the next person?
+BLACKMUNDY:
+I remain at your bedside.
+BRUNO:
+Wherefore, my lord?
+BLACKMUNDY:
+As I may say, I will sit at your bedside.
+BRUNO:
+My lord?
+BLACKMUNDY:
+As I may say, what is your body?
+BRUNO:
+Your body is your being alive; and
+Your body is your being dead.
+BRUNO:
+My lord:
+You cannot be alive unless both are dead;
+Unless both have died together.
+BRIAN:
+Of course:
+Why, my lord; but what is your soul?
+BRUNO:
+My soul is but a part of me;
+Though no soul is alive.
+BRIAN:
+With a part of you living and living other parts dead?
+BRUNO:
+My soul is a part of me dead;
+And a part of me alive; the rest dead;
+As much as part thereof:
+I will be but a part of this dead being
+And a part of this dead being dead.
+BRIAN:
+What, my lord?
+BRIAN:
+I have an object here, my lord;
+This is from a stone:
+And I have a stone; and now you die,
+And I am dead.
+BRUNO:
+---------------
+iter 400: loss 3.5571, time 142308.81ms
+iter 401: loss 3.5957, time 1704.98ms
+iter 402: loss 3.8058, time 1706.45ms
+iter 403: loss 3.4729, time 1709.19ms
+iter 404: loss 3.4443, time 1707.71ms
+iter 405: loss 3.5317, time 1705.79ms
+iter 406: loss 3.7467, time 1707.54ms
+iter 407: loss 3.7837, time 1706.76ms
+iter 408: loss 3.6182, time 1710.64ms
+iter 409: loss 3.6219, time 1706.70ms
+iter 410: loss 3.5455, time 1698.23ms
+iter 411: loss 3.3867, time 1705.94ms
+iter 412: loss 3.1421, time 1700.40ms
+iter 413: loss 3.2478, time 1708.06ms
+iter 414: loss 3.6739, time 1708.62ms
+iter 415: loss 3.4101, time 1702.52ms
+iter 416: loss 3.4757, time 1702.07ms
+iter 417: loss 3.3510, time 1708.44ms
+iter 418: loss 3.4870, time 1708.75ms
+iter 419: loss 3.4610, time 1707.25ms
+iter 420: loss 3.4418, time 1707.75ms
+iter 421: loss 3.3219, time 1702.78ms
+iter 422: loss 3.2413, time 1708.11ms
+iter 423: loss 3.5675, time 1704.78ms
+iter 424: loss 3.5634, time 1711.92ms
+iter 425: loss 3.3141, time 1708.91ms
+iter 426: loss 3.2425, time 1705.35ms
+iter 427: loss 3.6529, time 1699.89ms
+iter 428: loss 3.6253, time 1706.30ms
+iter 429: loss 3.2832, time 1700.43ms
+iter 430: loss 3.3745, time 1708.62ms
+iter 431: loss 3.4806, time 1709.61ms
+iter 432: loss 3.4580, time 1703.29ms
+iter 433: loss 3.1217, time 1706.13ms
+iter 434: loss 3.5490, time 1709.39ms
+iter 435: loss 3.5130, time 1709.64ms
+iter 436: loss 3.4661, time 1707.74ms
+iter 437: loss 3.3079, time 1707.28ms
+iter 438: loss 3.6269, time 1700.85ms
+iter 439: loss 3.0553, time 1708.85ms
+iter 440: loss 3.6143, time 1702.94ms
+iter 441: loss 3.4362, time 1707.94ms
+iter 442: loss 3.5480, time 1708.92ms
+iter 443: loss 3.6209, time 1705.83ms
+iter 444: loss 3.5789, time 1706.78ms
+iter 445: loss 3.2807, time 1711.58ms
+iter 446: loss 3.4403, time 1708.85ms
+iter 447: loss 3.5948, time 1705.35ms
+iter 448: loss 3.6559, time 1712.37ms
+iter 449: loss 3.3021, time 1706.68ms
+estimating train and val loss...
+step 450: train loss 3.3395, val loss 3.2934
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be, but to love, and the like, and not to feel;
+Which is why the present-day-day is so much like it.
+KING RICHARD II:
+Now, see, Buckingham: how 'twere, even now?
+BRUCE VINCENTIO:
+Not a little, sir; for you know how he is.
+KING RICHARD II:
+Now, must I go, and see him, sir?
+BRUCE VINCENTIO:
+O, to be or not to be; and we'll be very late.
+KING RICHARD II:
+Good morning, good chapeuse.
+BRUCE VINCENTIO:
+Merely to lie with him in this bed,
+To bid to be a fool and to call me a foolish
+boy!
+KING RICHARD II:
+Nay, an honourable man, one
+of my own brother Henry's good kindhood,
+A kinsman beside the gracious prince.
+BRUCE VINCENTIO:
+Yes, sir; good Henry, good Henry;
+And your good love too, as well as mine,
+And my goodness, not all that good Henry's;
+Good Henry, gentle Henry, good Henry, good Henry!
+KING RICHARD II:
+Now, father, I must again speak, and say this:
+I have a brother whose name is Edward.
+BRUCE VINCENTIO:
+His name is Edward.
+KING RICHARD II:
+Your gracious Prince, you must know your title,
+Your name, your name, your character.
+BRUCE VINCENTIO:
+Alas, sir, my title's not Edward,
+Nor Henry, nor both Edward and Richard.
+KING RICHARD II:
+Your honourable prince, your honourable honourable prince,
+Your honourable honourable honourable prince!
+BRUCE VINCENTIO:
+Sir, it's not Edward, nor Richard, nor Edward,
+Nor both my honourable prince and your honourable honourable
+honourable prince:
+This is their cousin, Edward.
+KING RICHARD II:
+Marry, Edward!
+BRUCE VINCENTIO:
+When your honourable prince was
+---------------
+ To be or not to be
+Against where you are:
+Whosoever you know how to answer,
+He that's a man, you shall know too
+How to prove yourself worthy,
+For you no less are worthy than you
+And I'll prove myself I am so,
+For you should know far as you,
+And you are not so much less worthy than you.
+B
+My God, my soul is small.
+Whom I love,
+What I hate,
+I hate; I hate not.
+KING RICHARD II:
+The devil will think it
+Sweet, sweet, and gentle.
+SICINIUS:
+Truly, with a heart like to weep
+I'll weep, and yet have tears,
+Most precious to my soul:
+An angel weeping in the dark,
+An angel weeping in the earth,
+An angel weeping in those hearts!
+And I'll weep; and yet have tears,
+Most precious to my soul,
+Most precious to my soul.
+KING RICHARD II:
+Bless this, pray my soul:
+I'll weep; I will weep; I will weep; I will be weeping,
+As if the air were cold.
+BOWEN:
+Let my tears have their sweet air.
+SICINIUS:
+Good night, my poor child; good night, my home
+Poor boy.
+BRUTUS:
+I'll not weep.
+SICINIUS:
+I'll not cry.
+BRUTUS:
+Would you believe I must, Lord?
+SICINIUS:
+I will not believe you.
+BRUTUS:
+I will not believe you;
+I will not believe you.
+SICINIUS:
+I will not believe you;
+I will not believe you;
+I will not believe you;
+If you will not believe me, and you do, I will let you lie;
+But I will not deny you your place.
+BRUTUS:
+I will not deny you my place.
+SICINIUS:
+I will not deny you mine place:
+I will deny you mine and my place.
+BRUTUS:
+I will not deny you my place:
+I will deny you mine and yours.
+SICINI
+---------------
+ To be or not to be:
+How is this a son of an ancient Welshman,
+How hast thou had this honour like a Welshman?
+GRANT:
+Uncle Claudio, he is not well thought of;
+His presence marks the death of our beloved king.
+GRANT:
+These are my words:
+I have heard, and in all the world
+I have heard, that the youngest son of an old Welshman,
+He would not die upon his father's death:
+But he stands so far above the rest; he is of the good,
+Though they may die in his blood.
+GRANT:
+I am sure, therefore, he stood in heaven and was known.
+GRANT:
+Why, and what did he do?
+GRANT:
+He was told the thing by the Duke of Clarence,
+That he was in love with the Duke of Somerset,
+And had not consent to marry
+It, but love the Duke of Clarence.
+GRANT:
+No, I am to swear that Clarence was a Welshman:
+And I have a good sense that I shall see him hereafter.
+GRANT:
+Now, father, I shall beg your pardon
+And speak good words to him.
+GRANT:
+I am prepared, father; I have an earnest,
+First-born son and a well-spoken wife.
+GRANT:
+How thou art so much a gentleman,
+As thou standest not in love of me,
+As thou hast young, yet yet is still dear to me
+When thou hast a daughter.
+GRANT:
+Tell me, what, what, my daughter,
+I pray thee, how this man stands?
+GRANT:
+O, I pray thee, what, there is, your daughter,
+With whom thou hast been so merry a friend?
+GRANT:
+I am not young, and I am in no particular danger.
+GRANT:
+And, as thou hast said, there is, your daughter?
+GRANT:
+O, I pray thee, what, there is, my daughter?
+GRANT:
+I am at hand, sir; but I think I shall not have it.
+GRANT:
+I pray thee, here is my daughter's daughter,
+Claudio, his wife and children;
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 450: loss 3.4535, time 146257.76ms
+iter 451: loss 3.1581, time 1702.56ms
+iter 452: loss 3.6754, time 1706.66ms
+iter 453: loss 3.4289, time 1708.63ms
+iter 454: loss 3.4188, time 1704.34ms
+iter 455: loss 3.5315, time 1708.35ms
+iter 456: loss 3.4133, time 1709.72ms
+iter 457: loss 3.1600, time 1704.62ms
+iter 458: loss 3.1610, time 1710.95ms
+iter 459: loss 3.3096, time 1702.92ms
+iter 460: loss 3.5404, time 1708.53ms
+iter 461: loss 3.3862, time 1710.76ms
+iter 462: loss 3.4115, time 1705.94ms
+iter 463: loss 3.3676, time 1697.99ms
+iter 464: loss 3.3041, time 1707.45ms
+iter 465: loss 3.2895, time 1703.85ms
+iter 466: loss 3.5204, time 1709.90ms
+iter 467: loss 3.2822, time 1709.65ms
+iter 468: loss 3.5151, time 1706.26ms
+iter 469: loss 3.3765, time 1711.12ms
+iter 470: loss 3.6201, time 1707.23ms
+iter 471: loss 3.3880, time 1710.86ms
+iter 472: loss 3.4795, time 1709.92ms
+iter 473: loss 3.2387, time 1704.86ms
+iter 474: loss 3.3039, time 1703.47ms
+iter 475: loss 3.5746, time 1710.85ms
+iter 476: loss 3.5378, time 1705.71ms
+iter 477: loss 3.4560, time 1711.20ms
+iter 478: loss 3.3219, time 1712.18ms
+iter 479: loss 3.2904, time 1709.94ms
+iter 480: loss 3.3588, time 1711.08ms
+iter 481: loss 3.3410, time 1708.61ms
+iter 482: loss 3.6222, time 1705.43ms
+iter 483: loss 3.6157, time 1706.53ms
+iter 484: loss 3.4342, time 1701.96ms
+iter 485: loss 3.5103, time 1696.98ms
+iter 486: loss 3.5743, time 1709.87ms
+iter 487: loss 3.4426, time 1706.13ms
+iter 488: loss 3.4122, time 1705.27ms
+iter 489: loss 3.4504, time 1709.72ms
+iter 490: loss 3.3093, time 1701.43ms
+iter 491: loss 3.5078, time 1705.70ms
+iter 492: loss 3.3651, time 1704.72ms
+iter 493: loss 3.5712, time 1703.05ms
+iter 494: loss 3.5456, time 1708.25ms
+iter 495: loss 3.5057, time 1709.46ms
+iter 496: loss 3.3736, time 1706.78ms
+iter 497: loss 3.2396, time 1705.55ms
+iter 498: loss 3.4442, time 1705.33ms
+iter 499: loss 3.2105, time 1708.30ms
+estimating train and val loss...
+step 500: train loss 3.3187, val loss 3.3813
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be
+As much as I would have them.
+KING RICHARD II:
+The king's grace must be much than his
+Anointing him from death.
+FLORIUS:
+Lest, my lord, and I, with all my heart,
+This are so. You are well in your service
+This Duke of York, I so thank you.
+GLOUCESTER:
+I will, my lord, and bear you to this present
+Oy, of the poor York which you bequeath,
+In the hope that it will bear you some day to
+Return.
+KING RICHARD II:
+I will make them answer to me.
+FLORIUS:
+Sir, leave the oaths to the queen.
+DUCHESS OF YORK:
+Lord, my gracious lord, to heaven
+Have I given a full reckoning to-morrow,
+That she might to-morrow
+Take the throne with me for good.
+KING RICHARD II:
+To my good welcome!
+GLOUCESTER:
+As he has it done at King Richard's coronation,
+I did the same to him at the Grey
+As I did my oaths to the queen:
+As he's done to me by us, I make
+Nothing of him.
+KING RICHARD II:
+O, by my grace, and I, I do not know
+What may be in my way; and yet, I must
+tell thee, my lord, that she hath in her
+One more worthy heir-in-law, than I have.
+GLOUCESTER:
+Tell me, now, if your grace may be so
+Cousin Grey as the Duke of York,
+If I could believe, by aught that I do understand,
+That the queen himself be so good as I suspect
+That true'st should be said, that she was the
+Godfather of the world, and he was so.
+KING RICHARD II:
+What say you, my lord?
+Wherefore, my lord, lay
+The liege so far high with that his death
+Did bury me; and was so for that: but the king
+Is ere he came, from whom I owe such
+Intentions as will let him have them. I cannot tell
+---------------
+ To be or not to be.
+GLORIUS:
+Tell me, what is the matter?
+ROMEO:
+God loves some.
+GLORIUS:
+What is the matter?
+ROMEO:
+That's for the bishop of Rome.
+GLORIUS:
+I have already inquired him of, your majesty.
+ROMEO:
+No, sir; but I can't be more sure.
+GLORIUS:
+That's for the bishop of Rome:
+That's for the bishop of Rome;
+And from whence comes the people?
+ROMEO:
+I am in Rome, sir, to see if we may find some
+bishops and men of good repute; and we can't
+be more certain than the other: so, perhaps,
+by me, we may discover our enemies.
+GLORIUS:
+We must, sir.
+ROMEO:
+I will, sir, but not before it hath been determined.
+GLORIUS:
+How then?
+ROMEO:
+No sooner, sir.
+GLORIUS:
+He will come hither with those men whom we have
+found to be their enemies: that, before we know him,
+he wants you to do us good
+by visiting and looking for him.
+ROMEO:
+I thank him for some good business.
+GLORIUS:
+He knows me.
+ROMEO:
+I will, sir; let him be thy prisoner.
+GLORIUS:
+But, sir, the queen is in that prison
+that he did visit near us.
+ROMEO:
+This is not the prison to whom we seek.
+GLORIUS:
+The bedside?
+ROMEO:
+The bedside.
+GLORIUS:
+I see, sir.
+ROMEO:
+I see:
+Here is my prisoner, we are near
+and I beg your pardon.
+GLORIUS:
+He is not your prisoner: but is there a place
+for him there?
+ROMEO:
+I have heard of his; and in my mind, I
+have determined to make him my prisoner.
+GLORIUS:
+That is the prison you are with; and you must go
+there.
+---------------
+ To be or not to be,
+Even so great is the sin that he hath.
+DUKE VINCENTIO:
+That he lies, and I know not
+What he has.
+BUCKINGHAM:
+Behold here, gentlemen.
+DUKE VINCENTIO:
+Madam, Lady Gilead,
+My gracious bed-maid,
+I'll, indeed sir, to-morrow, with our king.
+PRINCE HENRY EDWARD IV:
+The day spent in the crown.
+KING HENRY VI:
+That he is to be, or not, shall not be:
+He is to be, as I have told him.
+DUKE VINCENTIO:
+This king, therefore, sir, having of his things, I know not
+Whether he be now or not, and my lord,
+Sir John, I will, in a few minutes, let him rest.
+KING HENRY VI:
+O, gracious lords!
+What news will you tell me?
+BUCKINGHAM:
+I'll tell you.
+DUKE VINCENTIO:
+Rescue him, what news will I tell you?
+KING HENRY VI:
+I'll tell you, sir, that he hath received his fair pardon.
+This news came from, and I can come to you.
+PRINCE HENRY EDWARD IV:
+Thou art the king's cousin, and thy royal dignity.
+KING HENRY VI:
+What news do thou, sir, report?
+BUCKINGHAM:
+I know not--
+DUKE VINCENTIO:
+Then, sir, I will send to the court
+a certain report of what's done in Bohemia.
+PRINCE HENRY EDWARD IV:
+To whom do you report?
+BUCKINGHAM:
+To the king; to the king's wife; to the king's children.
+DUKE VINCENTIO:
+Were you brought to Bohemia, thou art the king's cousin,
+and thy royal dignity?
+PRINCE HENRY EDWARD IV:
+No, sir, no, lord; not even to the king.
+KING HENRY VI:
+Thou art his cousin, and
+---------------
+iter 500: loss 3.2813, time 142286.23ms
+iter 501: loss 3.6724, time 1709.96ms
+iter 502: loss 3.6698, time 1701.57ms
+iter 503: loss 3.3212, time 1706.66ms
+iter 504: loss 3.5326, time 1707.97ms
+iter 505: loss 3.5457, time 1712.01ms
+iter 506: loss 3.2539, time 1702.17ms
+iter 507: loss 3.4365, time 1702.35ms
+iter 508: loss 3.4281, time 1702.08ms
+iter 509: loss 3.3670, time 1707.98ms
+iter 510: loss 3.3332, time 1708.79ms
+iter 511: loss 3.3644, time 1707.48ms
+iter 512: loss 3.2986, time 1701.90ms
+iter 513: loss 3.2056, time 1709.22ms
+iter 514: loss 3.5073, time 1708.89ms
+iter 515: loss 3.6455, time 1697.12ms
+iter 516: loss 3.4538, time 1714.59ms
+iter 517: loss 3.6497, time 1701.26ms
+iter 518: loss 3.4454, time 1707.17ms
+iter 519: loss 3.4971, time 1705.48ms
+iter 520: loss 3.4955, time 1700.27ms
+iter 521: loss 3.7122, time 1701.75ms
+iter 522: loss 3.2327, time 1704.90ms
+iter 523: loss 3.1879, time 1704.16ms
+iter 524: loss 3.2999, time 1707.52ms
+iter 525: loss 3.2556, time 1704.37ms
+iter 526: loss 3.4231, time 1701.74ms
+iter 527: loss 3.5031, time 1708.82ms
+iter 528: loss 3.4387, time 1709.06ms
+iter 529: loss 3.0802, time 1707.77ms
+iter 530: loss 3.6033, time 1700.81ms
+iter 531: loss 3.6524, time 1702.32ms
+iter 532: loss 3.5302, time 1700.93ms
+iter 533: loss 3.5422, time 1711.78ms
+iter 534: loss 3.4091, time 1700.69ms
+iter 535: loss 3.5781, time 1707.65ms
+iter 536: loss 3.3864, time 1699.49ms
+iter 537: loss 3.5797, time 1699.46ms
+iter 538: loss 3.7190, time 1713.70ms
+iter 539: loss 3.6645, time 1706.13ms
+iter 540: loss 3.3235, time 1704.81ms
+iter 541: loss 3.3913, time 1708.01ms
+iter 542: loss 3.6583, time 1701.30ms
+iter 543: loss 3.5283, time 1701.98ms
+iter 544: loss 3.5076, time 1700.56ms
+iter 545: loss 3.2531, time 1702.35ms
+iter 546: loss 3.5025, time 1709.36ms
+iter 547: loss 3.3272, time 1708.69ms
+iter 548: loss 3.2614, time 1703.43ms
+iter 549: loss 3.3467, time 1707.93ms
+estimating train and val loss...
+step 550: train loss 3.3119, val loss 3.3144
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be:
+This noble man, be thou so bold as to take your faith with me,
+And from your life and your fortunes, make thy brother
+A brave friend of mine:
+A noble king, that God hath known,
+That gave you so many honours,
+And so many thanks, that we may all with all
+Acquire your grace and your peace;
+For thou wilt not be so poor as to sit upon his throne.
+KING RICHARD III:
+We beseech thee, holy brother, to be patient.
+CLIFFORD:
+O, thou wilt be so patient as to do him fair.
+KING RICHARD III:
+No mercy, my king, for I would have thee
+The more bold than he, and to the world more severe.
+CLIFFORD:
+O, thou wilt, my Lord, never let thy sovereign stand
+KING RICHARD III:
+I am my lord of Norfolk. I am the Duke of Norfolk.
+CLIFFORD:
+Ay, my lord, I do not fear much with him.
+You have a right to fear me?
+KING RICHARD III:
+Fear nothing, my lord; for he shall not be a king.
+CLIFFORD:
+Ay, my lord, I fear his usurperhood.
+KING RICHARD III:
+What, my lord, he is so cruel and tyrannical a tyrant;
+Which is a more cruel and tyrannical tyrant
+Nay, more tyrannical tyrant of his own.
+CLIFFORD:
+Ay, my lord, he is a worse tyrant of his own.
+KING RICHARD III:
+Ay, my lord, he is a worse tyrant of his own.
+CLIFFORD:
+Ay, my lord, he is a worse tyrant of his own.
+KING RICHARD III:
+Ay, my lord, he is a worse tyrant of his own.
+CLIFFORD:
+Ay, my lord, he is a worse tyrant of his own.
+KING RICHARD III:
+Ay, my lord, he is a worse tyrant of his own.
+CLIFFORD:
+Ay, my lord, he is a worse tyrant of his own.
+KING R
+---------------
+ To be or not to be, or and like the chief thing in them, I will become dull, and ungainst.
+PRINCE ROSSENBERG:
+Then, Lord, bear your thoughts for a thing as good as they
+are; and at the end of your life you will never
+blond again.
+BUCKINGHAM:
+They will come, and he will speak, and then you will be a gentleman;
+you shall have good friends, and you shall see good deeds;
+but you will remember the things that have not been done.
+NORTHUMBERLAND:
+That's a privilege, sir, but not a privilege,
+Commendation.
+PRINCE ROSSENBERG:
+Sir, if you would, sir, speak to a gentleman; and I
+would you bring him up and answer you.
+BUCKINGHAM:
+But our trusty lord, hath gone to bed, and is,
+By the grace of God, asleep.
+BUCKINGHAM:
+Your lordship and my lord,
+There is not a man in our service, but he lies
+out in the field; he cannot breathe.
+PRINCE ROSSENBERG:
+But hear me, my lord, to your lordship now:
+And, my lord, to your lordship:
+For, my lord, please, I am going;
+I will not be idle.
+BUCKINGHAM:
+My lord, please, you are not idle;
+And think you were here as well: for,
+I know my lordship and your lordship
+are gone; but I am gone, and I cannot be leisure
+with you.
+PRINCE ROSSENBERG:
+You are not the 'twill be, your lordship?
+What, my lord?
+BUCKINGHAM:
+No; and what, my lord?
+PRINCE ROSSENBERG:
+No: I came from your lordship, as you said
+I am gone, though you are gone; and yet I am going,
+In order that you may hear your lordship.
+BUCKINGHAM:
+I have come from your lordship, sir; yet I am gone.
+PRINCE ROSSENBERG:
+I must, my lord, to
+---------------
+ To be or not to be: to be or not to be.
+VOLUMNIA:
+Then I trust, my brother, that no man shall ever be so unsullied.
+CAPULET:
+Wise words will make you wince,
+And thou shalt no longer have life.
+VOLUMNIA:
+How then he that begins your life
+Is so much fond as a man: that he cannot breathe it?
+CAPULET:
+My friends: he'll save his tongue
+To sit on your breast.
+VOLUMNIA:
+Then look ye on the day: I'll take you,
+And cheer you to a walk of humility
+Where, in paradise, no man might dream that he did
+Once with such a man.
+CAPULET:
+To be or not to be.
+VOLUMNIA:
+But be not, thou art not so, thou art not so.
+CAPULET:
+I thank thee, my lord.
+VOLUMNIA:
+That thou art so, my lord, is much better
+Than thou art such a better man.
+VOLUMNIA:
+His gentle uncle's fair face!
+CAPULET:
+Thou art so gentle, my lord.
+VOLUMNIA:
+Nay, thou art so gentle, my lord.
+CAPULET:
+Thou art so gentle, my lord.
+VOLUMNIA:
+So gentle on his cheeks!
+CAPULET:
+I will say better, my lord.
+VOLUMNIA:
+But, my lord, is he so gentle?
+CAPULET:
+No.
+VOLUMNIA:
+My lord, is he so gentle?
+CAPULET:
+My lord, my lord.
+VOLUMNIA:
+My lord, my lord.
+CAPULET:
+Then how are you?
+VOLUMNIA:
+I have no time for long: I shall go home,
+To my home,
+And have a rest; and I am sorry, my lord,
+For I cannot give my poor little boy
+The comfort of his royal bed.
+CAPULET:
+Then how are you?
+VOLUMNIA:
+I am so comforted by the peace
+---------------
+iter 550: loss 3.5469, time 142160.63ms
+iter 551: loss 3.4114, time 1704.58ms
+iter 552: loss 3.5134, time 1709.79ms
+iter 553: loss 3.6209, time 1710.32ms
+iter 554: loss 2.9383, time 1704.30ms
+iter 555: loss 3.5987, time 1706.06ms
+iter 556: loss 3.3827, time 1704.50ms
+iter 557: loss 3.5771, time 1705.84ms
+iter 558: loss 3.4247, time 1704.96ms
+iter 559: loss 3.4572, time 1701.69ms
+iter 560: loss 3.4400, time 1708.80ms
+iter 561: loss 3.2920, time 1707.49ms
+iter 562: loss 3.3170, time 1702.06ms
+iter 563: loss 3.2691, time 1704.03ms
+iter 564: loss 3.3655, time 1710.07ms
+iter 565: loss 3.2208, time 1702.69ms
+iter 566: loss 3.3504, time 1709.91ms
+iter 567: loss 3.7122, time 1704.39ms
+iter 568: loss 3.4559, time 1706.14ms
+iter 569: loss 3.5193, time 1703.17ms
+iter 570: loss 3.3983, time 1705.26ms
+iter 571: loss 3.3387, time 1700.31ms
+iter 572: loss 3.5532, time 1705.88ms
+iter 573: loss 3.2756, time 1703.52ms
+iter 574: loss 3.3971, time 1707.34ms
+iter 575: loss 3.3947, time 1708.00ms
+iter 576: loss 3.4889, time 1702.71ms
+iter 577: loss 3.0355, time 1709.34ms
+iter 578: loss 3.2507, time 1701.77ms
+iter 579: loss 3.7322, time 1704.15ms
+iter 580: loss 3.3024, time 1702.18ms
+iter 581: loss 3.1513, time 1707.37ms
+iter 582: loss 3.5687, time 1704.84ms
+iter 583: loss 3.5831, time 1701.77ms
+iter 584: loss 3.3765, time 1698.30ms
+iter 585: loss 3.4203, time 1706.43ms
+iter 586: loss 3.2624, time 1704.48ms
+iter 587: loss 3.4746, time 1698.06ms
+iter 588: loss 3.5020, time 1710.48ms
+iter 589: loss 3.4370, time 1712.30ms
+iter 590: loss 3.3294, time 1710.19ms
+iter 591: loss 3.2257, time 1705.70ms
+iter 592: loss 3.4815, time 1708.73ms
+iter 593: loss 3.5102, time 1699.83ms
+iter 594: loss 3.5356, time 1710.09ms
+iter 595: loss 3.0058, time 1707.32ms
+iter 596: loss 3.3294, time 1707.35ms
+iter 597: loss 3.4326, time 1706.41ms
+iter 598: loss 3.4203, time 1702.68ms
+iter 599: loss 3.3207, time 1708.89ms
+estimating train and val loss...
+step 600: train loss 3.3009, val loss 3.3423
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be: it shall be a question.
+QUEEN MARGARET:
+Do you deny, sir?
+I am a noble and an honourable man,
+And yet, to think a thing is a lie and to speak it
+Untruthful to my worth, nor to my honour.
+QUEEN MARGARET:
+I have not but the common knowledge to say
+That a man should be free to do what he would not wish to
+Speak it.
+GLOUCESTER:
+I think it is some good reason to think so.
+QUEEN MARGARET:
+The gentleman
+Is most aching for it.
+GLOUCESTER:
+The gentleman is most certain
+That from the very thing which I speak is false.
+QUEEN MARGARET:
+What's wrong with him?
+GLOUCESTER:
+He will not be able to do what he would like.
+QUEEN MARGARET:
+What is wrong with him?
+GLOUCESTER:
+I have thought it as if he would, or at least
+Abe
+A man who could make it.
+QUEEN MARGARET:
+Then how comes it, sir?
+GLOUCESTER:
+Because he cannot say so; he in fact cannot say so.
+QUEEN MARGARET:
+Well, sir, it was a necessity--
+GLOUCESTER:
+Hence it was a necessity at that time.
+QUEEN MARGARET:
+Then what is the nature of this necessity?
+GLOUCESTER:
+To say there is no necessity, nor manly manliness,
+Pursued to call such a necessity.
+QUEEN MARGARET:
+If you did speak thus, that from your mind
+I could perform this work, I'd do it no more:
+This is true, Sir.
+GLOUCESTER:
+As I speak, I have grown much a man
+Of deep affections, and have made him into a
+Andalite; a traitor to all the good things I
+Have done.
+QUEEN MARGARET:
+I was never acquainted with France in such a
+---------------
+ To be or not to be, what is to be or not? Who is to be or not? This question is one of the most common in the business of life:
+GLOUCESTER:
+A man is to be or not to be, and if he be not to be, he whose purpose is the act of being,
+He whose purpose is the act of being, or not. What, then, is he?
+GLOUCESTER:
+Either man or woman, if this is the case, then
+Let him be, if he be not, and if he be not, let him be.
+But if any one say,
+'You are in love' and 'you are not,' let us answer 'You are not 'Both are in love.'
+GLOUCESTER:
+How then, then, may you be?
+GLOUCESTER:
+It is the great question.
+GLOUCESTER:
+Why, then, and then; how then, and then!
+GLOUCESTER:
+What, then, are you in love?
+GLOUCESTER:
+If you have one, and therefore say you are in love, be it so;
+Or, if you have one, and therefore say you are in love, be it so;
+If you have one, and therefore say you are in love, be it so;
+Or, if you have one, and therefore say you are not in love, be it so;
+Unless you are in love, and therefore say you are not in love.
+GLOUCESTER:
+If, and therefore say you are in love, have you but one?
+GLOUCESTER:
+To be or not to be; if he be,
+And that, and that, are such things as are not.
+GLOUCESTER:
+If is not such, and this do you know,
+This is a very great thing.
+GLOUCESTER:
+If, and therefore, if you do not know,
+This is an excellent thing.
+GLOUCESTER:
+You must, and therefore, by this proceed to understand.
+GLOUCESTER:
+How then?
+GLOUCESTER:
+You must, and therefore, by this proceed to understand
+---------------
+ To be or not to be:
+Hath he gone, he'll not see me, nor take it.
+GROWINGHAM:
+Lash, but wash, and do not,
+I'll go in; for I'll go away.
+KING RICHARD III:
+Your majesty, what news? If you depart,
+In the ships and arms, I'll send an ambassador
+There, and, if thou hast your heart, let him go.
+CORIOLANUS:
+I will it.
+KING RICHARD III:
+Hath he gone, he'll not see me, nor take it.
+CORIOLANUS:
+My lord, let him go.
+KING RICHARD III:
+Well, if he let no messenger go,
+I'll send him away.
+CORIOLANUS:
+I'll send him away.
+KING RICHARD III:
+Sir, 'tis so, for it's not my time.
+CORIOLANUS:
+Ha! a man! what's the matter?
+KING RICHARD III:
+Pray, sir.
+CORIOLANUS:
+Sir, do you mean a messenger?
+KING RICHARD III:
+A messenger, sir, and is in command.
+CORIOLANUS:
+Ay, ay, sir.
+KING RICHARD III:
+To the Emperor, and to them both.
+CORIOLANUS:
+Hath he gone, he'll not see me, nor take it.?
+KING RICHARD III:
+Ay, sir.
+CORIOLANUS:
+My lord, do you mean a messenger?
+KING RICHARD III:
+A messenger, sir.
+CORIOLANUS:
+A messenger, sir.
+KING RICHARD III:
+Ay, ay, sir.
+CORIOLANUS:
+The head of the whole fleet,
+And all the soldiers and casks,
+And all the regiments,
+And all the air-crafts and all their posts
+Made the field of service; and the house-maids
+Took charge, their heads and all, and broke down
+Noble men's houses, and broke down the temples,
+And all their faces shook with their broken
+---------------
+iter 600: loss 3.4666, time 142400.23ms
+iter 601: loss 2.9930, time 1704.36ms
+iter 602: loss 3.3297, time 1701.48ms
+iter 603: loss 3.3891, time 1702.71ms
+iter 604: loss 3.6952, time 1706.68ms
+iter 605: loss 3.4505, time 1699.09ms
+iter 606: loss 3.5483, time 1706.40ms
+iter 607: loss 3.5912, time 1712.22ms
+iter 608: loss 3.4613, time 1703.90ms
+iter 609: loss 3.4795, time 1703.07ms
+iter 610: loss 3.4327, time 1706.32ms
+iter 611: loss 3.4216, time 1703.03ms
+iter 612: loss 3.5221, time 1708.37ms
+iter 613: loss 3.5228, time 1705.87ms
+iter 614: loss 3.3529, time 1701.47ms
+iter 615: loss 3.5465, time 1712.05ms
+iter 616: loss 3.4391, time 1698.37ms
+iter 617: loss 3.1092, time 1707.69ms
+iter 618: loss 3.1684, time 1704.89ms
+iter 619: loss 3.4728, time 1705.74ms
+iter 620: loss 3.5037, time 1702.68ms
+iter 621: loss 3.1797, time 1706.34ms
+iter 622: loss 3.5276, time 1702.34ms
+iter 623: loss 3.2267, time 1705.48ms
+iter 624: loss 3.3960, time 1700.15ms
+iter 625: loss 3.6964, time 1704.05ms
+iter 626: loss 3.2489, time 1707.93ms
+iter 627: loss 3.5397, time 1704.44ms
+iter 628: loss 3.3057, time 1709.38ms
+iter 629: loss 3.6041, time 1711.90ms
+iter 630: loss 3.5248, time 1704.87ms
+iter 631: loss 3.5856, time 1701.68ms
+iter 632: loss 3.1965, time 1705.57ms
+iter 633: loss 3.5503, time 1702.52ms
+iter 634: loss 3.6632, time 1705.57ms
+iter 635: loss 3.5539, time 1702.13ms
+iter 636: loss 3.4994, time 1701.53ms
+iter 637: loss 3.6562, time 1704.86ms
+iter 638: loss 3.4239, time 1706.10ms
+iter 639: loss 3.3053, time 1707.42ms
+iter 640: loss 3.3139, time 1705.19ms
+iter 641: loss 3.3905, time 1708.95ms
+iter 642: loss 3.4850, time 1697.82ms
+iter 643: loss 3.5481, time 1707.90ms
+iter 644: loss 3.2560, time 1703.08ms
+iter 645: loss 3.5511, time 1707.57ms
+iter 646: loss 3.3056, time 1712.92ms
+iter 647: loss 3.5346, time 1698.07ms
+iter 648: loss 3.7419, time 1711.25ms
+iter 649: loss 3.3704, time 1707.82ms
+estimating train and val loss...
+step 650: train loss 3.2841, val loss 3.3161
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be.
+BRUTUS:
+I will, and no more will I.
+GLOUCESTER:
+Ere this I must, I beseech Rome:
+Let them be kind to her: let them be not kind to her.
+GLOUCESTER:
+I am your king, my lord.
+GLOUCESTER:
+I am your king, my lord
+And as much your brother as it is my sovereign.
+GLOUCESTER:
+But, I beseech you, my lord, I beg our pardon.
+ROMEO:
+Of what?
+BRUTUS:
+As I am your sovereign.
+ROMEO:
+And as you are your king, my lord,
+As you are your brother, my lord,
+As you and I have the best of the world in common,
+And all together with your brother,
+Such an object for which you must think you owe
+Your brother your brother, like to you, now be yours.
+GLOUCESTER:
+Sir, take yourself to me.
+ROMEO:
+If I might, sir, marry you the younger,
+And live to see the time when your brother shall at last
+Be yours; and a year hence, when our brother shall live,
+I trust you'll find him dead, and die at your brother's request.
+But, if you live to see that you have never married him,
+Why, I will not tell you why.
+ROMEO:
+Anon, I will not, sir. I am all for marriage.
+GLOUCESTER:
+I have no need of it.
+ROMEO:
+My brother is my lord.
+GLOUCESTER:
+How, then, then, will you be married?
+ROMEO:
+My lord, he will be.
+GLOUCESTER:
+But if I have no need of him, then I shall have none.
+ROMEO:
+Why, lord.
+GLOUCESTER:
+Why, then, then! if I have no need of him,
+Then I shall have none.
+ROMEO:
+Why, then, then! if I have no need of him,
+Then I shall have none.
+GLOUC
+---------------
+ To be or not to be: and if thou wilt die,
+So shalt thou live.
+CAPULET:
+Then let's go.
+ROMEO:
+Ah, thanks for your patience, my lord!
+CAPULET:
+Then 'tis my pleasure
+To lose the honour of Corioli: and hence,
+Having lost a friend, I'll bear his son.
+ROMEO:
+Courage, thou art the more.
+CAPULET:
+He laughs as he smiles, and turns ere I hear
+His name.
+ROMEO:
+Ay, sir, dear, to that honour the Lord Corioli
+Have so deserved.
+CAPULET:
+I be so glad, I say.
+ROMEO:
+By my heart's blood, I'll do it 'ere for thee.
+CAPULET:
+What, so that I may, what a man I must, to myself?
+ROMEO:
+I must be made an officer of the senate.
+CAPULET:
+I'll call it my honour, sir, and no less my daughter.
+ROMEO:
+I will not, God forbid, to death.
+CAPULET:
+Poor morrow, poor lad, I will be a soldier.
+ROMEO:
+I will be a double soldier, sir,
+as I was a double before you; and be a knight.
+CAPULET:
+Sir, since you are more than the man, why, how can you be so as a soldier?
+ROMEO:
+In this way, sir, I am but a soldier.
+CAPULET:
+Is it true, sir? I have never fought;
+No, sir; but when I had a father,
+I was his grandfather.
+ROMEO:
+I do think it not the part of his youth that he fought.
+CAPULET:
+My grandfather fought at a very rough time,
+at the war's end, when he did bear his brother's death.
+ROMEO:
+Thou forgot thy father's death; but, being so bold,
+I should have fought with him.
+--
+CAPULET:
+If you will therefore, please, you may know that I am a noble soldier.
+ROMEO:
+In honour,
+---------------
+ To be or not to be a man:
+That is both my and ours;
+Which are bound to both, to be or not to be.
+MENENIUS:
+Enough, it is; but you see enough.
+CAPULET:
+That's why I do not love thee.
+QUEEN MARCIUS:
+That's why I do love thee.
+MENENIUS:
+You must not look for love in any man;
+But if you do, you are a boy,
+A piece of a woman, as I show you my son.
+ I know you are a pretty girl.
+QUEEN MARCIUS:
+Ay, but no; you must not look for love in any man.
+CAPULET:
+A woman, thou art a piece of a woman.
+QUEEN MARCIUS:
+Ay, but no; you must not look for love in any man;
+And if you do, you are a piece of a woman, as I show you my son.
+CAPULET:
+I have borne him more, and that means I love more.
+QUEEN MARCIUS:
+Why take away from this a piece of a man?
+CAPULET:
+You must not look for love in any man.
+QUEEN MARCIUS:
+Ay, I do!
+CAPULET:
+A piece of women: that is love to a woman.
+QUEEN MARCIUS:
+Ay, know that, say I love you more than I love thee.
+CAPULET:
+Never, sir, know any man who loves a woman.
+QUEEN MARCIUS:
+A woman, I say.
+CAPULET:
+And a man, I say!
+QUEEN MARCIUS:
+Ay, I have grown better than you.
+CAPULET:
+No, I have nothing.
+MENENIUS:
+No, no, no: I love you more than I have love.
+QUEEN MARCIUS:
+A man, what is it that thou art to do, sir?
+CAPULET:
+And if so, then I would say, thou art self-sufficient.
+QUEEN MARCIUS:
+A woman, sir,
+---------------
+iter 650: loss 3.2433, time 142267.06ms
+iter 651: loss 3.4066, time 1709.69ms
+iter 652: loss 3.4204, time 1703.09ms
+iter 653: loss 3.3202, time 1709.91ms
+iter 654: loss 3.4630, time 1710.72ms
+iter 655: loss 3.4552, time 1700.54ms
+iter 656: loss 3.5194, time 1708.76ms
+iter 657: loss 3.1846, time 1706.41ms
+iter 658: loss 3.1905, time 1710.29ms
+iter 659: loss 3.5066, time 1708.88ms
+iter 660: loss 3.6714, time 1707.93ms
+iter 661: loss 3.3415, time 1700.94ms
+iter 662: loss 3.3549, time 1711.97ms
+iter 663: loss 3.4422, time 1702.31ms
+iter 664: loss 3.5793, time 1706.22ms
+iter 665: loss 3.3408, time 1714.21ms
+iter 666: loss 3.4215, time 1698.92ms
+iter 667: loss 3.3773, time 1711.56ms
+iter 668: loss 3.3962, time 1703.91ms
+iter 669: loss 3.4336, time 1708.35ms
+iter 670: loss 3.4672, time 1702.91ms
+iter 671: loss 3.5073, time 1703.56ms
+iter 672: loss 3.5922, time 1702.83ms
+iter 673: loss 3.3042, time 1705.99ms
+iter 674: loss 3.3533, time 1701.58ms
+iter 675: loss 3.3696, time 1702.87ms
+iter 676: loss 3.3645, time 1704.78ms
+iter 677: loss 3.0544, time 1709.25ms
+iter 678: loss 3.5368, time 1708.96ms
+iter 679: loss 3.3475, time 1707.48ms
+iter 680: loss 3.2415, time 1703.26ms
+iter 681: loss 3.3344, time 1706.56ms
+iter 682: loss 3.3031, time 1702.16ms
+iter 683: loss 3.3760, time 1703.02ms
+iter 684: loss 3.2970, time 1709.28ms
+iter 685: loss 3.5263, time 1703.65ms
+iter 686: loss 3.6048, time 1703.52ms
+iter 687: loss 3.3787, time 1709.20ms
+iter 688: loss 3.3662, time 1707.33ms
+iter 689: loss 3.6657, time 1699.31ms
+iter 690: loss 3.3165, time 1712.35ms
+iter 691: loss 3.4077, time 1706.90ms
+iter 692: loss 3.6398, time 1705.17ms
+iter 693: loss 3.4180, time 1701.65ms
+iter 694: loss 3.3617, time 1707.01ms
+iter 695: loss 3.4007, time 1707.20ms
+iter 696: loss 3.2574, time 1700.30ms
+iter 697: loss 3.3396, time 1707.92ms
+iter 698: loss 3.2868, time 1712.18ms
+iter 699: loss 3.1540, time 1705.50ms
+estimating train and val loss...
+step 700: train loss 3.2915, val loss 3.2867
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be. This is the name of the man that is, and so hath he taught us.
+NORTHUMBERLAND:
+Your report is, that he hath disbursed a man: that he made him; and he made him with the other: and they disbursed him with him, both:
+JULIET:
+'Tis well, you know, for you know much more than this.'
+NORTHUMBERLAND:
+'Tis well, I think, for I have heard the general; and know not whether the general hath heard the general.'
+JULIET:
+Who shall answer to you?
+NORTHUMBERLAND:
+My brother; and that of your brother have you been both the new
+Forbs.
+JULIET:
+My brother, I shall be the first: I am the first of the new characters:
+I am the first of the old characters; and must soon be the second.
+NORTHUMBERLAND:
+'Tis well, my brother. I will answer you: I have not been to you;
+been to you in the past; you have come in my time.
+How, 'twere not your time, my brother. I have not been in my time;
+but I have come in the past.
+JULIET:
+I have been, my Lord; and though I have lived awhile,
+I have borne no part in your time: for ever, my brother,
+I was not my days
+To pass twenty winters, nor ten days; thou, and I,
+And I, were not my days: for ever, my brother,
+I am my old days, and I, and thou, and thou, and I,
+Thou shalt be thy old days, as well as thou, and thou, and thou, and thou,
+And thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and thou, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and; and, and, and
+---------------
+ To be or not to be; to be or not to be; therefore,
+To be or not to be.'
+TRANSLATOR:
+So, sir, is the meaning to be.
+BRUTUS:
+I'll tell you this: you two,
+And I, from one occasion to another,
+Were too close to you to speak for you,
+To be or not to be, to be or not to be.
+And yet, at the same time
+You were too bold to be, to be or not to be,
+To be or not to be, to be or not to be.
+MADFIELD:
+O, sir, I am not bold enough to speak for
+You. But, my lord, he cannot speak for you,
+No more, I defy your desire, nor your truth.
+BRUTUS:
+I do not know.
+MADFIELD:
+Why, have you done wrong to me?
+BRUTUS:
+Because you are too loud, too quiet, too bold,
+Too young, too brave, too bold, too bold,
+Too far from your being.
+And yet, to speak for you, the sooner they hear
+Your word, the sooner you speak for them.
+BRUTUS:
+Fair, good Lord.
+MADFIELD:
+And yet, for to speak for you, they heard you speak
+Your word.
+BRUTUS:
+True, but they thought you spoke for them.
+MADFIELD:
+They thought they heard you speak
+Your word.
+BRUTUS:
+True, but they thought you spoke for them.
+Will you come to me? Will you come to me?
+MADFIELD:
+Not soon. I do not know.
+BRUTUS:
+I do not know.
+MADFIELD:
+I think you will.
+BRUTUS:
+And I fear that you are not well well,
+And will not know you well well. I fear
+You are not well at all, and shall not know you well.
+MADFIELD:
+Yes, sir, but you are well at all:
+I trust not all your lives to know you well.
+BRUTUS:
+You owe me no note with you:
+I have loved the state of your health.
+---------------
+ To be or not to be
+Romeo, and Juliet, and Romeo, and Camillo, and Romeo
+And Juliet, and Romeo, and Camillo, and Romeo
+And Camillo, and Romeo, and Romeo and Juliet
+And Juliet, and Romeo, and Juliet, and Romeo
+And Juliet, and Romeo, and Juliet, and Romeo
+And Juliet, and Romeo, and Juliet, and Romeo, and Juliet,
+And Juliet, and Romeo, and Juliet, and Romeo ...therewithal,
+And the other gods, and their gods, and all their gods
+And all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,
+And all their gods, and all their gods, and all their gods,<|endoftext|>The West Bank
+Hannibal, a powerful king;
+He hath done us wrong
+And made us stumble.
+KING RICHARD III:
+Desolate.
+ANGELO:
+This is the very thing.
+Why?
+KING RICHARD III:
+Because our villain is sick.
+ANGELO:
+He is.
+KING RICHARD III:
+What now?
+ANGELO:
+My lord, let me know.
+KING RICHARD III:
+Who is him?
+ANGELO:
+I am him; and I am dead.
+KING RICHARD III:
+What?
+ANGELO:
+My lord, I am dead so that no more than one should perish.
+Have you heard, my lord?
+KING RICHARD III
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 700: loss 3.4352, time 150454.03ms
+iter 701: loss 3.5634, time 1698.07ms
+iter 702: loss 3.3502, time 1705.73ms
+iter 703: loss 3.3891, time 1707.87ms
+iter 704: loss 3.4387, time 1709.56ms
+iter 705: loss 3.2916, time 1706.96ms
+iter 706: loss 3.3444, time 1708.37ms
+iter 707: loss 3.1748, time 1706.05ms
+iter 708: loss 3.2855, time 1706.11ms
+iter 709: loss 3.5990, time 1704.60ms
+iter 710: loss 3.4130, time 1710.34ms
+iter 711: loss 3.2222, time 1711.45ms
+iter 712: loss 3.2838, time 1707.40ms
+iter 713: loss 3.2713, time 1707.30ms
+iter 714: loss 3.4062, time 1711.80ms
+iter 715: loss 3.4279, time 1707.50ms
+iter 716: loss 3.2904, time 1712.18ms
+iter 717: loss 3.7754, time 1715.89ms
+iter 718: loss 3.2396, time 1706.26ms
+iter 719: loss 3.0900, time 1710.65ms
+iter 720: loss 3.3959, time 1706.84ms
+iter 721: loss 3.1278, time 1710.28ms
+iter 722: loss 3.5145, time 1708.55ms
+iter 723: loss 3.3890, time 1707.89ms
+iter 724: loss 3.4417, time 1701.97ms
+iter 725: loss 3.5368, time 1714.49ms
+iter 726: loss 3.3349, time 1703.11ms
+iter 727: loss 3.4396, time 1712.62ms
+iter 728: loss 3.5249, time 1713.22ms
+iter 729: loss 2.9870, time 1703.19ms
+iter 730: loss 3.2652, time 1711.54ms
+iter 731: loss 3.3189, time 1708.48ms
+iter 732: loss 3.3709, time 1704.94ms
+iter 733: loss 3.4893, time 1713.07ms
+iter 734: loss 3.4526, time 1701.38ms
+iter 735: loss 3.3294, time 1698.98ms
+iter 736: loss 3.2897, time 1710.39ms
+iter 737: loss 3.5836, time 1703.24ms
+iter 738: loss 3.3117, time 1704.34ms
+iter 739: loss 3.3621, time 1710.18ms
+iter 740: loss 3.1596, time 1696.46ms
+iter 741: loss 3.5388, time 1702.16ms
+iter 742: loss 3.4678, time 1704.44ms
+iter 743: loss 3.3268, time 1706.01ms
+iter 744: loss 3.2835, time 1710.84ms
+iter 745: loss 3.1939, time 1706.68ms
+iter 746: loss 3.3216, time 1699.67ms
+iter 747: loss 3.3414, time 1711.52ms
+iter 748: loss 3.4429, time 1702.46ms
+iter 749: loss 3.3697, time 1701.59ms
+estimating train and val loss...
+step 750: train loss 3.2498, val loss 3.3233
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be a good man:
+I am a good soldier, that I am lawful and humble;
+And, as I say, a good soldier, is a good warrior:
+And as I say, he is a good soldier, that he shall
+come in peace to be a good general:
+But, as I say, he is a good soldier, that he shall
+come in peace to be a good general:
+Therefore, be not a good soldier, and make yourself
+a soldier of a good soldier, and a soldier of a soldier:
+For, in my father's name, 'Art thou well, son?'
+BUCKINGHAM:
+Me?
+BUCKINGHAM:
+No: all that I call thee well in all
+the world, I have called.
+SICINIUS:
+Thou art well: man, my nurse, my lord:
+You were a soldier, and a soldier, and a man:
+Have I not yet sworn an oath?
+BUCKINGHAM:
+Thou shouldst have sworn an oath, my lord,
+to come to the service of Henry.
+SICINIUS:
+Thou wouldst have sworn an oath, my lord,
+to come to the service of Henry.
+BUCKINGHAM:
+But, my lord, only thou hast sworn an oath;
+and I do vow thee none.
+SICINIUS:
+Thou dost have sworn an oath, my lord,
+to come to the service of Henry.
+BUCKINGHAM:
+I swear my mind in this oath, my lord, that
+the devil shall not make him love you, father;
+And, madam, I will not attempt to make him love me,
+But that, having sworn an oath with love to Henry,
+I should kiss the ear of nature as closely as a
+man's tongue, and writ in his heart
+The grossest thing I conceive.
+SICINIUS:
+Father, where is my brother now?
+BUCKINGHAM:
+What's been the matter, my lord?
+SICINIUS:
+Why, no: his brother is here.
+BUCKINGHAM:
+Nay, but I do love him dearly, my lord,
+and care not to lie with him.
+---------------
+ To be or not to be: 'tis custom to have a word.
+ABRAHAM LINCOLN:
+If thou wilt, let him speak it: I am not a soldier,
+That have not like thee to go. He that doth use it,
+Beside me, he's a pilot, so I know not what
+The best pilot of any man
+Is.
+STANLEY:
+Some one hath had some rather bloody issue with me than
+Those that do not wear these robes.
+ABRAHAM LINCOLN:
+What, sir, thou art, that hath not wore the tops;
+They do not say they were new; thou shalt see
+Their true colours;
+My head is made from the old hat,
+And thou shalt see them make me a gentleman;
+For, to be a gentleman, must be a mask:
+If he be a beggar, he cannot be an enemy;
+But if he be a traitor,
+And he is a traitor,
+An enemy shall be proud of his traitor.
+This gentleman doth not put o'er my face.
+STANLEY:
+Ah, my Lord, this gentleman is an enemy.
+ABRAHAM LINCOLN:
+Is there a gentleman ever so dishonoured as this?
+STANLEY:
+Naw, there is none; but there is one:
+The gentleman that doth wear the crown,
+Is a member of the royal household;
+And you can see him wear it no less than
+the gentleman that wears the crown.
+ABRAHAM LINCOLN:
+God save us all.
+STANLEY:
+A gentleman must do something, I pray you, to make him happy,
+And I will not let you make him happy.
+BUCKINGHAM:
+I have heard him say that the poor gentleman should be a good sort,
+For his good fortune would be so much greater.
+But, gentleman, I am ashamed not to see him.
+STANLEY:
+He must not wear it, sir, for his safety may be so greater;
+For, like a villain, he is an enemy.
+ABRAHAM LINCOLN:
+Ah, heh, but I do not see him; I do not see him.
+STANLEY:
+Turn aside!
+ABRAHAM
+---------------
+ To be or not to be:
+That I may not be or not to be;
+I am but a man: myself, my mind, my very soul
+Alack, my legs; my crown, my hands, my tongue, my eyes,
+My lip, my heart, my head, my hoof;
+What I will.
+JOHN EDWARD:
+I, sir, may I be so,
+As well as I have, my body, my mind, my eyes, my lips, my mouth, my teeth, my tongue, my heels;
+My tongue, my lips, my teeth, my eyes, my hoof, my chin, my crown, my crown;
+But, if you cannot be we, as to your honesty,
+That is to keep you sober, as to be honest,
+That is not hard to command, as to banish;
+The heart cannot be one man's conscience;
+Hence, well be it done,
+And when you will have some measure of a piece of good to you,
+Whate'er I wish upon the good of my brain,
+Or on the good of my mind--
+CLARENCE:
+Did men live like this,
+Like thy son?
+JOHN EDWARD:
+True: and, as I have told you,
+And you know, with my tender tongue
+I have done justice to and with this same tongue,
+And in my heart I have done justice;
+More and more, with this same tongue
+And in my soul I have done justice.
+CLARENCE:
+Were it not so, Edward,
+I would be content to stay here,
+If I could not be satisfied
+With my health, and with my wife;
+And with my children to my world;
+And with me to love me;
+For I could not be content to be such as you
+Were; my heart and my mind were what:
+But, my heart, my mind, my mind, my mind, my mind;
+And, in my heart, my mind, my mind, my mind, my mind, my mind--
+JOHN EDWARD:
+A wise man; and a good man
+And a good man, it seems.
+CLARENCE:
+Indeed, Henry, my mind, my mind, my mind;
+My mind, my mind, my mind, my mind, my
+---------------
+iter 750: loss 3.1666, time 142601.33ms
+iter 751: loss 3.3300, time 1709.99ms
+iter 752: loss 3.2923, time 1708.71ms
+iter 753: loss 3.3908, time 1708.75ms
+iter 754: loss 3.1317, time 1706.61ms
+iter 755: loss 3.5047, time 1701.42ms
+iter 756: loss 3.2126, time 1705.24ms
+iter 757: loss 3.5406, time 1704.19ms
+iter 758: loss 3.1324, time 1706.90ms
+iter 759: loss 3.5197, time 1713.76ms
+iter 760: loss 3.3452, time 1701.37ms
+iter 761: loss 3.4623, time 1706.88ms
+iter 762: loss 3.2145, time 1706.89ms
+iter 763: loss 3.2726, time 1700.45ms
+iter 764: loss 3.3484, time 1706.48ms
+iter 765: loss 3.3048, time 1702.19ms
+iter 766: loss 3.2881, time 1704.11ms
+iter 767: loss 3.5069, time 1705.58ms
+iter 768: loss 3.2661, time 1702.12ms
+iter 769: loss 3.3663, time 1712.12ms
+iter 770: loss 3.4909, time 1698.72ms
+iter 771: loss 3.3848, time 1704.25ms
+iter 772: loss 3.4372, time 1707.50ms
+iter 773: loss 3.5105, time 1701.36ms
+iter 774: loss 3.2966, time 1704.63ms
+iter 775: loss 3.4426, time 1709.09ms
+iter 776: loss 3.2539, time 1704.19ms
+iter 777: loss 3.4628, time 1699.15ms
+iter 778: loss 3.6551, time 1705.42ms
+iter 779: loss 3.0348, time 1703.11ms
+iter 780: loss 3.3926, time 1707.66ms
+iter 781: loss 3.4196, time 1704.41ms
+iter 782: loss 3.3119, time 1709.20ms
+iter 783: loss 3.4823, time 1697.67ms
+iter 784: loss 3.3507, time 1711.89ms
+iter 785: loss 3.3012, time 1701.87ms
+iter 786: loss 3.2004, time 1704.18ms
+iter 787: loss 3.4728, time 1706.73ms
+iter 788: loss 3.5239, time 1701.62ms
+iter 789: loss 3.3477, time 1706.89ms
+iter 790: loss 3.1649, time 1706.70ms
+iter 791: loss 3.2620, time 1705.46ms
+iter 792: loss 3.2460, time 1706.62ms
+iter 793: loss 3.1113, time 1704.22ms
+iter 794: loss 3.3927, time 1700.13ms
+iter 795: loss 3.4250, time 1704.71ms
+iter 796: loss 3.1868, time 1701.69ms
+iter 797: loss 3.4573, time 1709.13ms
+iter 798: loss 2.8629, time 1711.95ms
+iter 799: loss 3.3359, time 1700.81ms
+estimating train and val loss...
+step 800: train loss 3.2566, val loss 3.3003
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be
+To be virtuous: to be
+Dotty; to be wise, virtuous, honest; to be
+Sleeping with a man: to go and live with a man
+When your body is cold and cold-hearted.
+RICHMOND:
+Why, how so, that we see in the night
+A man as a man or a woman, a maid as a maid
+As we see a mouse in the house; and a man:
+Whilst it is already night, a candle is burning:
+And a candle is both hot and cold:
+And as it is night, we are there; in this way
+That we are a part of the night: and as it is a part of
+The night, I believe the fire is still burning,
+Though it be not yet yet, but not yet noon.
+PETER:
+Came this morning to the house, and then three hours to
+the post, and then I was home. I'll tell you this piece of
+business, not while you were asleep:
+Sirrah, when you were asleep, my brother Lachlan and
+the old gentleman, Jack, came to my house at about eleven o'clock,
+and they took me with them to show me their
+leapenings and the baggage they were passing: they had
+the time of ten o'clock, which time
+they were a couple of hours away. I had, if any man on
+the island, with nine or ten men, seven with nine, five with ten.
+MIKE ELIZABETH:
+I made this order, sir: till that time,
+I will not be a peaceable man.
+PETER:
+The Lord Mayor, come on.
+MARTIN:
+I'll give the place to you; and if you are honourably
+executed, 'tis a better honour to do so.
+PETER:
+Go, I'll be to dinner with you: my honours are for another
+night, if you do not stay till the next
+day: the Duke of Buckingham, come to bed.
+RICHMOND:
+Come, come, come. Come, sir, come.
+PETER:
+My lord, come.
+MIKE ELIZABETH:
+Come, come, come.
+PETER:
+R
+---------------
+ To be or not to be.
+ADAM CAPULET:
+Your lord, thou art wise; thy father,
+Your son, if I may say so.
+POMPEY:
+We shall never enter upon this business.
+ADAM CAPULET:
+Aye, but to your father, who's heard, and thought,
+And but I may show thee some way.
+POMPEY:
+Indeed, he's heard; but he not.
+ADAM CAPULET:
+Nay, he hath not heard; but he has heard; but he hath not.
+POMPEY:
+Go, as you see, I'll leave him. Go, as you see, I'll leave him.
+GREATIUS:
+These have been the proceedings of your father,
+If not you, thou wilt soon do them.
+By this you have lost my father.
+DUKE VINCENTIO:
+Your father, shall he not give thee thy hand?
+MARCIUS:
+Aye, my lord, but for a very brief time.
+DUKE VINCENTIO:
+Thou art more than noble, noble, and powerful
+But is the cause of our woes.
+MARCIUS:
+Ay, your father; now, mare, I will not speak to thee.
+DUKE VINCENTIO:
+I will, my son, and not at this time.
+MARCIUS:
+Pray, if I may, you will not give me my hand?
+DUKE VINCENTIO:
+You have heard it spoken very soundly, your father.
+MARCIUS:
+The good Caesar hath been so many things to-night,
+That he hath made our lives his own,
+That he shall remember the long succession of events.
+DUKE VINCENTIO:
+Ay, my son, I will not stand by your father,
+Where you shall read to him from the monument of his body:
+Your father heard of your father,
+And shall not deny it.
+DUKE VINCENTIO:
+I will, my son, and not at this time.
+MARCIUS:
+Go, as you see, thou art more than noble, noble, and powerful,
+But
+---------------
+ To be or not to be?
+SICINIUS:
+By us,
+For heaven's sake!
+DUKE VINCENTIO:
+It is a very strange thing to die.
+SICINIUS:
+What, then, were not death, or death to be?
+DUKE VINCENTIO:
+It was not to be, at least not to be.
+SICINIUS:
+Now, I say, with that thought,
+To die, when we were alive;
+If all those who live, and do not die,
+Would in all that were dead,
+Have done this, and would do so,
+I cannot for ever say.
+DUKE VINCENTIO:
+Yes, true.
+SICINIUS:
+Why, then, should not he so die?
+DUKE VINCENTIO:
+Because he is dead and for ever.
+SICINIUS:
+Were it not for this, some part of us
+Would live.
+DUKE VINCENTIO:
+By heaven, and even all that were alive,
+Would have done this, and would have done so,
+Because of that being--
+SICINIUS:
+Why, what then?
+DUKE VINCENTIO:
+And yet, and yet for ever
+To be or not to be.
+SICINIUS:
+That says all I hear voices of voices.
+DUKE VINCENTIO:
+O, go!
+SICINIUS:
+Why, let's go.
+DUKE VINCENTIO:
+If't, let's go, sweetie.
+If you can't go, go, sweetie.
+SICINIUS:
+Why, why, let's go!
+DUKE VINCENTIO:
+I will not.
+SICINIUS:
+Callin' for me.
+DUKE VINCENTIO:
+Nay, I'll go quickly.
+SICINIUS:
+What, say you to Caesar?
+DUKE VINCENTIO:
+I have heard him speak; if he should speak
+More with us, we would fight in the field; if
+---------------
+iter 800: loss 3.3325, time 142255.40ms
+iter 801: loss 3.4902, time 1706.57ms
+iter 802: loss 3.4314, time 1703.63ms
+iter 803: loss 3.4049, time 1707.27ms
+iter 804: loss 3.2545, time 1695.16ms
+iter 805: loss 3.3587, time 1706.52ms
+iter 806: loss 3.3998, time 1706.51ms
+iter 807: loss 3.2420, time 1697.78ms
+iter 808: loss 2.9498, time 1708.43ms
+iter 809: loss 3.5817, time 1704.83ms
+iter 810: loss 3.3336, time 1706.47ms
+iter 811: loss 3.1622, time 1712.70ms
+iter 812: loss 3.4515, time 1707.17ms
+iter 813: loss 3.1328, time 1706.81ms
+iter 814: loss 3.3553, time 1707.60ms
+iter 815: loss 3.2707, time 1703.26ms
+iter 816: loss 3.0328, time 1708.00ms
+iter 817: loss 3.3564, time 1709.17ms
+iter 818: loss 3.3631, time 1707.09ms
+iter 819: loss 3.4353, time 1709.70ms
+iter 820: loss 3.3537, time 1704.93ms
+iter 821: loss 3.2371, time 1712.27ms
+iter 822: loss 3.4739, time 1705.45ms
+iter 823: loss 3.3534, time 1700.08ms
+iter 824: loss 3.5418, time 1697.49ms
+iter 825: loss 3.3926, time 1703.51ms
+iter 826: loss 3.3260, time 1704.76ms
+iter 827: loss 3.3277, time 1710.94ms
+iter 828: loss 3.4291, time 1711.50ms
+iter 829: loss 3.3773, time 1704.07ms
+iter 830: loss 3.1415, time 1709.21ms
+iter 831: loss 3.5983, time 1701.57ms
+iter 832: loss 3.3763, time 1707.13ms
+iter 833: loss 3.4612, time 1702.56ms
+iter 834: loss 3.4606, time 1700.75ms
+iter 835: loss 3.4854, time 1699.14ms
+iter 836: loss 3.7036, time 1705.37ms
+iter 837: loss 3.1657, time 1704.61ms
+iter 838: loss 3.2933, time 1708.49ms
+iter 839: loss 3.5635, time 1702.41ms
+iter 840: loss 3.3142, time 1702.92ms
+iter 841: loss 3.4920, time 1706.86ms
+iter 842: loss 3.2647, time 1702.70ms
+iter 843: loss 3.1859, time 1702.72ms
+iter 844: loss 3.4324, time 1703.60ms
+iter 845: loss 3.2431, time 1708.90ms
+iter 846: loss 3.3276, time 1697.16ms
+iter 847: loss 3.3428, time 1704.22ms
+iter 848: loss 3.0673, time 1700.58ms
+iter 849: loss 3.4435, time 1708.68ms
+estimating train and val loss...
+step 850: train loss 3.2233, val loss 3.3316
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be?
+CHUCKINGHAM:
+Like a dream,
+As for the child in me, now thou art my first.
+GRANT:
+Yes, you'll see the son of God.
+CHUCKINGHAM:
+I see, sir, I'll go to them.
+GRANT:
+And tell them that I am not the son of God?
+CHUCKINGHAM:
+It was therefore a great mistake.
+GRANT:
+Not so much as before I believed, sir,
+That thou art my father's son. I
+sent thee with the promise of thy heir;
+And so did I trust thee, and send thee with the
+joy of thy blood's blood to thee.
+CHUCKINGHAM:
+I did trust thee; and in the name of God,
+So did I owe you.
+GRANT:
+It hath been so, sir, that thou grasps me.
+KEO:
+Bearing in mind the rest of thy life,
+And of thy body's humours that thou wert to be friends,
+I'll consider it any day.
+KEO:
+Ay, and keep thee aloof; for, as thou livest,
+Thou livest not so.
+GRANT:
+Look at this, Sirrah, with this heart:
+God, I have no longer ten woes to bear.
+KEO:
+How, do you?
+GRANT:
+Thou mayst not endure.
+KEO:
+Ay, and you mayst not run unawares.
+GRANT:
+But I do wish you would, sir;
+Which I can to save you from the wrath of heaven.
+What?
+KEO:
+With a sure sign of God's grace.
+GRANT:
+God make my matter clear.
+KEO:
+I see it now.
+GRANT:
+Ay, sir, then, let me look to thee.
+KEO:
+O, do not yet know thee.
+GRANT:
+Ay, then, I am weary of thee:
+I am weary of thee.
+KEO:
+O, not yet know thee, but thou knowest not mine:
+That is a pity of mine heart.
+GRANT:
+Ay,
+---------------
+ To be or not to be:
+Or, to be or not to be, you must hold your place amongst us:
+And you, still, cannot claim a place but between us.
+How then, sir?
+LUCIO:
+Ridiculous! I'll be thou king, my lord:
+Whither shall I go?
+LUCIO:
+He's gone, sir.
+RIVERS:
+No. I'll stay to pray the king
+And come to pray for the people.
+I must go, sir.
+LUCIO:
+Sir, you must do your duty.
+RIVERS:
+Ay, sir, thou canst not not; and, therefore,
+I'll do my duty.
+LUCIO:
+Ay, sir, thou canst not. Thou are a man, a king,
+And a coward.
+RIVERS:
+Ay, sir, thou canst not.
+LUCIO:
+Ay, sir, thou canst not.
+RIVERS:
+Ay, sir, thou canst not.
+LUCIO:
+Ay, sir, thou canst not.
+RIVERS:
+Ay, sir, thou canst not.
+LUCIO:
+Sir, you must go, sir:
+I'll go, sir; no more.
+RIVERS:
+I am gone.
+LUCIO:
+Ay, sir, thou canst not.
+RIVERS:
+Ay, sir, thou canst not.
+LUCIO:
+Ay, sir, thou canst not.
+RIVERS:
+Ay, sir, thou canst not.
+LUCIO:
+Ay, sir, thou canst not.
+RIVERS:
+Ay, sir, thou canst not.
+LUCIO:
+Ay, sir, thou canst not.
+RIVERS:
+Ay, sir, thou canst not.
+LUCIO:
+Ay, sir, thou canst not.
+RIVERS:
+Ay, sir, thou can't.
+LUCIO:
+Ay, sir, thou can't.
+RIVERS:
+Ay, sir, thou can't.
+LUCIO:
+Ay, sir, thou can't.
+RIVERS:
+Ay,
+---------------
+ To be or not to be:
+If that be the only thing that is true,
+I will stand on no ground.
+CAPULET:
+But he cannot be so;
+He cannot be so; should he be,
+Who, when he thinks he has a soul,
+Could think of nothing but empty thoughts?
+ANGELO:
+I thought he could be in a good humour.
+CAPULET:
+That's thought a good humour.
+ANGELO:
+Nay, I see he cannot be so.
+CAPULET:
+He has a soul.
+ANGELO:
+I see he can be.
+CAPULET:
+He should be a soul.
+ANGELO:
+Nay, he needs a soul.
+CAPULET:
+He should be too young to be alive;
+And, if he be, he must be so.
+ANGELO:
+Well, he is dead.
+CAPULET:
+The gods know how he lives.
+ANGELO:
+The gods know how he dies.
+CAPULET:
+And he bears scars.
+ANGELO:
+Men can't bear scars,
+And bears scars are not men;
+No, they must, as ye would tell them, have scars;
+And that's not the case, for Men live,
+And that's not the case, for Men die;
+No. Men live, and die, but that they die.
+CAPULET:
+Amen, I do believe that all you do is wrong.
+But let us not wrong ourselves,
+For we must be wrong'd. O Lord,
+To the gods' most gracious, gracious hearts,
+To think you are wrong'd!
+Beneath the heart of the soul of the thing,
+When you are good, to the gods' worst,
+At least you become a malcontent,
+Like to be the duke of Brittany.
+CAPULET:
+Too noble!
+ANGELO:
+Shall I be the duke of Brittany?
+CAPULET:
+You must live.
+ANGELO:
+You must die.
+CAPULET:
+By the gods, I must.
+ANGELO:
+Not by the gods, Thou dost not
+---------------
+iter 850: loss 3.3485, time 142245.18ms
+iter 851: loss 3.5227, time 1712.92ms
+iter 852: loss 3.2522, time 1704.47ms
+iter 853: loss 3.2418, time 1715.17ms
+iter 854: loss 3.2895, time 1702.48ms
+iter 855: loss 3.1680, time 1703.62ms
+iter 856: loss 3.3358, time 1704.71ms
+iter 857: loss 3.3128, time 1700.80ms
+iter 858: loss 3.1538, time 1712.21ms
+iter 859: loss 3.3281, time 1705.81ms
+iter 860: loss 3.6381, time 1706.02ms
+iter 861: loss 3.4246, time 1701.55ms
+iter 862: loss 3.3498, time 1707.81ms
+iter 863: loss 3.1767, time 1701.10ms
+iter 864: loss 3.2832, time 1706.36ms
+iter 865: loss 3.3109, time 1702.99ms
+iter 866: loss 3.4657, time 1703.79ms
+iter 867: loss 3.1786, time 1704.79ms
+iter 868: loss 3.3090, time 1711.28ms
+iter 869: loss 3.3339, time 1706.79ms
+iter 870: loss 3.4513, time 1702.47ms
+iter 871: loss 2.9717, time 1702.05ms
+iter 872: loss 3.3190, time 1704.09ms
+iter 873: loss 3.5796, time 1708.07ms
+iter 874: loss 3.2052, time 1697.99ms
+iter 875: loss 3.2513, time 1715.97ms
+iter 876: loss 3.5211, time 1704.99ms
+iter 877: loss 3.2839, time 1702.76ms
+iter 878: loss 3.4019, time 1706.05ms
+iter 879: loss 3.3831, time 1697.59ms
+iter 880: loss 3.2863, time 1705.36ms
+iter 881: loss 3.4194, time 1705.73ms
+iter 882: loss 3.3842, time 1703.57ms
+iter 883: loss 3.3292, time 1702.59ms
+iter 884: loss 3.3271, time 1707.16ms
+iter 885: loss 3.3314, time 1704.33ms
+iter 886: loss 3.3955, time 1708.50ms
+iter 887: loss 3.4310, time 1699.66ms
+iter 888: loss 3.4529, time 1707.34ms
+iter 889: loss 3.4305, time 1705.51ms
+iter 890: loss 3.2452, time 1702.58ms
+iter 891: loss 3.3960, time 1708.59ms
+iter 892: loss 3.3889, time 1703.14ms
+iter 893: loss 3.5213, time 1704.29ms
+iter 894: loss 3.1571, time 1706.11ms
+iter 895: loss 3.3014, time 1708.16ms
+iter 896: loss 3.3396, time 1697.86ms
+iter 897: loss 3.0041, time 1708.71ms
+iter 898: loss 3.4620, time 1703.47ms
+iter 899: loss 3.2986, time 1707.70ms
+estimating train and val loss...
+step 900: train loss 3.1984, val loss 3.3055
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be: the stars and the earth lay hid, the stars were not yet lost,
+And all lives were lost, even in the sorrow of their souls:
+And not so much as the sea hath lost a life,
+That is not so lost as the soul.
+Madam:
+And yet thou wert valiant unto it:
+Where is that life lost?
+LADY STANLEY:
+What?
+Madam:
+Where is the soul lost?
+LADY STANLEY:
+And I am sick, my poor soul, to live but for the loss;
+And yet thou art valiant unto it.
+Madam:
+For, I am sick, my poor soul, to live but for the loss.
+LADY STANLEY:
+Hadst thou not a thing to lose, thou couldst have'd it well;
+For I am sick, my poor soul, to live but for the loss;
+For I am slain, my poor soul, to live but for the loss:
+Thou art valiant unto it, my poor soul, to live but for the loss.
+Madam:
+The soul-soul, that gives thee much strength to fight,
+Should not die but for the loss.
+LADY STANLEY:
+The soul of a man is what takes him to death:
+You give up a body which is not lost, your body,
+Your soul which is much stronger than life;
+But you will lose a body which is but lost in this life
+And, after life, your soul's death is not 'gainst' by life.
+Madam:
+Where is the soul lost?
+LADY STANLEY:
+Where is the soul lost?
+Madam:
+The soul lost, I think.
+LADY STANLEY:
+Where is the soul lost?
+LADY STANLEY:
+The soul lost, alas!
+Madam:
+Where is the soul lost?
+LADY STANLEY:
+The soul lost, alas!
+Madam:
+What purpose is this, that thou o'erst to lose,
+That thou wast lost from this life?
+LADY STANLEY:
+To see thee die.
+Madam:
+This I will
+---------------
+ To be or not to be.
+BRUTUS:
+Why then, I say,
+Would we not, for this?
+ROMEO:
+I did not say so, but still am amazed.
+BRUTUS:
+What is it that brings him to this?
+ROMEO:
+He goes to the Roman city and
+He brings the valet of Exeter: he is moved.
+BRUTUS:
+He then follows them to the temple.
+ROMEO:
+I was told that Angelo was to the king:
+To whom I was told his name was Angelo.
+BRUTUS:
+Alone with Angelo!
+ROMEO:
+He knows his name, Angelo!
+BRUTUS:
+He knows his name, Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo! Angelo
+---------------
+ To be or not to be
+Locate the former of your wife? i.e.,
+The old of your health;
+The babe of your father;
+The son of your mother;
+Your daughter of your father's.
+KING RICHARD II:
+This is the child I have,
+By way of my mother, which I have.
+SLY:
+That, uncle, will not be his wife;
+And in the house he is born,
+And, in the house that he is born,
+And, in the house that he is born,
+And, in the house that he is born,
+We have had him all, by faith,
+That did come to pass under my father.
+KING RICHARD II:
+I'll but tell you, uncle, that I have seen
+Nurse Richard's house and that his house
+Is in honour of my mother, and have come to see
+First Lady Maria, first daughter of Burgundy,
+First daughter of Salisbury, and second wife
+To our Lord Bolingbroke; and that, as he says,
+He had done more to make my mother an uncle
+Than I had done to make my father,
+And, as you shall see, that shall help him so much to it.
+SLY:
+Tell me, sir, what is this he hath done
+To make my mother an uncle?
+KING RICHARD II:
+He hath done it to make my father an uncle,
+For I have already, from my mother's daughter
+That I have held in my father's mind,
+And that hath given him power to make me an uncle,
+Which, if I may say so, should have made him an aunt.
+SLY:
+You'll remember that, being well advised,
+I have tried my best to get him from his father.
+KING RICHARD II:
+I do that when I have a business or an interest
+To spend to him.
+SLY:
+Your mother, shall you see her?
+KING RICHARD II:
+She is gone with her husband, and she will
+Be none of comfort in her presence,
+But for your brother's sake, and for his own.
+SLY:
+Your brother, stand your ground against me.
+KING RICHARD II:
+By my father
+---------------
+iter 900: loss 3.4530, time 142217.17ms
+iter 901: loss 3.0995, time 1700.44ms
+iter 902: loss 3.2500, time 1698.01ms
+iter 903: loss 3.1724, time 1711.34ms
+iter 904: loss 3.2741, time 1702.78ms
+iter 905: loss 3.4792, time 1705.86ms
+iter 906: loss 3.3005, time 1711.34ms
+iter 907: loss 3.4246, time 1700.65ms
+iter 908: loss 3.6032, time 1706.07ms
+iter 909: loss 3.2791, time 1708.50ms
+iter 910: loss 3.2081, time 1701.00ms
+iter 911: loss 3.5226, time 1703.35ms
+iter 912: loss 3.3659, time 1708.29ms
+iter 913: loss 3.5399, time 1700.10ms
+iter 914: loss 2.9945, time 1702.10ms
+iter 915: loss 3.5004, time 1705.70ms
+iter 916: loss 3.4529, time 1705.00ms
+iter 917: loss 3.3689, time 1698.57ms
+iter 918: loss 3.2470, time 1701.87ms
+iter 919: loss 3.3773, time 1714.73ms
+iter 920: loss 3.4271, time 1706.55ms
+iter 921: loss 3.1288, time 1703.92ms
+iter 922: loss 3.0868, time 1703.29ms
+iter 923: loss 3.4645, time 1709.60ms
+iter 924: loss 3.1589, time 1700.69ms
+iter 925: loss 3.1293, time 1705.82ms
+iter 926: loss 3.3396, time 1704.27ms
+iter 927: loss 3.4823, time 1703.40ms
+iter 928: loss 3.3739, time 1706.08ms
+iter 929: loss 3.1673, time 1701.35ms
+iter 930: loss 3.2771, time 1709.11ms
+iter 931: loss 3.2933, time 1704.65ms
+iter 932: loss 3.3749, time 1699.80ms
+iter 933: loss 3.2338, time 1704.67ms
+iter 934: loss 3.2619, time 1707.73ms
+iter 935: loss 3.4355, time 1707.75ms
+iter 936: loss 3.0416, time 1705.25ms
+iter 937: loss 3.1125, time 1708.62ms
+iter 938: loss 3.1020, time 1705.00ms
+iter 939: loss 3.2717, time 1710.99ms
+iter 940: loss 3.4101, time 1705.04ms
+iter 941: loss 3.5296, time 1695.46ms
+iter 942: loss 3.2058, time 1701.76ms
+iter 943: loss 3.3203, time 1702.32ms
+iter 944: loss 3.3107, time 1705.18ms
+iter 945: loss 3.2532, time 1708.89ms
+iter 946: loss 3.1176, time 1698.98ms
+iter 947: loss 3.3608, time 1711.30ms
+iter 948: loss 3.3513, time 1705.27ms
+iter 949: loss 3.6262, time 1701.04ms
+estimating train and val loss...
+step 950: train loss 3.1999, val loss 3.2924
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be.
+WARWICK:
+I have said it often,
+Which, for me, is very not true,
+Unless this my part of the meaning;
+Or my part, by some other person,
+More than my true nature would dare to bear.
+ROMEO:
+You bid me give your death, my lord,
+To a man so sacred, so holy,
+As I stand on the cross and bear your name.
+WARWICK:
+If I yield, I'll do it with my life.
+MARGARET:
+Now, sir, tell you, 't that.
+WARWICK:
+Then, on this point,
+Till I know the truth of it,
+Let me answer you as truthfully as a man.
+MARGARET:
+But since thou wilt accept my life in my hand,
+I'll be your father's executor:
+More than my true nature will bear.
+WARWICK:
+That's I'll do
+For his name, George, now and then, as thou dost,
+And for his virtue, and thy unchangeable grace,
+Whether now in my hands or on the cross;
+To execute his will to the most great perfection.
+MARGARET:
+That's true, sir;
+And I'll do for his name as well,
+For his good company and his true life.
+PRINCE EDWARD:
+Go, go, sir, do.
+MARGARET:
+Good sir, go, sir.
+WARWICK:
+Think never of him: not me, not him.
+But come, sir, for once, for you are a father:
+You will be sure he is now your father;
+And yet with him no father can live.
+PRINCE EDWARD:
+Or, indeed, with him.
+WARWICK:
+You have heard how thou art born, you know,
+And how early we lie, and how ancient we are.
+PRINCE EDWARD:
+Then, sir, I'll go to your mother;
+And I'll teach thou the meaning of my prayer.
+WARWICK:
+No, sir, no, sir.
+MARGARET:
+PRINCE EDWARD:
+Then
+---------------
+ To be or not to be
+As I thought,
+That with you I should think I am my truth,
+By my heart I would be no true man:
+For I am, nature, I do give and promise.
+GLOUCESTER:
+Bear, bear, I say, bear, my good name.
+ROMEO:
+Good heavens, I say.
+GLOUCESTER:
+And, by your good name:
+Why, are they good in me?
+ROMEO:
+Out of necessity,
+Having a devil's eye to see the reason,
+O, I do believe, I am a madman,
+With my tongue far lain undone,
+That my good name confounds and echos me
+Like a spider having a spider's web.
+Men do not come in true,
+But a lie: if I
+Be a true man, I will feel myself a truth.
+ROMEO:
+And I shall be a truth;
+For it would be like a spider, me to an untaught fool.
+GLOUCESTER:
+What will be that I do lie?
+ROMEO:
+A lie is like a spider's web, not deceived:
+But as an untie mark, as a fool's web,
+As a counterfeit-nut tree, as counterfeit a vine, as counterfeit the vine, I intend.
+GLOUCESTER:
+I did mean a poison in you;
+I did mean a lie;
+But now I am a lie.
+ROMEO:
+By the way, what news?
+GLOUCESTER:
+A news, that they should love me.
+ROMEO:
+And their need shall be requited.
+GLOUCESTER:
+By the way, what news?
+ROMEO:
+A news, that they should love me.
+GLOUCESTER:
+By the way, what news?
+ROMEO:
+A news that they should love me.
+GLOUCESTER:
+A news, that they should love me.
+ROMEO:
+A news, that they should love me.
+GLOUCESTER:
+A news, that they should love me.
+ROMEO:
+A news, that they should love me.
+GLOU
+---------------
+ To be or not to be, to be or not to be,
+To believe it or not, to believe it not.
+BUCKINGHAM:
+Here comes a friend of mine.
+SICINIUS:
+I think he will be a good friend.
+BUCKINGHAM:
+Very good.
+SICINIUS:
+I am glad to hear your knowledge, sir,
+Your knowledge of Rome is very good.
+BUCKINGHAM:
+First Senator of Rome: I'll follow you,
+In the palace.
+First Senator of Rome:
+I think, sir, I am glad to hear your knowledge:
+I must be short: I shall be so,
+With a good voice.
+First Senator of Rome:
+What?
+BUCKINGHAM:
+Sometime, sir.
+SICINIUS:
+As long as you live, sir, but twenty years behind it.
+BUCKINGHAM:
+Until then, sir; and I will hear your knowledge.
+SICINIUS:
+I do think so.
+BUCKINGHAM:
+Good Lord, I will hear your understanding.
+First Senator of Rome:
+You must be short.
+SICINIUS:
+I cannot mean, sir, or you must be short.
+BUCKINGHAM:
+Why, for shortness.
+SICINIUS:
+For a short time.
+BUCKINGHAM:
+The next day, sir; and I shall hear your understanding.
+First Senator of Rome:
+Your understanding?
+BUCKINGHAM:
+A very short time.
+SICINIUS:
+Your understanding?
+BUCKINGHAM:
+A very short time!
+First Senator of Rome:
+Poor Master, for I have scarce any knowledge of that.
+BUCKINGHAM:
+Ay, I wot well, sir; and as for a short time,
+The next day you shall hear your understanding.
+SICINIUS:
+Nor shall you hear you understand my understanding.
+BUCKINGHAM:
+Because you have not knowledge of Rome?
+SICINIUS:
+Because you have not knowledge of Rome!
+BUCKINGHAM:
+Ay, sir, and
+---------------
+iter 950: loss 3.3363, time 142205.89ms
+iter 951: loss 3.3517, time 1707.24ms
+iter 952: loss 3.1912, time 1701.39ms
+iter 953: loss 3.0879, time 1710.54ms
+iter 954: loss 3.3779, time 1700.62ms
+iter 955: loss 3.0927, time 1713.90ms
+iter 956: loss 3.4440, time 1714.64ms
+iter 957: loss 3.3470, time 1701.99ms
+iter 958: loss 3.3247, time 1710.24ms
+iter 959: loss 3.4167, time 1707.18ms
+iter 960: loss 2.9711, time 1705.80ms
+iter 961: loss 3.0637, time 1711.39ms
+iter 962: loss 3.2996, time 1702.03ms
+iter 963: loss 3.2329, time 1705.64ms
+iter 964: loss 3.4445, time 1706.27ms
+iter 965: loss 3.1247, time 1703.69ms
+iter 966: loss 3.2154, time 1703.47ms
+iter 967: loss 3.1122, time 1705.61ms
+iter 968: loss 3.0406, time 1707.21ms
+iter 969: loss 3.4055, time 1705.86ms
+iter 970: loss 3.3513, time 1706.85ms
+iter 971: loss 3.2871, time 1704.08ms
+iter 972: loss 3.5661, time 1705.44ms
+iter 973: loss 3.3776, time 1702.66ms
+iter 974: loss 3.4851, time 1703.04ms
+iter 975: loss 3.2119, time 1705.75ms
+iter 976: loss 3.2569, time 1703.27ms
+iter 977: loss 3.2896, time 1705.28ms
+iter 978: loss 3.2309, time 1703.25ms
+iter 979: loss 3.5871, time 1705.05ms
+iter 980: loss 2.9683, time 1701.94ms
+iter 981: loss 3.4722, time 1709.04ms
+iter 982: loss 2.8810, time 1699.91ms
+iter 983: loss 3.2746, time 1708.96ms
+iter 984: loss 3.3014, time 1705.81ms
+iter 985: loss 3.1295, time 1702.48ms
+iter 986: loss 3.1432, time 1709.88ms
+iter 987: loss 3.2408, time 1702.71ms
+iter 988: loss 3.2885, time 1709.40ms
+iter 989: loss 3.3712, time 1704.86ms
+iter 990: loss 3.2783, time 1709.32ms
+iter 991: loss 3.4749, time 1706.79ms
+iter 992: loss 3.4351, time 1705.91ms
+iter 993: loss 3.1814, time 1702.59ms
+iter 994: loss 3.4340, time 1706.82ms
+iter 995: loss 3.5203, time 1705.17ms
+iter 996: loss 3.5289, time 1707.36ms
+iter 997: loss 3.2233, time 1704.41ms
+iter 998: loss 3.1817, time 1703.03ms
+iter 999: loss 3.4485, time 1705.70ms
+estimating train and val loss...
+step 1000: train loss 3.1777, val loss 3.3655
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be; the mind is mind unto all.
+KING RICHARD II:
+What is wisdom?
+GLOUCESTER:
+Thou art neither--good or bad: there is nothing but what thou wert.
+KING RICHARD II:
+I think that he is not.
+GLOUCESTER:
+I think, sir; he is; and so still is he.
+Still the same thing comes to it.
+KING RICHARD II:
+Indeed, and never was he wise.
+GLOUCESTER:
+How now, in England, is the prince?
+KING RICHARD II:
+He, both he and myself, is made prince,
+Which we shall, as soon as we may! Why, do we,
+The crown, the liege, and all the kings--
+Lest there be his royal name, which he hath,
+Shall be a tale, a tale, to be put to our book.
+GLOUCESTER:
+I am more noble than thou art, and thou hast no shame
+But nothing else than a tale--a tale to be told,
+For thou art nothing but a tale;
+Therefore, look, and be amazed: for we are
+a tale, and thou art not.
+KING RICHARD II:
+Shall be a tale.
+GLOUCESTER:
+Yet behold, I am glad of thee.
+KING RICHARD II:
+Yet I am glad of thee.
+GLOUCESTER:
+How now, in England, is the prince?
+KING RICHARD II:
+He, both he and myself, is made prince,
+Which we shall make, as soon as we may!
+GLOUCESTER:
+This is the kingdom.
+KING RICHARD II:
+It is not the king.
+GLOUCESTER:
+Hark, now, father, we dance; whose drum have
+bears we not but a tune of death, but which
+lasts, and we dance after our break;--Which again hath the
+music of sleep--which, too, our ears miss;
+And, in sleep? Thou hast not an ear to hear;
+And as thou art sleeping,
+Thou art not so dead as thou
+---------------
+ To be or not to be
+To not to be. If you act and mean;
+Then for this purpose. But why must you?
+Nurse:
+To be born again?
+YORK:
+To be born again, I tell you.
+Nurse:
+To be born again: why cannot you?
+KING RICHARD III:
+Why cannot you?
+Nurse:
+Because, rather, if you act and say,
+Then for this purpose.
+KING RICHARD III:
+Why should you?
+Nurse:
+Because, rather, if you act and say,
+Then for this purpose.
+KING RICHARD III:
+What's your purpose?
+BISHOP OF YORK:
+To be born again.
+Nurse:
+I'll tell you, 'tis a very good thing.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again. I will tell you,
+'Twould be a very good thing.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again. I will tell you,
+'Twould be a very good thing.'
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+Nurse:
+To be born again.
+KING RICHARD III:
+What's your purpose?
+---------------
+ To be or not to be
+A prisoner to her brother by this fault.
+KING RICHARD II:
+What, what! why, that thou, Lord Hastings, dost know
+That my father's honour should be disowned;
+That, dost thou find him indeed, the lord of
+Dorset, whom I'll honour by your royal crown,
+And yet take for him to be a traitor?
+Why, when he is, thou art the lord of Dorset,
+That I'll honour hence by the grace of God
+With much dishonour and for wrong should be
+From this traitor with him.
+CORIOLANUS:
+Ah, good grief! it is heaven to be a traitor's man
+And my father's honour be disowned.
+KING RICHARD II:
+Ah, fair God! well, good grief--
+CORIOLANUS:
+I'll forget you.
+KING RICHARD II:
+Good grief! well, good grief--
+CORIOLANUS:
+This I would forbear:
+O, so you see. God, what kind of man the queen
+Lies so much in such a matter,
+That thou cannot but wail in thy heart:
+She never made such a deal to be married with
+She must have sworn to marry with her brother,
+And to live with him. And to live with her father,
+The very soul of a man,
+That the world can condemn that he did make her daughter.
+CORIOLANUS:
+'Tis so.
+KING RICHARD II:
+Are you not tears for her face,
+That cannot bear down to the shame of this forfeit?
+CORIOLANUS:
+Not, my lord.
+KING RICHARD II:
+She did make such a deal to be married with her brother,
+And would not have sworn to do so.
+Why, of all the kings of the earth, this man,
+In this man's tender love;
+In this man's tender love, most sweet and sweetly,
+And even the most noble and most gracious,
+And in this man's tender love, in this man's tender love,
+Is this what thou hast made your wife:
+I know not what thy love was, but that God
+Desires it to be so; and I have
+---------------

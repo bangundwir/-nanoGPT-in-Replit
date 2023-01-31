@@ -1,0 +1,274 @@
+starting training...
+estimating train and val loss...
+step 0: train loss 4.2676, val loss 4.1401
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be. The notion of doing something is easy to sustain for so long as you don't lose grip on it. The second problem with this approach is that it really doesn't tell you what you should do. It's hard to know what to do when you're not feeling it 100%.
+Instead of worrying about whether what you're doing is right or wrong and whether it's actually wrong, don't worry about how bad it is. It's better to call up a friend or a coworker or a colleague who's trying to say something that's absolutely correct. You know more what to do about it when it's really wrong.
+4. Don't give up hope
+This one's a bit more obvious. I'm not sure if I'm saying all the time that I'm still talking to myself about what I was doing wrong. This is, however, a really basic aspect of doing a good job of being self-aware about your own health and well-being.
+For a long time I was just telling myself that if I could live with the fact that I was suffering, I would be happier. And for a long time, I'd be more happy without it. But now I'm thinking of telling myself it's the right thing to do, and that it's time to do something about it. I've heard people say these things to me and things are doing better, but this is just a prelude to doing a better job of holding on to it.
+The best advice I've ever received from people who have actually been doing this job was this: Don't give up hope. Be honest with yourself. Even though you might have a better attitude about yourself that you're doing well with, you need to be willing to admit you've been wrong.
+Don't be afraid to admit that you've been wrong. You've been wrong about yourself. Be proud to say that you have been wrong about yourself.
+Related: The Best People to Work With
+5. Ditch guilt
+This one's a bit more complicated. First…
+I'm convinced that in a few decades, the world will be a better place. There will be a time when we all realize that our lives are more rewarding in some way. It might be more stressful than it was in the past. It might even be quite awful. We might even be better off today. But until then, there will be times when
+---------------
+ To be or not to be:
+2. There are two categories of alcohol consumption by people who may or may not have consumed alcohol:
+a. Those who use drugs to "buy" or "sell" drugs.
+b. Those who don't use drugs to "buy" or "sell" drugs.
+c. Those who have drunk alcohol and consumed alcohol that is believed to be or was determined to be "comfortable" or "safe."
+d. Those who have not been otherwise able to consume alcohol.
+e. Those who have been "disordered" (I) or "disordered" (II) or (III).
+f. Those who have been "confused or confused" (I) or (II).
+g. Those who do not eat or drink.
+h. Those who are able to eat or drink "too much" or "drunk too much."
+For example, a 17-year-old has a problem with alcohol and suffers from seizures over alcohol consumption. He is unable to swallow and cannot take a cigarette for the next 10 days, only once every 20 hours.
+For example, if he is an 18-year-old, he is not able to swallow the next 20 liters of beer.
+For example, the 9-year-old is unable to swallow a six-litre bottle of milk.
+While this list of alcohol-related problems may be confusing, it does not mean that drinking alcohol is one of them.
+2.1 Alcoholics are the most common group of people not to consume alcohol.
+1. A person who drinks alcohol is not capable of consuming alcohol as a result of the actions that they take to "get drunk."
+2. There are two categories of alcohol consumption by people who may or may not have consumed alcohol:
+a. Those who use drugs to "buy" or "sell" drugs
+b. Those who don't use drugs to "buy" or "sell" drugs
+c. Those who have drunk alcohol and consumed alcohol that is believed to be or was determined to be "comfortable" or "safe."
+d. Those who have not been otherwise able to consume alcohol.
+e. Those who have been "disordered" (I) or (II) or (III).
+For example, a 17-year-old has
+---------------
+ To be or not to be:
+* And she did not have the heart of a man.
+* And she did not know that he was righteous.
+* And she did not know that he was blameless.
+* And she did not understand that he was a thief.
+* And she did not know that he was a viper.
+* And she did not know that he was an ark-bearer.
+* And she did not know that he was an ark-horseman.
+* And she did not understand that he was a demon.
+All this, for the sake of the world, does not hinder her from feeling in a religious sense. She stands before the throne where she will not be judged and judged as she pleased; she lays her hand on the throne and smote the head of her servant, and she does not look at him, but looks at her only. And she will say to him, "When will Myself be judged?" And that is what she will say to him.
+As I shall write, she will indeed feel the law for herself; she will not like to be judged or punished. But she will not worship as an idol, unless she be able to repent and to go on to reach the kingdom of the Lord. But there will be signs in her eyes that will help her to repent of her sins. So too, I shall say before this book shall become a book unto her, through the deeds of those who have done her the wrong. And then she will be judged:
+For She will not be judged just because she had done wrong with them.
+For she will have received the punishment she was destined to, only because she did wrong with them. And when she had done wrong with them, not only did she be punished for her wrong, but she was punished for transgressions.
+Do not give her the wrong stuff, but justify her wrong with the right things.
+Do not beat her and bewitch her; for it is better to be loved than to be shunned, than to hang your head on a pile of ashes and be a sheep.
+They shall punish you, she shall punish you, and she shall punish you with the wrath of Hell.
+Do not beat her and bewitch her, but justify her wrong with her.
+Do not beat her and bewitch her,
+---------------
+iter 0: loss 4.3652, time 163224.09ms
+iter 1: loss 3.9382, time 2200.98ms
+iter 2: loss 3.8450, time 2220.76ms
+iter 3: loss 3.8125, time 2226.83ms
+iter 4: loss 3.9263, time 2220.57ms
+iter 5: loss 3.7736, time 2214.41ms
+iter 6: loss 3.9776, time 2215.93ms
+iter 7: loss 3.7338, time 2214.04ms
+iter 8: loss 3.8820, time 2228.31ms
+iter 9: loss 3.6491, time 2215.51ms
+iter 10: loss 3.7391, time 2233.30ms
+iter 11: loss 3.9040, time 2226.76ms
+iter 12: loss 3.6055, time 2229.11ms
+iter 13: loss 3.5401, time 2212.28ms
+iter 14: loss 3.8352, time 2209.27ms
+iter 15: loss 3.9098, time 2215.92ms
+iter 16: loss 3.6863, time 2220.46ms
+iter 17: loss 3.6358, time 2222.23ms
+iter 18: loss 3.7324, time 2222.66ms
+iter 19: loss 3.7038, time 2226.25ms
+iter 20: loss 3.7465, time 2221.27ms
+iter 21: loss 3.5510, time 2210.72ms
+iter 22: loss 3.5964, time 2212.65ms
+iter 23: loss 3.7190, time 2219.23ms
+iter 24: loss 3.7178, time 2246.12ms
+iter 25: loss 3.6527, time 2209.57ms
+iter 26: loss 3.5036, time 2209.74ms
+iter 27: loss 3.6969, time 2228.28ms
+iter 28: loss 3.6908, time 2218.30ms
+iter 29: loss 3.5813, time 2218.66ms
+iter 30: loss 3.7445, time 2210.18ms
+iter 31: loss 3.7612, time 2213.26ms
+iter 32: loss 3.3666, time 2221.86ms
+iter 33: loss 3.5626, time 2216.73ms
+iter 34: loss 3.7072, time 2236.72ms
+iter 35: loss 3.5479, time 2223.80ms
+iter 36: loss 3.6965, time 2216.81ms
+iter 37: loss 3.7721, time 2242.02ms
+iter 38: loss 3.7342, time 2232.58ms
+iter 39: loss 3.7821, time 2231.11ms
+iter 40: loss 3.5373, time 2204.03ms
+iter 41: loss 3.6129, time 2235.25ms
+iter 42: loss 3.5859, time 2217.52ms
+iter 43: loss 3.5298, time 2233.19ms
+iter 44: loss 3.7569, time 2229.94ms
+iter 45: loss 3.5596, time 2225.16ms
+iter 46: loss 3.8004, time 2230.80ms
+iter 47: loss 3.7486, time 2225.44ms
+iter 48: loss 3.5716, time 2227.04ms
+iter 49: loss 3.5702, time 2222.88ms
+estimating train and val loss...
+step 50: train loss 3.5883, val loss 3.4481
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+ To be or not to be
+His/her fate and fate and fate
+From him what fate, your fate's fate
+You must never fail
+Your destiny and fate
+The fate, the fate
+Come on, come on!
+Let's be able to get to this
+This is our fate , our fate
+My fate, my destiny's destiny
+To keep this for you
+And keep it for you
+That's my destiny
+My destiny, my destiny's destiny
+And keep it for you
+That's my destiny
+My destiny, my destiny's destiny
+Let's be able to get to this
+To get this
+Now we must take care
+We must take care
+I've had enough of you
+For you've had enough of me for you
+You must be at this
+To take care
+I'll be there
+I'll be here
+I'll be here
+No, no, no, no, no, I won't let you
+No, no, no, no, no, no, no, no, no, no, no
+I'll be there
+I'll be here
+I'll be here
+I'll be here
+I'll be here
+We'll be there
+We'll be there
+But we'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+We'll have to leave...
+---------------
+ To be or not to be:
+Lion-like, O my God!
+You are the mortal and vassal.
+Go to thy bed.
+We have come,
+Where we are the mortal and vassal.
+We must die:
+That is the matter of the day:
+The mortal and vassal are dead:
+The mortal and vassal are dead:
+The mortal and vassal are dead:
+And you can kill them,
+But you have no means of killing them.
+You can kill them, but you have no means of killing them.
+Gothos, if you die,
+You will be dead to me and my enemies:
+I shall not be your enemy.
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be or not to be:
+To be
+---------------
+ To be or not to be, we have to make our needs known to the man who gives us them. Where is it like? From his own mind, and as the man he is: I know not. But what does it matter, if we are as we are, that we have a creature, and that it does not know us? The creature will not know us. But if we have a creature, he will not know us.
+He said, I am not a creature.
+And he said, I am a creature.
+Neither is I a creature, but I am the body of a man; if I be a creature, all things must be so.
+I say, and this is from the beginning.
+He said, I am not a creature.
+In the first place I call myself a creature; and for which I am so called I have been called a creature.
+He said, but the creature is with us, through his own senses; and for this reason it is of no use to call him so.
+I say, yet, yet, yet, I am a creature.
+He said, I am a creature.
+He said, but the creature is with us, through his own senses; and for this reason it is of no use to call him so.
+He said, yet, yet, yet, I am a creature.
+He said, but the creature is with us, through his own senses; and for this reason it is of no use to call him so.
+He said, yet, yet, yet, I am a creature.
+I say, yet, yet, yet, I am a creature.
+He said, yet, yet, yet, but I am a creature.
+He said, yet, yet, yet, but I am a creature.
+He said, but the creature is with us, through his own senses; and for this reason it is of no use to call him so.
+He said, yet, yet, yet, I am a creature.
+What then, then, a creature?
+What then, then, a creature?
+What then, then, a creature?
+I say, yet, yet, yet, I am a creature.
+He said, yet, yet, yet, yet, I am a creature.
+He said
+---------------
+saving checkpoint to out-shakespeare
+Traceback (most recent call last):
+  File "main.py", line 379, in <module>
+    wandb.log_artifact(os.path.join(out_dir, 'ckpt.pt'), name='nanoGPT-shakespeare', type='model',
+  File "/home/runner/nanoGPT-in-Replit/venv/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 333, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/runner/nanoGPT-in-Replit/venv/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2715, in log_artifact
+    return self._log_artifact(
+  File "/home/runner/nanoGPT-in-Replit/venv/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 2845, in _log_artifact
+    raise ValueError(

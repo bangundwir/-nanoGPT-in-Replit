@@ -1,0 +1,603 @@
+starting training...
+estimating train and val loss...
+step 0: train loss 4.2687, val loss 4.1055
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+To be or not to be. The notion of doing something is easy to sustain for so many people in the United States. And it's not really something that can be addressed by an individual, nor by a government. It's a matter of choice.
+We're dealing with an individual who is 100 percent happy and he wants to take care of his family, and he's a family man, and I'll say this, he is involved in a family with a lot of friends. And in his life he's made an effort to help other people and to deal with his situation. He's always been a kind guy. I think it's really important that we take somebody who is engaged and has an interest in his role, to come in and learn from him. And that's what I've tried to do.
+And our course of action is in this -- our answer is, unfortunately, we don't have the option, but we do have the option of having a few of our elected officials come together and make an effort to recognize that we have a problem with free speech.
+SEN. RUBIO: Thanks, Mr. Speaker.
+GOV. RODNEY: I'll be here. Thank you, Mr. Chairman
+---------------
+To be or not to be a professional athlete or a professional athlete, if you don't want to compete, you don't have to compete at all.
+But it's also worth observing how they're running through training. This is one of the most important issues of the training industry; they want all they can.
+With the time allotted for all of this, they use massive amounts of training resources. They go through training days and weeks and months, training sessions, I mean literally.
+Although this is being talked about as a way to improve your performance, what are the key things people care about on a regular basis?
+My point is to give you an idea of the top athletes that can train as well as the ones who don't.
+Now, let's look at just a few of those athletes.
+Chris Archer
+Chris Archer is a very smart individual, but he's in a different league than most and he has a lot of issues.
+Now that Chris is out of college, he must look at all the coaches and trainers that he's used to, and if he doesn't understand how to work with them, he'll go into some of those training sessions, and then they don't have a
+---------------
+To be or not to be: the following are more abstracts: "Rhetoric, interpretation, and proof. Use the arguments and make clear the meaning and necessity of what you are saying or reading."
+Here are what some of these statements would mean:
+Sheep and goats "are a different species..."
+"Sheep and goats have, in fact, almost always been bred to be intelligent and lively."
+"Sheep and goats both have high bloodlines and very similar minds."
+"Sheep and goats have an extremely intelligent kind of mind."
+"Sheep and goats are usually very sensitive. They tend to be very good at finding things in the house."
+"They are very intelligent and intelligent."
+"Sheep and goats are absolutely docile."
+"Sheep and goats are extremely docile. They're very quick to learn."
+The above statements make one think, "Who says they're docile when they are not."
+If we read carefully it will take us to a point where we can understand what people are saying and how they hold themselves to that. This is where I think I'm most comfortable with the idea of an argument. However, I know
+---------------
+iter 0: loss 4.7697, time 67577.69ms
+iter 1: loss 4.5859, time 2321.06ms
+iter 2: loss 4.5883, time 2314.42ms
+iter 3: loss 4.5041, time 2325.65ms
+iter 4: loss 4.5048, time 2312.62ms
+iter 5: loss 4.4124, time 2352.17ms
+iter 6: loss 4.4512, time 2335.62ms
+iter 7: loss 4.2991, time 2315.45ms
+iter 8: loss 4.3844, time 2328.27ms
+iter 9: loss 4.3764, time 2323.61ms
+iter 10: loss 4.1531, time 2330.75ms
+iter 11: loss 4.4871, time 2346.60ms
+iter 12: loss 3.6530, time 2309.07ms
+iter 13: loss 4.3208, time 2312.20ms
+iter 14: loss 4.3602, time 2332.61ms
+iter 15: loss 4.3956, time 2313.42ms
+iter 16: loss 4.1618, time 2328.76ms
+iter 17: loss 4.1518, time 2332.34ms
+iter 18: loss 4.1872, time 2329.21ms
+iter 19: loss 4.0051, time 2325.95ms
+iter 20: loss 4.1306, time 2339.93ms
+iter 21: loss 3.7623, time 2328.12ms
+iter 22: loss 4.0890, time 2335.28ms
+iter 23: loss 4.1820, time 2339.72ms
+iter 24: loss 4.0863, time 2333.89ms
+iter 25: loss 4.0088, time 2312.17ms
+iter 26: loss 3.9983, time 2308.84ms
+iter 27: loss 3.8859, time 2333.57ms
+iter 28: loss 3.7278, time 2308.29ms
+iter 29: loss 3.6256, time 2312.08ms
+iter 30: loss 4.1740, time 2331.47ms
+iter 31: loss 3.9976, time 2331.29ms
+iter 32: loss 3.8866, time 2328.65ms
+iter 33: loss 4.1657, time 2336.54ms
+iter 34: loss 3.7944, time 2320.24ms
+iter 35: loss 3.9096, time 2321.56ms
+iter 36: loss 4.0459, time 2334.39ms
+iter 37: loss 3.8249, time 2338.30ms
+iter 38: loss 3.8855, time 2304.94ms
+iter 39: loss 4.0044, time 2337.61ms
+iter 40: loss 3.8172, time 2330.71ms
+iter 41: loss 4.0118, time 2335.67ms
+iter 42: loss 3.8219, time 2336.18ms
+iter 43: loss 3.9766, time 2310.31ms
+iter 44: loss 4.1236, time 2319.44ms
+iter 45: loss 4.0430, time 2321.58ms
+iter 46: loss 3.8083, time 2322.80ms
+iter 47: loss 4.0253, time 2322.35ms
+iter 48: loss 3.8877, time 2328.12ms
+iter 49: loss 3.9544, time 2307.55ms
+estimating train and val loss...
+step 50: train loss 3.7180, val loss 3.5150
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+To be or not to be so, I must judge: for I am not content with myself only, but with most of us as well. We have moved to go, and will now move to take care of the rest of us."
+"Why, we must," said he, "but that we are to be confined," and looked eagerly at him. "We have a bad kind of society to be confined to, if we will not be content with this. First, because our nature is horrible, and the manners of our family are not. There are other animals among us, who are miserable, and would be more comfortable on earth if we could not be so. We should abolish the manners of our home and put them at risk.
+"Then, we may be permitted to be confined. We may easily escape the prison, but the punishment will be death. We must give up our desire to go. We must not pretend that there is no choice, but that we must make it by our own choice.
+"And, come, let us have a rest, and be with us till the death-penalty shall be pronounced. I know that you will not be able to escape, and yet feel a desire for you.
+---------------
+To be or not to be? And what is grace?
+And why do you insist before God that you can live with Christ?
+Wherefore your faith must be known by me, that I might make those whom I love known to me.
+Think the Lord said unto him;
+'I will confess him unto you with your own hands.
+'But he said:
+'That he who would be dead and be saved by his righteousness, if he were alive, and not dead, shall be saved,
+'And such is the mystery in him. He did not kill us,
+'But he did not save us by his righteousness.'
+'And so you would be justified by your faith,
+'and not by his righteousness.'
+'You are to believe that he is dead in your hands.'
+Wherefore I ask you,
+'How shall I know if he is not dead in my hands?'
+'Will it not be by your faith, that I may know whether he is not dead in your hands?'
+'Then would we have nothing, if I could not know whether he is dead in my hands?'
+'Therefore you answer,
+---------------
+To be or not to be, or to be or not to be, you need not wait the same time.
+SEO
+The truth about our feelings. We often think of feeling as a commodity, but think of feelings as a relationship. They are like a branch of our spiritual growth: they are our immediate connection with God, which is your desire to please on a daily basis.
+The way we think of things is all too real for a rational person to think through. The world we live in is a world of illusions and deceptive ideas, and it is easy to imagine a world where information is a commodity. But in our lives we make mistakes and we have to make them. Things do not seem so clear to our eyes, and the feelings we feel are what guide us by way of the most convincing illusions. To deal with them is as difficult because the feeling we make is far from a reality.
+SEO
+We are all different people, different in many things, different in our relationships, so I want you to think before you think about us, and before you follow any judgments.
+BENEFITS OF LOVE
+We love each other deeply and deeply. We love each other for those things that make
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 50: loss 3.7074, time 75103.05ms
+iter 51: loss 3.8502, time 2306.03ms
+iter 52: loss 3.7902, time 2314.63ms
+iter 53: loss 3.6944, time 2337.68ms
+iter 54: loss 3.9071, time 2324.68ms
+iter 55: loss 4.0990, time 2338.67ms
+iter 56: loss 3.8971, time 2314.57ms
+iter 57: loss 3.7325, time 2337.62ms
+iter 58: loss 3.9474, time 2352.39ms
+iter 59: loss 4.0639, time 2343.13ms
+iter 60: loss 3.7697, time 2319.69ms
+iter 61: loss 4.0061, time 2326.21ms
+iter 62: loss 3.7194, time 2320.87ms
+iter 63: loss 3.6831, time 2326.96ms
+iter 64: loss 4.0055, time 2340.53ms
+iter 65: loss 3.3780, time 2322.22ms
+iter 66: loss 3.4179, time 2305.72ms
+iter 67: loss 3.7895, time 2337.85ms
+iter 68: loss 3.4687, time 2326.24ms
+iter 69: loss 3.9074, time 2344.16ms
+iter 70: loss 4.1284, time 2329.37ms
+iter 71: loss 3.9654, time 2323.75ms
+iter 72: loss 3.7495, time 2330.02ms
+iter 73: loss 3.6839, time 2315.75ms
+iter 74: loss 3.8095, time 2329.65ms
+iter 75: loss 3.7744, time 2309.63ms
+iter 76: loss 3.9353, time 2317.09ms
+iter 77: loss 3.7782, time 2323.32ms
+iter 78: loss 3.8083, time 2327.37ms
+iter 79: loss 3.8925, time 2334.75ms
+iter 80: loss 3.7166, time 2321.46ms
+iter 81: loss 3.6030, time 2335.60ms
+iter 82: loss 3.6618, time 2335.55ms
+iter 83: loss 3.5631, time 2333.84ms
+iter 84: loss 3.7936, time 2321.82ms
+iter 85: loss 3.6437, time 2326.63ms
+iter 86: loss 4.0974, time 2317.10ms
+iter 87: loss 3.7716, time 2334.31ms
+iter 88: loss 3.9703, time 2325.91ms
+iter 89: loss 3.9595, time 2337.16ms
+iter 90: loss 3.8886, time 2316.46ms
+iter 91: loss 3.5658, time 2327.78ms
+iter 92: loss 3.8616, time 2322.06ms
+iter 93: loss 3.7751, time 2329.20ms
+iter 94: loss 3.9990, time 2314.67ms
+iter 95: loss 3.3777, time 2325.61ms
+iter 96: loss 3.7846, time 2340.07ms
+iter 97: loss 4.0874, time 2322.92ms
+iter 98: loss 3.6568, time 2335.44ms
+iter 99: loss 3.7984, time 2326.48ms
+estimating train and val loss...
+step 100: train loss 3.6156, val loss 3.4627
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+To be or not to be
+Here is an example of how to make a great thing of yourself
+Behold, my good friend,
+Think of yourself as my servant
+To-morrow, when I shall be ready.
+O good friend!
+Now, have you all a good time?
+We were already at our right places, so you should hear them.
+We were very well on my way, and am full of spirits.
+No, have you not now left your quarters,
+And my master knows he is going to be gone.
+I fear I shall bury him.
+In my own house, at home, I am always gone.
+Therefore, take some good time and find me
+Behold, my good friend!
+To-morrow night, go and find me.
+Thus wise, my lord: The well to be known
+For what he has done to me.
+He has made me know
+What he is doing.
+And come, let me be up to him
+Where he is.
+With whom I have looked ever since,
+And shall keep up, and shall rise, and shall fall,
+For the honour which he
+---------------
+To be or not to be, God has made me his best assistant, and I am his perfect servant.
+What else will I think of him, then, than he who has been raised with a high school education?
+Why, for the sake of the world, I have known him; for I know that he has been the highest scholar of his time in the world.
+As for all the rest, the King says it is his wisdom, for he said it himself when he was young.
+And what is his view of the world, then?
+Indeed, I do not know how to answer his question.
+If he were to answer it, it would seem that he was ignorant of things, no more than the most ignorant man that can lie.
+He was not a Christian, and he too was foolish as thou wilt find, from what he could find, that there were no gods and no gods to worship.
+Who, then, is it that should answer the question?
+He that doeth not know Christ, and yet does not know himself, and yet does not know himself, and yet doeth not know himself, yet does not know himself, and yet does not know himself
+---------------
+To be or not to be a man,
+Of man's body,
+And by his blood,
+To be or not to be a man,
+And by his choice,
+To be or not to be a man.
+CAMBRIDGE OF HISTORY
+The time came when the great monarch George III. had left the land of Ireland, and settled upon the old lands, and he received instruction from another prince, who was equally beloved with him. He intended to be king of England, and to govern in the royal house. The Prince of Wales, with a more sober and eloquent character than our older, was appointed to govern the kingdom.
+The Prince of York had been in the highest position of the kingdom, and was with him that most noble and noble monarch, and most noble princes and princes of this land, till his death.
+This Prince was to be a king and a queen of Northumberland, and be the queen of England, of Ireland; and by his marriage with the new queen, he would become a crown prince of England, and most of her subjects, who would not be without some of the rights which it was lawful to confer upon themselves; and he would rule Northumberland.
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 100: loss 3.8325, time 71036.20ms
+iter 101: loss 3.7185, time 2315.61ms
+iter 102: loss 3.5927, time 2311.13ms
+iter 103: loss 3.7820, time 2334.43ms
+iter 104: loss 3.6110, time 2336.75ms
+iter 105: loss 3.7679, time 2334.25ms
+iter 106: loss 3.5799, time 2331.21ms
+iter 107: loss 3.6556, time 2326.37ms
+iter 108: loss 3.6741, time 2327.72ms
+iter 109: loss 3.9061, time 2340.09ms
+iter 110: loss 4.0557, time 2323.12ms
+iter 111: loss 3.6774, time 2331.27ms
+iter 112: loss 3.6232, time 2324.61ms
+iter 113: loss 3.7905, time 2325.99ms
+iter 114: loss 3.6779, time 2326.42ms
+iter 115: loss 3.8974, time 2331.20ms
+iter 116: loss 3.7575, time 2318.19ms
+iter 117: loss 3.6871, time 2345.00ms
+iter 118: loss 3.8692, time 2305.84ms
+iter 119: loss 3.6722, time 2328.49ms
+iter 120: loss 3.5166, time 2322.35ms
+iter 121: loss 3.8735, time 2316.84ms
+iter 122: loss 3.5976, time 2338.30ms
+iter 123: loss 3.6213, time 2331.33ms
+iter 124: loss 3.7900, time 2309.00ms
+iter 125: loss 3.6783, time 2321.77ms
+iter 126: loss 3.3844, time 2328.96ms
+iter 127: loss 3.6208, time 2346.04ms
+iter 128: loss 3.6015, time 2333.80ms
+iter 129: loss 3.5743, time 2311.08ms
+iter 130: loss 3.7512, time 2322.51ms
+iter 131: loss 3.6680, time 2304.03ms
+iter 132: loss 3.3726, time 2313.92ms
+iter 133: loss 3.8146, time 2321.46ms
+iter 134: loss 3.8355, time 2352.87ms
+iter 135: loss 3.3743, time 2325.89ms
+iter 136: loss 3.8708, time 2310.99ms
+iter 137: loss 3.7507, time 2327.80ms
+iter 138: loss 3.6243, time 2337.67ms
+iter 139: loss 3.6961, time 2326.66ms
+iter 140: loss 3.4429, time 2313.60ms
+iter 141: loss 3.7848, time 2345.55ms
+iter 142: loss 3.4932, time 2334.16ms
+iter 143: loss 3.3659, time 2350.56ms
+iter 144: loss 3.8120, time 2318.41ms
+iter 145: loss 3.4632, time 2323.10ms
+iter 146: loss 3.7820, time 2338.17ms
+iter 147: loss 3.7097, time 2325.54ms
+iter 148: loss 3.6815, time 2327.42ms
+iter 149: loss 3.8388, time 2325.03ms
+estimating train and val loss...
+step 150: train loss 3.5065, val loss 3.4572
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+To be or not to be, or not to be to be, was not the right of the man to make his turn.
+Wherefore, my lord, if indeed you said that you were a slave of Neptune, and yet your tongue cannot cure your disease, you cannot show your humility, nor let your goodness prove your worth. You are a beggar by your tongue: and after you have told yourself so, you will make no distinction between your worth and your defects.
+You cannot, therefore, in future show that your virtue does not make you a beggar, nor your faults make you a man!
+You have no proof of your worth, nor is it good for you to lie in a lie.
+You do not hide your faults, nor does it make you an honest man.
+You do not answer your wife's request of secrecy, nor do you betray your sins;
+but what is better do you do not speak your wife's name to you: but, while she is a beggar, plead with her your poor nature, and she will confess your faults to the king.
+For I cannot comfort you to hear good men lie, nor so much as to do her a mild injury:
+---------------
+To be or not to be:
+For I am for a man that is ready for full redemption of his sins;
+For my sins shall be my reward, and not my death.
+1 Timothy 2:13
+We went out next door, and no one brought us, but we were told that he had escaped.
+Then came up.
+But we were much surprised by the return of our own children.
+They were told, that they had been sent by God to repent from the sins they had committed.
+But they said that this, being a bad marriage, they had not yet committed.
+They said that they had been drawn into the church by faith and friendship and had come hither to do the same, but they had not yet restored the faith.
+So they had not yet had the witness of their own sin; but they had been brought hither to repent, and had not yet done so.
+Then we heard them say, that there was a man there who had been wronged:
+And they were saying, that it was not a sin for him that should be condemned.
+But it was not a sin for him that should be condemned.
+We were now
+---------------
+To be or not to be
+It is often reported that when the Duke of York and his guards were in the chamber, they were murdered by the Duke of Cornwall, and their head was taken, and they were both hanged. But I do not deny that this thing happened. He died a poor man; but he remained in his poverty, and now it was like a curse on him to see his heads being drenched, or his feet being drenched; and he was stoned to death in the sight of such a grave.
+DREWINGHAM:
+Why, that is the case.
+HAMILTON:
+And yet, you hear the King.
+Let me say,
+We then shall have our vengeance.
+DREWINGHAM:
+Sir,
+Sir, the thing is, that I shall fight the King to the death; but I shall lose all my blood and suffer the fire to burn.
+HAMILTON:
+Well, I'll fight him the King, and he shall have nothing.
+DREWINGHAM:
+And therefore,
+You shall not be pleased, sir, to hear me in this matter, when I fight the King in the court of thy
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 150: loss 3.4181, time 71138.30ms
+iter 151: loss 3.6395, time 2311.99ms
+iter 152: loss 3.6852, time 2319.42ms
+iter 153: loss 3.4535, time 2327.40ms
+iter 154: loss 3.9402, time 2328.70ms
+iter 155: loss 3.7250, time 2327.84ms
+iter 156: loss 3.6261, time 2335.43ms
+iter 157: loss 3.5179, time 2338.17ms
+iter 158: loss 3.6345, time 2335.24ms
+iter 159: loss 3.7710, time 2309.07ms
+iter 160: loss 3.7088, time 2305.87ms
+iter 161: loss 3.7465, time 2323.53ms
+iter 162: loss 3.4805, time 2338.85ms
+iter 163: loss 3.5368, time 2330.98ms
+iter 164: loss 3.4818, time 2333.77ms
+iter 165: loss 3.8618, time 2322.12ms
+iter 166: loss 3.4213, time 2316.15ms
+iter 167: loss 3.4212, time 2326.22ms
+iter 168: loss 3.5803, time 2334.11ms
+iter 169: loss 3.7838, time 2323.70ms
+iter 170: loss 3.8732, time 2330.79ms
+iter 171: loss 3.9777, time 2338.47ms
+iter 172: loss 3.7504, time 2328.32ms
+iter 173: loss 3.2200, time 2311.75ms
+iter 174: loss 3.7502, time 2317.74ms
+iter 175: loss 3.4608, time 2306.16ms
+iter 176: loss 3.6407, time 2312.29ms
+iter 177: loss 3.5610, time 2314.09ms
+iter 178: loss 3.5102, time 2324.41ms
+iter 179: loss 3.6278, time 2330.93ms
+iter 180: loss 3.5992, time 2327.12ms
+iter 181: loss 3.7479, time 2322.16ms
+iter 182: loss 3.8259, time 2303.79ms
+iter 183: loss 3.5657, time 2330.26ms
+iter 184: loss 3.5747, time 2321.02ms
+iter 185: loss 3.7074, time 2338.66ms
+iter 186: loss 3.4492, time 2346.68ms
+iter 187: loss 3.8706, time 2319.19ms
+iter 188: loss 3.4048, time 2328.52ms
+iter 189: loss 3.5812, time 2322.95ms
+iter 190: loss 3.7402, time 2324.67ms
+iter 191: loss 3.4551, time 2334.35ms
+iter 192: loss 3.6941, time 2317.34ms
+iter 193: loss 3.6319, time 2333.23ms
+iter 194: loss 3.4928, time 2324.34ms
+iter 195: loss 3.6283, time 2332.71ms
+iter 196: loss 3.5386, time 2310.07ms
+iter 197: loss 3.4933, time 2320.11ms
+iter 198: loss 3.7407, time 2310.12ms
+iter 199: loss 3.5446, time 2334.31ms
+estimating train and val loss...
+step 200: train loss 3.4458, val loss 3.3951
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+To be or not to be, so that both you are or are not
+Some sort of fickle, or not so.
+SIR KELLY:
+How I am, sir, in all the trouble and peril of my life.
+KING EDWARD VI:
+Truly, sir, you are a noble knight, and have done thy duty toward them.
+ARTHUR:
+Did I say so?
+KING EDWARD VI:
+I mean not that.
+ARTHUR:
+How so, sir?
+KING EDWARD VI:
+My noble lord, sir, told me you were the king.
+ARTHUR:
+The king?
+KING EDWARD VI:
+I am not the king, sir, since I was the king.
+ARTHUR:
+Not according to my heart's wont.
+KING EDWARD VI:
+Unspeakably, I suppose, the king's heart's wont.
+ARTHUR:
+I know why he says so.
+KING EDWARD VI:
+Why not the King's?
+ARTHUR:
+No, the king.
+KING EDWARD VI:
+And not too
+---------------
+To be or not to be, will you find it difficult?
+Sir:
+When Aeschylus' quarrel is over, find him and his wife there.
+ESECIO:
+Madam:
+I'll come to them as soon as you can.
+HENRY:
+Where'd all the noble houses come from?
+ESECIO:
+The chamberlain's mother.
+HENRY:
+I'll go with her, and I'll come with you, and you'll have both.
+ESECIO:
+Madam, do you have a daughter?
+HENRY:
+Yes:
+Come with me.
+ESECIO:
+Madam, if we were dead, my father would not have taken his wife;
+I do not think he would have loved her.
+HENRY:
+I love you so much, that I wish my daughter to be made a queen.
+ESECIO:
+If I should betray her I would make a king, to make Queen Coriolis a queen.
+HENRY:
+But my daughter would be a queen without her father.
+ESECIO:
+Madam
+---------------
+To be or not to be, to be or not to be
+To be or not to be, a thing
+Or to be or not to be, a thing which would
+Be or not to be, a thing
+And not to be, a thing which would
+Be or not to be, a thing
+For to be or not to be, a thing
+For to be or not to be, a thing
+And not to be, a thing
+Which would be or not to be, a thing
+And not to be, a thing
+For to be or not to be, a thing
+And not to be, a thing
+And not to be, a thing
+And not to be, a thing
+And not to be, a thing
+And not to be, a thing
+And not to be, a thing
+And not to be, a thing
+Once a day: so that by means of oars, the horn
+Is like a branch within a branch: and there is
+Such a branch within itself that the horn
+Is like a branch within itself
+And such a branch within itself
+That a branch within itself may be so,
+And such a branch within itself may be so,
+As a part
+---------------
+saving checkpoint to out-shakespeare
+Saving model weights to Weights & Biases Artifacts
+iter 200: loss 3.4244, time 71144.43ms
+iter 201: loss 3.4634, time 2336.51ms
+iter 202: loss 3.5910, time 2321.02ms
+iter 203: loss 3.5607, time 2327.83ms
+iter 204: loss 3.7408, time 2319.19ms
+iter 205: loss 3.8136, time 2335.82ms
+iter 206: loss 3.7010, time 2343.36ms
+iter 207: loss 3.8234, time 2324.90ms
+iter 208: loss 3.6190, time 2317.36ms
+iter 209: loss 3.6356, time 2330.57ms
+iter 210: loss 3.2967, time 2314.49ms
+iter 211: loss 3.6886, time 2322.21ms
+iter 212: loss 3.5938, time 2315.56ms
+iter 213: loss 3.5821, time 2324.35ms
+iter 214: loss 3.7235, time 2322.32ms
+iter 215: loss 3.8104, time 2323.57ms
+iter 216: loss 3.5794, time 2328.79ms
+iter 217: loss 3.4461, time 2330.54ms
+iter 218: loss 3.4533, time 2327.94ms
+iter 219: loss 3.2367, time 2302.64ms
+iter 220: loss 3.4284, time 2329.18ms
+iter 221: loss 3.2235, time 2322.74ms
+iter 222: loss 3.3272, time 2315.00ms
+iter 223: loss 3.7458, time 2335.27ms
+iter 224: loss 3.6216, time 2324.23ms
+iter 225: loss 3.6604, time 2316.22ms
+iter 226: loss 3.6989, time 2301.05ms
+iter 227: loss 3.6376, time 2322.33ms
+iter 228: loss 3.9366, time 2311.96ms
+iter 229: loss 3.7185, time 2336.38ms
+iter 230: loss 3.4903, time 2327.62ms
+iter 231: loss 3.5554, time 2313.25ms
+iter 232: loss 3.7410, time 2320.69ms
+iter 233: loss 3.8164, time 2329.93ms
+iter 234: loss 3.5932, time 2319.76ms
+iter 235: loss 3.4751, time 2319.31ms
+iter 236: loss 3.8821, time 2307.43ms
+iter 237: loss 3.6564, time 2326.54ms
+iter 238: loss 3.9378, time 2341.34ms
+iter 239: loss 3.2088, time 2327.94ms
+iter 240: loss 3.5816, time 2314.74ms
+iter 241: loss 3.5381, time 2345.46ms
+iter 242: loss 3.7567, time 2333.57ms
+iter 243: loss 3.5182, time 2315.40ms
+iter 244: loss 3.6010, time 2333.08ms
+iter 245: loss 3.4387, time 2330.61ms
+iter 246: loss 3.6446, time 2329.98ms
+iter 247: loss 3.6771, time 2329.34ms
+iter 248: loss 3.6621, time 2314.28ms
+iter 249: loss 3.8234, time 2311.36ms
+estimating train and val loss...
+step 250: train loss 3.4271, val loss 3.3395
+generating samples...
+No meta.pkl found, assuming GPT-2 encodings...
+To be or not to be: which is the most perfect thing.
+LUCIO:
+O, wouldst thou, my brother, have been the same to me?
+LUCIO:
+You would not.
+LUCIO:
+And then, sir, of this I deny that nor do you know.
+LUCIO:
+I will not.
+LUCIO:
+What, shall we meet?
+LUCIO:
+I will not meet.
+LUCIO:
+You cannot; but I have an old friend!
+LUCIO:
+What, you have lost your friend?
+LUCIO:
+Jealousy, perhaps,
+That is, the shame of it.
+LUCIO:
+Ah, dear Lord, you hate your friend.
+LUCIO:
+I love my friend; but I have done this in my part, and have not yet slept.
+My soul has not slept.
+LUCIO:
+Ay, dear Lord, I would not.
+LUCIO:
+What, have you two come to a happy end?
+LUCIO:
+Lately I have
+---------------
+To be or not to be; to be or not to be,
+To be or not to be; to be or not to be; to be or not to be;
+To be or not to be; to be or not to be; to be or not to be;
+To be or not to be; to be or not to be; to be or not to be;
+To be or not to be; to be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or not to be; to be or not to be;
+To be or
+---------------
+To be or not to be.
+QUEEN:
+You see, I would have you know what a man o'er the hills upon the top of that hill is.
+JOHN:
+And what a man in the hills;
+That, as I understand, he is a man of account,
+Who wears all her clothes upon the neck and on the head of his
+new garments,
+And that she bears the same clothes upon her shoulders,
+When, if he is ever present, she pays his fees.
+QUEEN:
+It be not so; but if she should stay,
+She will not stay with you.
+JOHN:
+Why, the lady of your mother's that love you,
+She lives it long.
+CORIOLANUS:
+If you make your love your own,
+If you lose your vows,
+If you love your wife,
+If you lose your wife's,
+If you love your daughter,
+Who says you are not worthy of your love?
+QUEEN:
+I cannot live.
+CORIOLANUS:
+You have not.
+QUEEN:
+I have not.
+CORIOL
+---------------
+saving checkpoint to out-shakespeare

@@ -1,0 +1,133 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.9
+    code_path: code/main.py
+    framework: huggingface
+    huggingface_version: 4.25.1
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.8.12
+    start_time: 1674051339.232985
+    t:
+      1:
+      - 1
+      - 2
+      - 3
+      - 11
+      - 49
+      - 55
+      2:
+      - 1
+      - 2
+      - 3
+      - 11
+      - 49
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.8.12
+      5: 0.13.9
+      6: 4.25.1
+      8:
+      - 5
+abs_dir:
+  desc: null
+  value: home/runner/nanoGPT-in-Replit/nanoGPT
+always_save_checkpoint:
+  desc: null
+  value: false
+backend:
+  desc: null
+  value: nccl
+batch_size:
+  desc: null
+  value: 4
+beta1:
+  desc: null
+  value: 0.9
+beta2:
+  desc: null
+  value: 0.95
+block_size:
+  desc: null
+  value: 512
+compile:
+  desc: null
+  value: false
+dataset:
+  desc: null
+  value: shakespeare
+decay_lr:
+  desc: null
+  value: true
+device:
+  desc: null
+  value: cuda
+dropout:
+  desc: null
+  value: 0.1
+dtype:
+  desc: null
+  value: float32
+eval_interval:
+  desc: null
+  value: 50
+eval_iters:
+  desc: null
+  value: 50
+eval_only:
+  desc: null
+  value: false
+gradient_accumulation_steps:
+  desc: null
+  value: 2
+init_from:
+  desc: null
+  value: gpt2
+learning_rate:
+  desc: null
+  value: 1.0e-05
+log_interval:
+  desc: null
+  value: 1
+lr_decay_iters:
+  desc: null
+  value: 1000
+max_iters:
+  desc: null
+  value: 1000
+min_lr:
+  desc: null
+  value: 1.0e-06
+n_embd:
+  desc: null
+  value: 768
+n_head:
+  desc: null
+  value: 12
+n_layer:
+  desc: null
+  value: 12
+out_dir:
+  desc: null
+  value: out-shakespeare
+wandb_log:
+  desc: null
+  value: true
+wandb_project:
+  desc: null
+  value: shakespeare-on-replit
+wandb_run_name:
+  desc: null
+  value: ft-1674051320.9238033
+warmup_iters:
+  desc: null
+  value: 50
+weight_decay:
+  desc: null
+  value: 0.01
